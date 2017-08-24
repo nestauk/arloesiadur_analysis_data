@@ -1,7 +1,7 @@
 # [What are the tech networking trends in Wales?](https://arloesiadur.org/themes/what-are-the-tech-networking-trends-in-wales)
 
-## Raw Data Source 
-* Meetup.com
+## Raw Data Sources 
+* [Meetup](https://www.meetup.com/)
 * [GeoJSON](http://martinjc.github.io/UK-GeoJSON/)
 
 ## Features
