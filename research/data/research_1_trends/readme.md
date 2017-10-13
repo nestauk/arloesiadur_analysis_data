@@ -1,5 +1,5 @@
 # Reasearch trends data
-Data for a visualisation representing research trends in Wales and its Principal Areas. Includes information about projects awarded and funded by high-level discipline and research topic which were led by organisations based in Wales or the relevant research area.
+Data for a visualisation representing research trends in Wales and its Principal Areas. Includes information about projects awarded and funded by high-level discipline and research topic which were led by organisations based in Wales or the relevant principal area.
 
 ## Data dictionary
 
