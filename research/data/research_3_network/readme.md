@@ -7,7 +7,7 @@ Data for a network visualisation representing existing research collaboration ne
 
 See [here](https://arloesiadur.org/stories/how-we-used-research-data-in-arloesiadur) for more information about data collection and processing
 
-The data is available in 2 files:
+The data are available in 2 files:
 
 ## node_metadata.csv
 
