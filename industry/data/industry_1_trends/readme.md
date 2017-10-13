@@ -1,8 +1,11 @@
+# Industry trends data
+Data for a visualisation representing economic activity in Wales and its Principal Areas by industry. Includes employment, business counts and location quotients (variables normalised by UK averages to represent relative specialisation)
+
 # Data dictionary
 
-**Period**: 2011-2015
-**Source**: ONS
-**Unit of analysis:** locations (Wales and Welsh Principal Areas)
+* **Period**: 2011-2015 
+* **Source**: ONS 
+* **Unit of analysis:** locations (Wales and Welsh Principal Areas)
 
 missing values indicated with *
 
