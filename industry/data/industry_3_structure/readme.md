@@ -21,9 +21,7 @@ See [here](https://arloesiadur.org/stories/analysing-industrial-data) for more i
 * **median_salary_decile**: median salary decile
 * **uniqueness_score**: uniqueness score for industry based on complexity analysis (normalised index) 
 * **uniqueness_decile**: uniqueness decile
-* **high_prob_lads_n**: number of lads with high probability of becoming more specialised 
- * (only for location = Wales or London, otherwise it is *)
-* **future_dev_prediction:** Probability that the location will gain specialisation in the area 
- * (only for LADs, missing (*) for Wales)
+* **high_prob_lads_n**: number of lads with high probability of becoming more specialised (only for location = Wales or London, otherwise it is *)
+* **future_dev_prediction:** Probability that the location will gain specialisation in the area (only for LADs, missing (*) for Wales)
 * **business_counts_lq**: business count Location quotient
 * **employment_lq**: employment location quotient
