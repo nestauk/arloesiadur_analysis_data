@@ -28,7 +28,7 @@
 * **Target (str)**: Number of tags/target nodes used by Meetup groups. This dataset leads to a maximum spanning tree.
 * **Weight (int)**: Co occurrence of tags.
 
-## Dataset 4: lq_tags_welsh_tags.csv
+## Dataset 4: lq_tags_welsh_lads.csv
 
 ### Raw Data Source
 * [Meetup](https://www.meetup.com/)

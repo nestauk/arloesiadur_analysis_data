@@ -1,0 +1,1521 @@
+,num_attendants,num_events,LAD,comparative_adv,year,Topics,broad_topic
+0,0,0.0,Wales,0.0,2012,Fintech,Fintech
+1,0,0.0,Wales,0.0,2013,Fintech,Fintech
+2,0,0.0,Wales,0.0,2014,Fintech,Fintech
+3,0,0.0,Wales,0.0,2015,Fintech,Fintech
+4,0,0.0,Wales,0.0,2016,Fintech,Fintech
+5,0,0.0,Cardiff,0.0,2012,Fintech,Fintech
+6,0,0.0,Cardiff,0.0,2013,Fintech,Fintech
+7,0,0.0,Cardiff,0.0,2014,Fintech,Fintech
+8,0,0.0,Cardiff,0.0,2015,Fintech,Fintech
+9,0,0.0,Cardiff,0.0,2016,Fintech,Fintech
+10,0,0.0,Pembrokeshire,0.0,2012,Fintech,Fintech
+11,0,0.0,Pembrokeshire,0.0,2013,Fintech,Fintech
+12,0,0.0,Pembrokeshire,0.0,2014,Fintech,Fintech
+13,0,0.0,Pembrokeshire,0.0,2015,Fintech,Fintech
+14,0,0.0,Pembrokeshire,0.0,2016,Fintech,Fintech
+15,0,0.0,Blaenau Gwent,0.0,2012,Fintech,Fintech
+16,0,0.0,Blaenau Gwent,0.0,2013,Fintech,Fintech
+17,0,0.0,Blaenau Gwent,0.0,2014,Fintech,Fintech
+18,0,0.0,Blaenau Gwent,0.0,2015,Fintech,Fintech
+19,0,0.0,Blaenau Gwent,0.0,2016,Fintech,Fintech
+20,0,0.0,Monmouthshire,0.0,2012,Fintech,Fintech
+21,0,0.0,Monmouthshire,0.0,2013,Fintech,Fintech
+22,0,0.0,Monmouthshire,0.0,2014,Fintech,Fintech
+23,0,0.0,Monmouthshire,0.0,2015,Fintech,Fintech
+24,0,0.0,Monmouthshire,0.0,2016,Fintech,Fintech
+25,0,0.0,Swansea,0.0,2012,Fintech,Fintech
+26,0,0.0,Swansea,0.0,2013,Fintech,Fintech
+27,0,0.0,Swansea,0.0,2014,Fintech,Fintech
+28,0,0.0,Swansea,0.0,2015,Fintech,Fintech
+29,0,0.0,Swansea,0.0,2016,Fintech,Fintech
+30,0,0.0,Gwynedd,0.0,2012,Fintech,Fintech
+31,0,0.0,Gwynedd,0.0,2013,Fintech,Fintech
+32,0,0.0,Gwynedd,0.0,2014,Fintech,Fintech
+33,0,0.0,Gwynedd,0.0,2015,Fintech,Fintech
+34,0,0.0,Gwynedd,0.0,2016,Fintech,Fintech
+35,0,0.0,Carmarthenshire,0.0,2012,Fintech,Fintech
+36,0,0.0,Carmarthenshire,0.0,2013,Fintech,Fintech
+37,0,0.0,Carmarthenshire,0.0,2014,Fintech,Fintech
+38,0,0.0,Carmarthenshire,0.0,2015,Fintech,Fintech
+39,0,0.0,Carmarthenshire,0.0,2016,Fintech,Fintech
+40,0,0.0,Wales,0.0,2012,Wordpress,Editorial
+41,0,0.0,Wales,0.0,2013,Wordpress,Editorial
+42,0,0.0,Wales,0.0,2014,Wordpress,Editorial
+43,21,5.0,Wales,0.20811574299599436,2015,Wordpress,Editorial
+44,4,1.0,Wales,0.037964076874285865,2016,Wordpress,Editorial
+45,0,0.0,Cardiff,0.0,2012,Wordpress,Editorial
+46,0,0.0,Cardiff,0.0,2013,Wordpress,Editorial
+47,0,0.0,Cardiff,0.0,2014,Wordpress,Editorial
+48,0,0.0,Cardiff,0.0,2015,Wordpress,Editorial
+49,0,0.0,Cardiff,0.0,2016,Wordpress,Editorial
+50,0,0.0,Pembrokeshire,0.0,2012,Wordpress,Editorial
+51,0,0.0,Pembrokeshire,0.0,2013,Wordpress,Editorial
+52,0,0.0,Pembrokeshire,0.0,2014,Wordpress,Editorial
+53,21,5.0,Pembrokeshire,2.503579688757064,2015,Wordpress,Editorial
+54,4,1.0,Pembrokeshire,0.4566982314581711,2016,Wordpress,Editorial
+55,0,0.0,Blaenau Gwent,0.0,2012,Wordpress,Editorial
+56,0,0.0,Blaenau Gwent,0.0,2013,Wordpress,Editorial
+57,0,0.0,Blaenau Gwent,0.0,2014,Wordpress,Editorial
+58,0,0.0,Blaenau Gwent,0.0,2015,Wordpress,Editorial
+59,0,0.0,Blaenau Gwent,0.0,2016,Wordpress,Editorial
+60,0,0.0,Monmouthshire,0.0,2012,Wordpress,Editorial
+61,0,0.0,Monmouthshire,0.0,2013,Wordpress,Editorial
+62,0,0.0,Monmouthshire,0.0,2014,Wordpress,Editorial
+63,0,0.0,Monmouthshire,0.0,2015,Wordpress,Editorial
+64,0,0.0,Monmouthshire,0.0,2016,Wordpress,Editorial
+65,0,0.0,Swansea,0.0,2012,Wordpress,Editorial
+66,0,0.0,Swansea,0.0,2013,Wordpress,Editorial
+67,0,0.0,Swansea,0.0,2014,Wordpress,Editorial
+68,0,0.0,Swansea,0.0,2015,Wordpress,Editorial
+69,0,0.0,Swansea,0.0,2016,Wordpress,Editorial
+70,0,0.0,Gwynedd,0.0,2012,Wordpress,Editorial
+71,0,0.0,Gwynedd,0.0,2013,Wordpress,Editorial
+72,0,0.0,Gwynedd,0.0,2014,Wordpress,Editorial
+73,0,0.0,Gwynedd,0.0,2015,Wordpress,Editorial
+74,0,0.0,Gwynedd,0.0,2016,Wordpress,Editorial
+75,0,0.0,Carmarthenshire,0.0,2012,Wordpress,Editorial
+76,0,0.0,Carmarthenshire,0.0,2013,Wordpress,Editorial
+77,0,0.0,Carmarthenshire,0.0,2014,Wordpress,Editorial
+78,0,0.0,Carmarthenshire,0.0,2015,Wordpress,Editorial
+79,0,0.0,Carmarthenshire,0.0,2016,Wordpress,Editorial
+80,0,0.0,Wales,0.0,2012,Programming,Software Development
+81,272,27.0,Wales,0.28532927605602965,2013,Programming,Software Development
+82,509,34.0,Wales,0.3348721942425081,2014,Programming,Software Development
+83,1574,117.0,Wales,0.6935672703274375,2015,Programming,Software Development
+84,1608,111.0,Wales,0.5640608851350338,2016,Programming,Software Development
+85,0,0.0,Cardiff,0.0,2012,Programming,Software Development
+86,272,27.0,Cardiff,0.7451830054773835,2013,Programming,Software Development
+87,262,26.0,Cardiff,0.4496328864704802,2014,Programming,Software Development
+88,992,81.0,Cardiff,1.1235145757549192,2015,Programming,Software Development
+89,1088,85.0,Cardiff,0.9809616109494572,2016,Programming,Software Development
+90,0,0.0,Pembrokeshire,0.0,2012,Programming,Software Development
+91,0,0.0,Pembrokeshire,0.0,2013,Programming,Software Development
+92,0,0.0,Pembrokeshire,0.0,2014,Programming,Software Development
+93,0,0.0,Pembrokeshire,0.0,2015,Programming,Software Development
+94,0,0.0,Pembrokeshire,0.0,2016,Programming,Software Development
+95,0,0.0,Blaenau Gwent,0.0,2012,Programming,Software Development
+96,0,0.0,Blaenau Gwent,0.0,2013,Programming,Software Development
+97,0,0.0,Blaenau Gwent,0.0,2014,Programming,Software Development
+98,0,0.0,Blaenau Gwent,0.0,2015,Programming,Software Development
+99,0,0.0,Blaenau Gwent,0.0,2016,Programming,Software Development
+100,0,0.0,Monmouthshire,0.0,2012,Programming,Software Development
+101,0,0.0,Monmouthshire,0.0,2013,Programming,Software Development
+102,0,0.0,Monmouthshire,0.0,2014,Programming,Software Development
+103,0,0.0,Monmouthshire,0.0,2015,Programming,Software Development
+104,13,2.0,Monmouthshire,0.06861255802559953,2016,Programming,Software Development
+105,0,0.0,Swansea,0.0,2012,Programming,Software Development
+106,0,0.0,Swansea,0.0,2013,Programming,Software Development
+107,247,8.0,Swansea,0.7911901604484594,2014,Programming,Software Development
+108,511,18.0,Swansea,1.1094189806830002,2015,Programming,Software Development
+109,95,6.0,Swansea,0.16419290044912885,2016,Programming,Software Development
+110,0,0.0,Gwynedd,0.0,2012,Programming,Software Development
+111,0,0.0,Gwynedd,0.0,2013,Programming,Software Development
+112,0,0.0,Gwynedd,0.0,2014,Programming,Software Development
+113,46,2.0,Gwynedd,0.2021852639194968,2015,Programming,Software Development
+114,412,18.0,Gwynedd,1.4416006231086134,2016,Programming,Software Development
+115,0,0.0,Carmarthenshire,0.0,2012,Programming,Software Development
+116,0,0.0,Carmarthenshire,0.0,2013,Programming,Software Development
+117,0,0.0,Carmarthenshire,0.0,2014,Programming,Software Development
+118,25,16.0,Carmarthenshire,0.08927692329267102,2015,Programming,Software Development
+119,0,0.0,Carmarthenshire,0.0,2016,Programming,Software Development
+120,0,0.0,Wales,0.0,2012,Business Analysis,Business
+121,0,0.0,Wales,0.0,2013,Business Analysis,Business
+122,0,0.0,Wales,0.0,2014,Business Analysis,Business
+123,0,0.0,Wales,0.0,2015,Business Analysis,Business
+124,0,0.0,Wales,0.0,2016,Business Analysis,Business
+125,0,0.0,Cardiff,0.0,2012,Business Analysis,Business
+126,0,0.0,Cardiff,0.0,2013,Business Analysis,Business
+127,0,0.0,Cardiff,0.0,2014,Business Analysis,Business
+128,0,0.0,Cardiff,0.0,2015,Business Analysis,Business
+129,0,0.0,Cardiff,0.0,2016,Business Analysis,Business
+130,0,0.0,Pembrokeshire,0.0,2012,Business Analysis,Business
+131,0,0.0,Pembrokeshire,0.0,2013,Business Analysis,Business
+132,0,0.0,Pembrokeshire,0.0,2014,Business Analysis,Business
+133,0,0.0,Pembrokeshire,0.0,2015,Business Analysis,Business
+134,0,0.0,Pembrokeshire,0.0,2016,Business Analysis,Business
+135,0,0.0,Blaenau Gwent,0.0,2012,Business Analysis,Business
+136,0,0.0,Blaenau Gwent,0.0,2013,Business Analysis,Business
+137,0,0.0,Blaenau Gwent,0.0,2014,Business Analysis,Business
+138,0,0.0,Blaenau Gwent,0.0,2015,Business Analysis,Business
+139,0,0.0,Blaenau Gwent,0.0,2016,Business Analysis,Business
+140,0,0.0,Monmouthshire,0.0,2012,Business Analysis,Business
+141,0,0.0,Monmouthshire,0.0,2013,Business Analysis,Business
+142,0,0.0,Monmouthshire,0.0,2014,Business Analysis,Business
+143,0,0.0,Monmouthshire,0.0,2015,Business Analysis,Business
+144,0,0.0,Monmouthshire,0.0,2016,Business Analysis,Business
+145,0,0.0,Swansea,0.0,2012,Business Analysis,Business
+146,0,0.0,Swansea,0.0,2013,Business Analysis,Business
+147,0,0.0,Swansea,0.0,2014,Business Analysis,Business
+148,0,0.0,Swansea,0.0,2015,Business Analysis,Business
+149,0,0.0,Swansea,0.0,2016,Business Analysis,Business
+150,0,0.0,Gwynedd,0.0,2012,Business Analysis,Business
+151,0,0.0,Gwynedd,0.0,2013,Business Analysis,Business
+152,0,0.0,Gwynedd,0.0,2014,Business Analysis,Business
+153,0,0.0,Gwynedd,0.0,2015,Business Analysis,Business
+154,0,0.0,Gwynedd,0.0,2016,Business Analysis,Business
+155,0,0.0,Carmarthenshire,0.0,2012,Business Analysis,Business
+156,0,0.0,Carmarthenshire,0.0,2013,Business Analysis,Business
+157,0,0.0,Carmarthenshire,0.0,2014,Business Analysis,Business
+158,0,0.0,Carmarthenshire,0.0,2015,Business Analysis,Business
+159,0,0.0,Carmarthenshire,0.0,2016,Business Analysis,Business
+160,0,0.0,Wales,0.0,2012,App development,Software Development
+161,0,0.0,Wales,0.0,2013,App development,Software Development
+162,19,2.0,Wales,0.10023990576011003,2014,App development,Software Development
+163,0,0.0,Wales,0.0,2015,App development,Software Development
+164,0,0.0,Wales,0.0,2016,App development,Software Development
+165,0,0.0,Cardiff,0.0,2012,App development,Software Development
+166,0,0.0,Cardiff,0.0,2013,App development,Software Development
+167,19,2.0,Cardiff,0.2614785820371637,2014,App development,Software Development
+168,0,0.0,Cardiff,0.0,2015,App development,Software Development
+169,0,0.0,Cardiff,0.0,2016,App development,Software Development
+170,0,0.0,Pembrokeshire,0.0,2012,App development,Software Development
+171,0,0.0,Pembrokeshire,0.0,2013,App development,Software Development
+172,0,0.0,Pembrokeshire,0.0,2014,App development,Software Development
+173,0,0.0,Pembrokeshire,0.0,2015,App development,Software Development
+174,0,0.0,Pembrokeshire,0.0,2016,App development,Software Development
+175,0,0.0,Blaenau Gwent,0.0,2012,App development,Software Development
+176,0,0.0,Blaenau Gwent,0.0,2013,App development,Software Development
+177,0,0.0,Blaenau Gwent,0.0,2014,App development,Software Development
+178,0,0.0,Blaenau Gwent,0.0,2015,App development,Software Development
+179,0,0.0,Blaenau Gwent,0.0,2016,App development,Software Development
+180,0,0.0,Monmouthshire,0.0,2012,App development,Software Development
+181,0,0.0,Monmouthshire,0.0,2013,App development,Software Development
+182,0,0.0,Monmouthshire,0.0,2014,App development,Software Development
+183,0,0.0,Monmouthshire,0.0,2015,App development,Software Development
+184,0,0.0,Monmouthshire,0.0,2016,App development,Software Development
+185,0,0.0,Swansea,0.0,2012,App development,Software Development
+186,0,0.0,Swansea,0.0,2013,App development,Software Development
+187,0,0.0,Swansea,0.0,2014,App development,Software Development
+188,0,0.0,Swansea,0.0,2015,App development,Software Development
+189,0,0.0,Swansea,0.0,2016,App development,Software Development
+190,0,0.0,Gwynedd,0.0,2012,App development,Software Development
+191,0,0.0,Gwynedd,0.0,2013,App development,Software Development
+192,0,0.0,Gwynedd,0.0,2014,App development,Software Development
+193,0,0.0,Gwynedd,0.0,2015,App development,Software Development
+194,0,0.0,Gwynedd,0.0,2016,App development,Software Development
+195,0,0.0,Carmarthenshire,0.0,2012,App development,Software Development
+196,0,0.0,Carmarthenshire,0.0,2013,App development,Software Development
+197,0,0.0,Carmarthenshire,0.0,2014,App development,Software Development
+198,0,0.0,Carmarthenshire,0.0,2015,App development,Software Development
+199,0,0.0,Carmarthenshire,0.0,2016,App development,Software Development
+200,0,0.0,Wales,0.0,2012,Databases,Data Science
+201,194,21.0,Wales,0.6789297762503719,2013,Databases,Data Science
+202,236,45.0,Wales,0.5897199918602765,2014,Databases,Data Science
+203,471,58.0,Wales,0.9423182934560717,2015,Databases,Data Science
+204,683,67.0,Wales,0.9318228942009832,2016,Databases,Data Science
+205,0,0.0,Cardiff,0.0,2012,Databases,Data Science
+206,194,21.0,Cardiff,1.773133616597378,2013,Databases,Data Science
+207,202,22.0,Cardiff,1.3166813644060091,2014,Databases,Data Science
+208,462,55.0,Cardiff,2.375756177278411,2015,Databases,Data Science
+209,445,63.0,Cardiff,1.5604715684888402,2016,Databases,Data Science
+210,0,0.0,Pembrokeshire,0.0,2012,Databases,Data Science
+211,0,0.0,Pembrokeshire,0.0,2013,Databases,Data Science
+212,0,0.0,Pembrokeshire,0.0,2014,Databases,Data Science
+213,0,0.0,Pembrokeshire,0.0,2015,Databases,Data Science
+214,0,0.0,Pembrokeshire,0.0,2016,Databases,Data Science
+215,0,0.0,Blaenau Gwent,0.0,2012,Databases,Data Science
+216,0,0.0,Blaenau Gwent,0.0,2013,Databases,Data Science
+217,0,0.0,Blaenau Gwent,0.0,2014,Databases,Data Science
+218,0,0.0,Blaenau Gwent,0.0,2015,Databases,Data Science
+219,0,0.0,Blaenau Gwent,0.0,2016,Databases,Data Science
+220,0,0.0,Monmouthshire,0.0,2012,Databases,Data Science
+221,0,0.0,Monmouthshire,0.0,2013,Databases,Data Science
+222,0,0.0,Monmouthshire,0.0,2014,Databases,Data Science
+223,0,0.0,Monmouthshire,0.0,2015,Databases,Data Science
+224,0,0.0,Monmouthshire,0.0,2016,Databases,Data Science
+225,0,0.0,Swansea,0.0,2012,Databases,Data Science
+226,0,0.0,Swansea,0.0,2013,Databases,Data Science
+227,34,23.0,Swansea,0.41365224312293736,2014,Databases,Data Science
+228,9,3.0,Swansea,0.08871765497430294,2015,Databases,Data Science
+229,238,4.0,Swansea,1.5998543966842618,2016,Databases,Data Science
+230,0,0.0,Gwynedd,0.0,2012,Databases,Data Science
+231,0,0.0,Gwynedd,0.0,2013,Databases,Data Science
+232,0,0.0,Gwynedd,0.0,2014,Databases,Data Science
+233,0,0.0,Gwynedd,0.0,2015,Databases,Data Science
+234,0,0.0,Gwynedd,0.0,2016,Databases,Data Science
+235,0,0.0,Carmarthenshire,0.0,2012,Databases,Data Science
+236,0,0.0,Carmarthenshire,0.0,2013,Databases,Data Science
+237,0,0.0,Carmarthenshire,0.0,2014,Databases,Data Science
+238,0,0.0,Carmarthenshire,0.0,2015,Databases,Data Science
+239,0,0.0,Carmarthenshire,0.0,2016,Databases,Data Science
+240,0,0.0,Wales,0.0,2012,Security & Enterprise technology - MIXED,Cyber Security
+241,0,0.0,Wales,0.0,2013,Security & Enterprise technology - MIXED,Cyber Security
+242,0,0.0,Wales,0.0,2014,Security & Enterprise technology - MIXED,Cyber Security
+243,0,0.0,Wales,0.0,2015,Security & Enterprise technology - MIXED,Cyber Security
+244,0,0.0,Wales,0.0,2016,Security & Enterprise technology - MIXED,Cyber Security
+245,0,0.0,Cardiff,0.0,2012,Security & Enterprise technology - MIXED,Cyber Security
+246,0,0.0,Cardiff,0.0,2013,Security & Enterprise technology - MIXED,Cyber Security
+247,0,0.0,Cardiff,0.0,2014,Security & Enterprise technology - MIXED,Cyber Security
+248,0,0.0,Cardiff,0.0,2015,Security & Enterprise technology - MIXED,Cyber Security
+249,0,0.0,Cardiff,0.0,2016,Security & Enterprise technology - MIXED,Cyber Security
+250,0,0.0,Pembrokeshire,0.0,2012,Security & Enterprise technology - MIXED,Cyber Security
+251,0,0.0,Pembrokeshire,0.0,2013,Security & Enterprise technology - MIXED,Cyber Security
+252,0,0.0,Pembrokeshire,0.0,2014,Security & Enterprise technology - MIXED,Cyber Security
+253,0,0.0,Pembrokeshire,0.0,2015,Security & Enterprise technology - MIXED,Cyber Security
+254,0,0.0,Pembrokeshire,0.0,2016,Security & Enterprise technology - MIXED,Cyber Security
+255,0,0.0,Blaenau Gwent,0.0,2012,Security & Enterprise technology - MIXED,Cyber Security
+256,0,0.0,Blaenau Gwent,0.0,2013,Security & Enterprise technology - MIXED,Cyber Security
+257,0,0.0,Blaenau Gwent,0.0,2014,Security & Enterprise technology - MIXED,Cyber Security
+258,0,0.0,Blaenau Gwent,0.0,2015,Security & Enterprise technology - MIXED,Cyber Security
+259,0,0.0,Blaenau Gwent,0.0,2016,Security & Enterprise technology - MIXED,Cyber Security
+260,0,0.0,Monmouthshire,0.0,2012,Security & Enterprise technology - MIXED,Cyber Security
+261,0,0.0,Monmouthshire,0.0,2013,Security & Enterprise technology - MIXED,Cyber Security
+262,0,0.0,Monmouthshire,0.0,2014,Security & Enterprise technology - MIXED,Cyber Security
+263,0,0.0,Monmouthshire,0.0,2015,Security & Enterprise technology - MIXED,Cyber Security
+264,0,0.0,Monmouthshire,0.0,2016,Security & Enterprise technology - MIXED,Cyber Security
+265,0,0.0,Swansea,0.0,2012,Security & Enterprise technology - MIXED,Cyber Security
+266,0,0.0,Swansea,0.0,2013,Security & Enterprise technology - MIXED,Cyber Security
+267,0,0.0,Swansea,0.0,2014,Security & Enterprise technology - MIXED,Cyber Security
+268,0,0.0,Swansea,0.0,2015,Security & Enterprise technology - MIXED,Cyber Security
+269,0,0.0,Swansea,0.0,2016,Security & Enterprise technology - MIXED,Cyber Security
+270,0,0.0,Gwynedd,0.0,2012,Security & Enterprise technology - MIXED,Cyber Security
+271,0,0.0,Gwynedd,0.0,2013,Security & Enterprise technology - MIXED,Cyber Security
+272,0,0.0,Gwynedd,0.0,2014,Security & Enterprise technology - MIXED,Cyber Security
+273,0,0.0,Gwynedd,0.0,2015,Security & Enterprise technology - MIXED,Cyber Security
+274,0,0.0,Gwynedd,0.0,2016,Security & Enterprise technology - MIXED,Cyber Security
+275,0,0.0,Carmarthenshire,0.0,2012,Security & Enterprise technology - MIXED,Cyber Security
+276,0,0.0,Carmarthenshire,0.0,2013,Security & Enterprise technology - MIXED,Cyber Security
+277,0,0.0,Carmarthenshire,0.0,2014,Security & Enterprise technology - MIXED,Cyber Security
+278,0,0.0,Carmarthenshire,0.0,2015,Security & Enterprise technology - MIXED,Cyber Security
+279,0,0.0,Carmarthenshire,0.0,2016,Security & Enterprise technology - MIXED,Cyber Security
+280,0,0.0,Wales,0.0,2012,Makers,Makers & Design
+281,0,0.0,Wales,0.0,2013,Makers,Makers & Design
+282,28,1.0,Wales,0.0566256556389823,2014,Makers,Makers & Design
+283,51,17.0,Wales,0.07146477660879579,2015,Makers,Makers & Design
+284,13,2.0,Wales,0.017853521440174543,2016,Makers,Makers & Design
+285,0,0.0,Cardiff,0.0,2012,Makers,Makers & Design
+286,0,0.0,Cardiff,0.0,2013,Makers,Makers & Design
+287,28,1.0,Cardiff,0.14770959760117755,2014,Makers,Makers & Design
+288,26,1.0,Cardiff,0.09364366201949056,2015,Makers,Makers & Design
+289,0,0.0,Cardiff,0.0,2016,Makers,Makers & Design
+290,0,0.0,Pembrokeshire,0.0,2012,Makers,Makers & Design
+291,0,0.0,Pembrokeshire,0.0,2013,Makers,Makers & Design
+292,0,0.0,Pembrokeshire,0.0,2014,Makers,Makers & Design
+293,0,0.0,Pembrokeshire,0.0,2015,Makers,Makers & Design
+294,0,0.0,Pembrokeshire,0.0,2016,Makers,Makers & Design
+295,0,0.0,Blaenau Gwent,0.0,2012,Makers,Makers & Design
+296,0,0.0,Blaenau Gwent,0.0,2013,Makers,Makers & Design
+297,0,0.0,Blaenau Gwent,0.0,2014,Makers,Makers & Design
+298,0,0.0,Blaenau Gwent,0.0,2015,Makers,Makers & Design
+299,0,0.0,Blaenau Gwent,0.0,2016,Makers,Makers & Design
+300,0,0.0,Monmouthshire,0.0,2012,Makers,Makers & Design
+301,0,0.0,Monmouthshire,0.0,2013,Makers,Makers & Design
+302,0,0.0,Monmouthshire,0.0,2014,Makers,Makers & Design
+303,0,0.0,Monmouthshire,0.0,2015,Makers,Makers & Design
+304,13,2.0,Monmouthshire,0.2686236265727655,2016,Makers,Makers & Design
+305,0,0.0,Swansea,0.0,2012,Makers,Makers & Design
+306,0,0.0,Swansea,0.0,2013,Makers,Makers & Design
+307,0,0.0,Swansea,0.0,2014,Makers,Makers & Design
+308,0,0.0,Swansea,0.0,2015,Makers,Makers & Design
+309,0,0.0,Swansea,0.0,2016,Makers,Makers & Design
+310,0,0.0,Gwynedd,0.0,2012,Makers,Makers & Design
+311,0,0.0,Gwynedd,0.0,2013,Makers,Makers & Design
+312,0,0.0,Gwynedd,0.0,2014,Makers,Makers & Design
+313,0,0.0,Gwynedd,0.0,2015,Makers,Makers & Design
+314,0,0.0,Gwynedd,0.0,2016,Makers,Makers & Design
+315,0,0.0,Carmarthenshire,0.0,2012,Makers,Makers & Design
+316,0,0.0,Carmarthenshire,0.0,2013,Makers,Makers & Design
+317,0,0.0,Carmarthenshire,0.0,2014,Makers,Makers & Design
+318,25,16.0,Carmarthenshire,0.28390772976976103,2015,Makers,Makers & Design
+319,0,0.0,Carmarthenshire,0.0,2016,Makers,Makers & Design
+320,0,0.0,Wales,0.0,2012,Self-improvement & Entrepreneurship,Business
+321,178,11.0,Wales,0.5566914388779787,2013,Self-improvement & Entrepreneurship,Business
+322,517,17.0,Wales,1.5564399193032226,2014,Self-improvement & Entrepreneurship,Business
+323,203,13.0,Wales,0.4739339694860745,2015,Self-improvement & Entrepreneurship,Business
+324,103,13.0,Wales,0.2430713251513733,2016,Self-improvement & Entrepreneurship,Business
+325,0,0.0,Cardiff,0.0,2012,Self-improvement & Entrepreneurship,Business
+326,178,11.0,Cardiff,1.4538886625330392,2013,Self-improvement & Entrepreneurship,Business
+327,517,17.0,Cardiff,4.060016817048905,2014,Self-improvement & Entrepreneurship,Business
+328,203,13.0,Cardiff,1.2181506873141008,2015,Self-improvement & Entrepreneurship,Business
+329,101,12.0,Cardiff,0.6126339415171775,2016,Self-improvement & Entrepreneurship,Business
+330,0,0.0,Pembrokeshire,0.0,2012,Self-improvement & Entrepreneurship,Business
+331,0,0.0,Pembrokeshire,0.0,2013,Self-improvement & Entrepreneurship,Business
+332,0,0.0,Pembrokeshire,0.0,2014,Self-improvement & Entrepreneurship,Business
+333,0,0.0,Pembrokeshire,0.0,2015,Self-improvement & Entrepreneurship,Business
+334,0,0.0,Pembrokeshire,0.0,2016,Self-improvement & Entrepreneurship,Business
+335,0,0.0,Blaenau Gwent,0.0,2012,Self-improvement & Entrepreneurship,Business
+336,0,0.0,Blaenau Gwent,0.0,2013,Self-improvement & Entrepreneurship,Business
+337,0,0.0,Blaenau Gwent,0.0,2014,Self-improvement & Entrepreneurship,Business
+338,0,0.0,Blaenau Gwent,0.0,2015,Self-improvement & Entrepreneurship,Business
+339,2,1.0,Blaenau Gwent,0.13583414913587846,2016,Self-improvement & Entrepreneurship,Business
+340,0,0.0,Monmouthshire,0.0,2012,Self-improvement & Entrepreneurship,Business
+341,0,0.0,Monmouthshire,0.0,2013,Self-improvement & Entrepreneurship,Business
+342,0,0.0,Monmouthshire,0.0,2014,Self-improvement & Entrepreneurship,Business
+343,0,0.0,Monmouthshire,0.0,2015,Self-improvement & Entrepreneurship,Business
+344,0,0.0,Monmouthshire,0.0,2016,Self-improvement & Entrepreneurship,Business
+345,0,0.0,Swansea,0.0,2012,Self-improvement & Entrepreneurship,Business
+346,0,0.0,Swansea,0.0,2013,Self-improvement & Entrepreneurship,Business
+347,0,0.0,Swansea,0.0,2014,Self-improvement & Entrepreneurship,Business
+348,0,0.0,Swansea,0.0,2015,Self-improvement & Entrepreneurship,Business
+349,0,0.0,Swansea,0.0,2016,Self-improvement & Entrepreneurship,Business
+350,0,0.0,Gwynedd,0.0,2012,Self-improvement & Entrepreneurship,Business
+351,0,0.0,Gwynedd,0.0,2013,Self-improvement & Entrepreneurship,Business
+352,0,0.0,Gwynedd,0.0,2014,Self-improvement & Entrepreneurship,Business
+353,0,0.0,Gwynedd,0.0,2015,Self-improvement & Entrepreneurship,Business
+354,0,0.0,Gwynedd,0.0,2016,Self-improvement & Entrepreneurship,Business
+355,0,0.0,Carmarthenshire,0.0,2012,Self-improvement & Entrepreneurship,Business
+356,0,0.0,Carmarthenshire,0.0,2013,Self-improvement & Entrepreneurship,Business
+357,0,0.0,Carmarthenshire,0.0,2014,Self-improvement & Entrepreneurship,Business
+358,0,0.0,Carmarthenshire,0.0,2015,Self-improvement & Entrepreneurship,Business
+359,0,0.0,Carmarthenshire,0.0,2016,Self-improvement & Entrepreneurship,Business
+360,0,0.0,Wales,0.0,2012,Blogging,Editorial
+361,0,0.0,Wales,0.0,2013,Blogging,Editorial
+362,0,0.0,Wales,0.0,2014,Blogging,Editorial
+363,21,5.0,Wales,0.4229200968677373,2015,Blogging,Editorial
+364,4,1.0,Wales,0.07185029903324483,2016,Blogging,Editorial
+365,0,0.0,Cardiff,0.0,2012,Blogging,Editorial
+366,0,0.0,Cardiff,0.0,2013,Blogging,Editorial
+367,0,0.0,Cardiff,0.0,2014,Blogging,Editorial
+368,0,0.0,Cardiff,0.0,2015,Blogging,Editorial
+369,0,0.0,Cardiff,0.0,2016,Blogging,Editorial
+370,0,0.0,Pembrokeshire,0.0,2012,Blogging,Editorial
+371,0,0.0,Pembrokeshire,0.0,2013,Blogging,Editorial
+372,0,0.0,Pembrokeshire,0.0,2014,Blogging,Editorial
+373,21,5.0,Pembrokeshire,5.087621672645957,2015,Blogging,Editorial
+374,4,1.0,Pembrokeshire,0.8643409032934875,2016,Blogging,Editorial
+375,0,0.0,Blaenau Gwent,0.0,2012,Blogging,Editorial
+376,0,0.0,Blaenau Gwent,0.0,2013,Blogging,Editorial
+377,0,0.0,Blaenau Gwent,0.0,2014,Blogging,Editorial
+378,0,0.0,Blaenau Gwent,0.0,2015,Blogging,Editorial
+379,0,0.0,Blaenau Gwent,0.0,2016,Blogging,Editorial
+380,0,0.0,Monmouthshire,0.0,2012,Blogging,Editorial
+381,0,0.0,Monmouthshire,0.0,2013,Blogging,Editorial
+382,0,0.0,Monmouthshire,0.0,2014,Blogging,Editorial
+383,0,0.0,Monmouthshire,0.0,2015,Blogging,Editorial
+384,0,0.0,Monmouthshire,0.0,2016,Blogging,Editorial
+385,0,0.0,Swansea,0.0,2012,Blogging,Editorial
+386,0,0.0,Swansea,0.0,2013,Blogging,Editorial
+387,0,0.0,Swansea,0.0,2014,Blogging,Editorial
+388,0,0.0,Swansea,0.0,2015,Blogging,Editorial
+389,0,0.0,Swansea,0.0,2016,Blogging,Editorial
+390,0,0.0,Gwynedd,0.0,2012,Blogging,Editorial
+391,0,0.0,Gwynedd,0.0,2013,Blogging,Editorial
+392,0,0.0,Gwynedd,0.0,2014,Blogging,Editorial
+393,0,0.0,Gwynedd,0.0,2015,Blogging,Editorial
+394,0,0.0,Gwynedd,0.0,2016,Blogging,Editorial
+395,0,0.0,Carmarthenshire,0.0,2012,Blogging,Editorial
+396,0,0.0,Carmarthenshire,0.0,2013,Blogging,Editorial
+397,0,0.0,Carmarthenshire,0.0,2014,Blogging,Editorial
+398,0,0.0,Carmarthenshire,0.0,2015,Blogging,Editorial
+399,0,0.0,Carmarthenshire,0.0,2016,Blogging,Editorial
+400,0,0.0,Wales,0.0,2012,Cloud computing,Cloud Computing
+401,210,25.0,Wales,1.140731786919712,2013,Cloud computing,Cloud Computing
+402,416,58.0,Wales,1.016400059585476,2014,Cloud computing,Cloud Computing
+403,765,82.0,Wales,1.2380163567393356,2015,Cloud computing,Cloud Computing
+404,577,67.0,Wales,0.6544737345542475,2016,Cloud computing,Cloud Computing
+405,0,0.0,Cardiff,0.0,2012,Cloud computing,Cloud Computing
+406,210,25.0,Cardiff,2.9792033722242137,2013,Cloud computing,Cloud Computing
+407,382,35.0,Cardiff,2.434614395564807,2014,Cloud computing,Cloud Computing
+408,756,79.0,Cardiff,3.1446326512354905,2015,Cloud computing,Cloud Computing
+409,339,63.0,Cardiff,0.9883238677315724,2016,Cloud computing,Cloud Computing
+410,0,0.0,Pembrokeshire,0.0,2012,Cloud computing,Cloud Computing
+411,0,0.0,Pembrokeshire,0.0,2013,Cloud computing,Cloud Computing
+412,0,0.0,Pembrokeshire,0.0,2014,Cloud computing,Cloud Computing
+413,0,0.0,Pembrokeshire,0.0,2015,Cloud computing,Cloud Computing
+414,0,0.0,Pembrokeshire,0.0,2016,Cloud computing,Cloud Computing
+415,0,0.0,Blaenau Gwent,0.0,2012,Cloud computing,Cloud Computing
+416,0,0.0,Blaenau Gwent,0.0,2013,Cloud computing,Cloud Computing
+417,0,0.0,Blaenau Gwent,0.0,2014,Cloud computing,Cloud Computing
+418,0,0.0,Blaenau Gwent,0.0,2015,Cloud computing,Cloud Computing
+419,0,0.0,Blaenau Gwent,0.0,2016,Cloud computing,Cloud Computing
+420,0,0.0,Monmouthshire,0.0,2012,Cloud computing,Cloud Computing
+421,0,0.0,Monmouthshire,0.0,2013,Cloud computing,Cloud Computing
+422,0,0.0,Monmouthshire,0.0,2014,Cloud computing,Cloud Computing
+423,0,0.0,Monmouthshire,0.0,2015,Cloud computing,Cloud Computing
+424,0,0.0,Monmouthshire,0.0,2016,Cloud computing,Cloud Computing
+425,0,0.0,Swansea,0.0,2012,Cloud computing,Cloud Computing
+426,0,0.0,Swansea,0.0,2013,Cloud computing,Cloud Computing
+427,34,23.0,Swansea,0.4044574943535336,2014,Cloud computing,Cloud Computing
+428,9,3.0,Swansea,0.07176262001350019,2015,Cloud computing,Cloud Computing
+429,238,4.0,Swansea,1.3300996990846687,2016,Cloud computing,Cloud Computing
+430,0,0.0,Gwynedd,0.0,2012,Cloud computing,Cloud Computing
+431,0,0.0,Gwynedd,0.0,2013,Cloud computing,Cloud Computing
+432,0,0.0,Gwynedd,0.0,2014,Cloud computing,Cloud Computing
+433,0,0.0,Gwynedd,0.0,2015,Cloud computing,Cloud Computing
+434,0,0.0,Gwynedd,0.0,2016,Cloud computing,Cloud Computing
+435,0,0.0,Carmarthenshire,0.0,2012,Cloud computing,Cloud Computing
+436,0,0.0,Carmarthenshire,0.0,2013,Cloud computing,Cloud Computing
+437,0,0.0,Carmarthenshire,0.0,2014,Cloud computing,Cloud Computing
+438,0,0.0,Carmarthenshire,0.0,2015,Cloud computing,Cloud Computing
+439,0,0.0,Carmarthenshire,0.0,2016,Cloud computing,Cloud Computing
+440,0,0.0,Wales,0.0,2012,Future Tech (Health & robotics),New technologies
+441,0,0.0,Wales,0.0,2013,Future Tech (Health & robotics),New technologies
+442,0,0.0,Wales,0.0,2014,Future Tech (Health & robotics),New technologies
+443,6,2.0,Wales,0.040572871043022464,2015,Future Tech (Health & robotics),New technologies
+444,6,1.0,Wales,0.03736987162673908,2016,Future Tech (Health & robotics),New technologies
+445,0,0.0,Cardiff,0.0,2012,Future Tech (Health & robotics),New technologies
+446,0,0.0,Cardiff,0.0,2013,Future Tech (Health & robotics),New technologies
+447,0,0.0,Cardiff,0.0,2014,Future Tech (Health & robotics),New technologies
+448,6,2.0,Cardiff,0.10428429682083888,2015,Future Tech (Health & robotics),New technologies
+449,6,1.0,Cardiff,0.0960516395486808,2016,Future Tech (Health & robotics),New technologies
+450,0,0.0,Pembrokeshire,0.0,2012,Future Tech (Health & robotics),New technologies
+451,0,0.0,Pembrokeshire,0.0,2013,Future Tech (Health & robotics),New technologies
+452,0,0.0,Pembrokeshire,0.0,2014,Future Tech (Health & robotics),New technologies
+453,0,0.0,Pembrokeshire,0.0,2015,Future Tech (Health & robotics),New technologies
+454,0,0.0,Pembrokeshire,0.0,2016,Future Tech (Health & robotics),New technologies
+455,0,0.0,Blaenau Gwent,0.0,2012,Future Tech (Health & robotics),New technologies
+456,0,0.0,Blaenau Gwent,0.0,2013,Future Tech (Health & robotics),New technologies
+457,0,0.0,Blaenau Gwent,0.0,2014,Future Tech (Health & robotics),New technologies
+458,0,0.0,Blaenau Gwent,0.0,2015,Future Tech (Health & robotics),New technologies
+459,0,0.0,Blaenau Gwent,0.0,2016,Future Tech (Health & robotics),New technologies
+460,0,0.0,Monmouthshire,0.0,2012,Future Tech (Health & robotics),New technologies
+461,0,0.0,Monmouthshire,0.0,2013,Future Tech (Health & robotics),New technologies
+462,0,0.0,Monmouthshire,0.0,2014,Future Tech (Health & robotics),New technologies
+463,0,0.0,Monmouthshire,0.0,2015,Future Tech (Health & robotics),New technologies
+464,0,0.0,Monmouthshire,0.0,2016,Future Tech (Health & robotics),New technologies
+465,0,0.0,Swansea,0.0,2012,Future Tech (Health & robotics),New technologies
+466,0,0.0,Swansea,0.0,2013,Future Tech (Health & robotics),New technologies
+467,0,0.0,Swansea,0.0,2014,Future Tech (Health & robotics),New technologies
+468,0,0.0,Swansea,0.0,2015,Future Tech (Health & robotics),New technologies
+469,0,0.0,Swansea,0.0,2016,Future Tech (Health & robotics),New technologies
+470,0,0.0,Gwynedd,0.0,2012,Future Tech (Health & robotics),New technologies
+471,0,0.0,Gwynedd,0.0,2013,Future Tech (Health & robotics),New technologies
+472,0,0.0,Gwynedd,0.0,2014,Future Tech (Health & robotics),New technologies
+473,0,0.0,Gwynedd,0.0,2015,Future Tech (Health & robotics),New technologies
+474,0,0.0,Gwynedd,0.0,2016,Future Tech (Health & robotics),New technologies
+475,0,0.0,Carmarthenshire,0.0,2012,Future Tech (Health & robotics),New technologies
+476,0,0.0,Carmarthenshire,0.0,2013,Future Tech (Health & robotics),New technologies
+477,0,0.0,Carmarthenshire,0.0,2014,Future Tech (Health & robotics),New technologies
+478,0,0.0,Carmarthenshire,0.0,2015,Future Tech (Health & robotics),New technologies
+479,0,0.0,Carmarthenshire,0.0,2016,Future Tech (Health & robotics),New technologies
+480,0,0.0,Wales,0.0,2012,Digital Marketing,Business
+481,0,0.0,Wales,0.0,2013,Digital Marketing,Business
+482,122,2.0,Wales,0.1865317319772261,2014,Digital Marketing,Business
+483,21,5.0,Wales,0.023313269029282283,2015,Digital Marketing,Business
+484,318,70.0,Wales,0.3964376806880607,2016,Digital Marketing,Business
+485,0,0.0,Cardiff,0.0,2012,Digital Marketing,Business
+486,0,0.0,Cardiff,0.0,2013,Digital Marketing,Business
+487,122,2.0,Cardiff,0.4865732106638785,2014,Digital Marketing,Business
+488,0,0.0,Cardiff,0.0,2015,Digital Marketing,Business
+489,56,7.0,Cardiff,0.17943989654050524,2016,Digital Marketing,Business
+490,0,0.0,Pembrokeshire,0.0,2012,Digital Marketing,Business
+491,0,0.0,Pembrokeshire,0.0,2013,Digital Marketing,Business
+492,0,0.0,Pembrokeshire,0.0,2014,Digital Marketing,Business
+493,21,5.0,Pembrokeshire,0.2804527229896472,2015,Digital Marketing,Business
+494,262,63.0,Pembrokeshire,3.929213103543805,2016,Digital Marketing,Business
+495,0,0.0,Blaenau Gwent,0.0,2012,Digital Marketing,Business
+496,0,0.0,Blaenau Gwent,0.0,2013,Digital Marketing,Business
+497,0,0.0,Blaenau Gwent,0.0,2014,Digital Marketing,Business
+498,0,0.0,Blaenau Gwent,0.0,2015,Digital Marketing,Business
+499,0,0.0,Blaenau Gwent,0.0,2016,Digital Marketing,Business
+500,0,0.0,Monmouthshire,0.0,2012,Digital Marketing,Business
+501,0,0.0,Monmouthshire,0.0,2013,Digital Marketing,Business
+502,0,0.0,Monmouthshire,0.0,2014,Digital Marketing,Business
+503,0,0.0,Monmouthshire,0.0,2015,Digital Marketing,Business
+504,0,0.0,Monmouthshire,0.0,2016,Digital Marketing,Business
+505,0,0.0,Swansea,0.0,2012,Digital Marketing,Business
+506,0,0.0,Swansea,0.0,2013,Digital Marketing,Business
+507,0,0.0,Swansea,0.0,2014,Digital Marketing,Business
+508,0,0.0,Swansea,0.0,2015,Digital Marketing,Business
+509,0,0.0,Swansea,0.0,2016,Digital Marketing,Business
+510,0,0.0,Gwynedd,0.0,2012,Digital Marketing,Business
+511,0,0.0,Gwynedd,0.0,2013,Digital Marketing,Business
+512,0,0.0,Gwynedd,0.0,2014,Digital Marketing,Business
+513,0,0.0,Gwynedd,0.0,2015,Digital Marketing,Business
+514,0,0.0,Gwynedd,0.0,2016,Digital Marketing,Business
+515,0,0.0,Carmarthenshire,0.0,2012,Digital Marketing,Business
+516,0,0.0,Carmarthenshire,0.0,2013,Digital Marketing,Business
+517,0,0.0,Carmarthenshire,0.0,2014,Digital Marketing,Business
+518,0,0.0,Carmarthenshire,0.0,2015,Digital Marketing,Business
+519,0,0.0,Carmarthenshire,0.0,2016,Digital Marketing,Business
+520,0,0.0,Wales,0.0,2012,Networking & Entrepreneurship,Business
+521,0,0.0,Wales,0.0,2013,Networking & Entrepreneurship,Business
+522,0,0.0,Wales,0.0,2014,Networking & Entrepreneurship,Business
+523,29,12.0,Wales,0.017649155120149602,2015,Networking & Entrepreneurship,Business
+524,53,9.0,Wales,0.028475115430650923,2016,Networking & Entrepreneurship,Business
+525,0,0.0,Cardiff,0.0,2012,Networking & Entrepreneurship,Business
+526,0,0.0,Cardiff,0.0,2013,Networking & Entrepreneurship,Business
+527,0,0.0,Cardiff,0.0,2014,Networking & Entrepreneurship,Business
+528,8,7.0,Cardiff,0.012514084573885,2015,Networking & Entrepreneurship,Business
+529,47,7.0,Cardiff,0.06490387971086913,2016,Networking & Entrepreneurship,Business
+530,0,0.0,Pembrokeshire,0.0,2012,Networking & Entrepreneurship,Business
+531,0,0.0,Pembrokeshire,0.0,2013,Networking & Entrepreneurship,Business
+532,0,0.0,Pembrokeshire,0.0,2014,Networking & Entrepreneurship,Business
+533,21,5.0,Pembrokeshire,0.1537452484745429,2015,Networking & Entrepreneurship,Business
+534,4,1.0,Pembrokeshire,0.025852711555097413,2016,Networking & Entrepreneurship,Business
+535,0,0.0,Blaenau Gwent,0.0,2012,Networking & Entrepreneurship,Business
+536,0,0.0,Blaenau Gwent,0.0,2013,Networking & Entrepreneurship,Business
+537,0,0.0,Blaenau Gwent,0.0,2014,Networking & Entrepreneurship,Business
+538,0,0.0,Blaenau Gwent,0.0,2015,Networking & Entrepreneurship,Business
+539,2,1.0,Blaenau Gwent,0.030924457270010124,2016,Networking & Entrepreneurship,Business
+540,0,0.0,Monmouthshire,0.0,2012,Networking & Entrepreneurship,Business
+541,0,0.0,Monmouthshire,0.0,2013,Networking & Entrepreneurship,Business
+542,0,0.0,Monmouthshire,0.0,2014,Networking & Entrepreneurship,Business
+543,0,0.0,Monmouthshire,0.0,2015,Networking & Entrepreneurship,Business
+544,0,0.0,Monmouthshire,0.0,2016,Networking & Entrepreneurship,Business
+545,0,0.0,Swansea,0.0,2012,Networking & Entrepreneurship,Business
+546,0,0.0,Swansea,0.0,2013,Networking & Entrepreneurship,Business
+547,0,0.0,Swansea,0.0,2014,Networking & Entrepreneurship,Business
+548,0,0.0,Swansea,0.0,2015,Networking & Entrepreneurship,Business
+549,0,0.0,Swansea,0.0,2016,Networking & Entrepreneurship,Business
+550,0,0.0,Gwynedd,0.0,2012,Networking & Entrepreneurship,Business
+551,0,0.0,Gwynedd,0.0,2013,Networking & Entrepreneurship,Business
+552,0,0.0,Gwynedd,0.0,2014,Networking & Entrepreneurship,Business
+553,0,0.0,Gwynedd,0.0,2015,Networking & Entrepreneurship,Business
+554,0,0.0,Gwynedd,0.0,2016,Networking & Entrepreneurship,Business
+555,0,0.0,Carmarthenshire,0.0,2012,Networking & Entrepreneurship,Business
+556,0,0.0,Carmarthenshire,0.0,2013,Networking & Entrepreneurship,Business
+557,0,0.0,Carmarthenshire,0.0,2014,Networking & Entrepreneurship,Business
+558,0,0.0,Carmarthenshire,0.0,2015,Networking & Entrepreneurship,Business
+559,0,0.0,Carmarthenshire,0.0,2016,Networking & Entrepreneurship,Business
+560,0,0.0,Wales,0.0,2012,Data Science,Data Science
+561,194,21.0,Wales,0.6241279028586787,2013,Data Science,Data Science
+562,236,45.0,Wales,0.4604332724743853,2014,Data Science,Data Science
+563,628,95.0,Wales,0.7386314909677459,2015,Data Science,Data Science
+564,520,87.0,Wales,0.3944857571952735,2016,Data Science,Data Science
+565,0,0.0,Cardiff,0.0,2012,Data Science,Data Science
+566,194,21.0,Cardiff,1.6300097658510082,2013,Data Science,Data Science
+567,202,22.0,Cardiff,1.0280199379151047,2014,Data Science,Data Science
+568,619,92.0,Cardiff,1.8712938972916235,2015,Data Science,Data Science
+569,520,87.0,Cardiff,1.0139452480777822,2016,Data Science,Data Science
+570,0,0.0,Pembrokeshire,0.0,2012,Data Science,Data Science
+571,0,0.0,Pembrokeshire,0.0,2013,Data Science,Data Science
+572,0,0.0,Pembrokeshire,0.0,2014,Data Science,Data Science
+573,0,0.0,Pembrokeshire,0.0,2015,Data Science,Data Science
+574,0,0.0,Pembrokeshire,0.0,2016,Data Science,Data Science
+575,0,0.0,Blaenau Gwent,0.0,2012,Data Science,Data Science
+576,0,0.0,Blaenau Gwent,0.0,2013,Data Science,Data Science
+577,0,0.0,Blaenau Gwent,0.0,2014,Data Science,Data Science
+578,0,0.0,Blaenau Gwent,0.0,2015,Data Science,Data Science
+579,0,0.0,Blaenau Gwent,0.0,2016,Data Science,Data Science
+580,0,0.0,Monmouthshire,0.0,2012,Data Science,Data Science
+581,0,0.0,Monmouthshire,0.0,2013,Data Science,Data Science
+582,0,0.0,Monmouthshire,0.0,2014,Data Science,Data Science
+583,0,0.0,Monmouthshire,0.0,2015,Data Science,Data Science
+584,0,0.0,Monmouthshire,0.0,2016,Data Science,Data Science
+585,0,0.0,Swansea,0.0,2012,Data Science,Data Science
+586,0,0.0,Swansea,0.0,2013,Data Science,Data Science
+587,34,23.0,Swansea,0.3229655745036875,2014,Data Science,Data Science
+588,9,3.0,Swansea,0.05215566827888893,2015,Data Science,Data Science
+589,0,0.0,Swansea,0.0,2016,Data Science,Data Science
+590,0,0.0,Gwynedd,0.0,2012,Data Science,Data Science
+591,0,0.0,Gwynedd,0.0,2013,Data Science,Data Science
+592,0,0.0,Gwynedd,0.0,2014,Data Science,Data Science
+593,0,0.0,Gwynedd,0.0,2015,Data Science,Data Science
+594,0,0.0,Gwynedd,0.0,2016,Data Science,Data Science
+595,0,0.0,Carmarthenshire,0.0,2012,Data Science,Data Science
+596,0,0.0,Carmarthenshire,0.0,2013,Data Science,Data Science
+597,0,0.0,Carmarthenshire,0.0,2014,Data Science,Data Science
+598,0,0.0,Carmarthenshire,0.0,2015,Data Science,Data Science
+599,0,0.0,Carmarthenshire,0.0,2016,Data Science,Data Science
+600,0,0.0,Wales,0.0,2012,E-commerce,Business
+601,0,0.0,Wales,0.0,2013,E-commerce,Business
+602,0,0.0,Wales,0.0,2014,E-commerce,Business
+603,21,5.0,Wales,0.1867609628419192,2015,E-commerce,Business
+604,4,1.0,Wales,0.025250770908510658,2016,E-commerce,Business
+605,0,0.0,Cardiff,0.0,2012,E-commerce,Business
+606,0,0.0,Cardiff,0.0,2013,E-commerce,Business
+607,0,0.0,Cardiff,0.0,2014,E-commerce,Business
+608,0,0.0,Cardiff,0.0,2015,E-commerce,Business
+609,0,0.0,Cardiff,0.0,2016,E-commerce,Business
+610,0,0.0,Pembrokeshire,0.0,2012,E-commerce,Business
+611,0,0.0,Pembrokeshire,0.0,2013,E-commerce,Business
+612,0,0.0,Pembrokeshire,0.0,2014,E-commerce,Business
+613,21,5.0,Pembrokeshire,2.246687091003688,2015,E-commerce,Business
+614,4,1.0,Pembrokeshire,0.30376037997866306,2016,E-commerce,Business
+615,0,0.0,Blaenau Gwent,0.0,2012,E-commerce,Business
+616,0,0.0,Blaenau Gwent,0.0,2013,E-commerce,Business
+617,0,0.0,Blaenau Gwent,0.0,2014,E-commerce,Business
+618,0,0.0,Blaenau Gwent,0.0,2015,E-commerce,Business
+619,0,0.0,Blaenau Gwent,0.0,2016,E-commerce,Business
+620,0,0.0,Monmouthshire,0.0,2012,E-commerce,Business
+621,0,0.0,Monmouthshire,0.0,2013,E-commerce,Business
+622,0,0.0,Monmouthshire,0.0,2014,E-commerce,Business
+623,0,0.0,Monmouthshire,0.0,2015,E-commerce,Business
+624,0,0.0,Monmouthshire,0.0,2016,E-commerce,Business
+625,0,0.0,Swansea,0.0,2012,E-commerce,Business
+626,0,0.0,Swansea,0.0,2013,E-commerce,Business
+627,0,0.0,Swansea,0.0,2014,E-commerce,Business
+628,0,0.0,Swansea,0.0,2015,E-commerce,Business
+629,0,0.0,Swansea,0.0,2016,E-commerce,Business
+630,0,0.0,Gwynedd,0.0,2012,E-commerce,Business
+631,0,0.0,Gwynedd,0.0,2013,E-commerce,Business
+632,0,0.0,Gwynedd,0.0,2014,E-commerce,Business
+633,0,0.0,Gwynedd,0.0,2015,E-commerce,Business
+634,0,0.0,Gwynedd,0.0,2016,E-commerce,Business
+635,0,0.0,Carmarthenshire,0.0,2012,E-commerce,Business
+636,0,0.0,Carmarthenshire,0.0,2013,E-commerce,Business
+637,0,0.0,Carmarthenshire,0.0,2014,E-commerce,Business
+638,0,0.0,Carmarthenshire,0.0,2015,E-commerce,Business
+639,0,0.0,Carmarthenshire,0.0,2016,E-commerce,Business
+640,0,0.0,Wales,0.0,2012,Data types & mediums,Data Science
+641,0,0.0,Wales,0.0,2013,Data types & mediums,Data Science
+642,34,23.0,Wales,0.4076491038892221,2014,Data types & mediums,Data Science
+643,9,3.0,Wales,0.06304905288142773,2015,Data types & mediums,Data Science
+644,0,0.0,Wales,0.0,2016,Data types & mediums,Data Science
+645,0,0.0,Cardiff,0.0,2012,Data types & mediums,Data Science
+646,0,0.0,Cardiff,0.0,2013,Data types & mediums,Data Science
+647,0,0.0,Cardiff,0.0,2014,Data types & mediums,Data Science
+648,0,0.0,Cardiff,0.0,2015,Data types & mediums,Data Science
+649,0,0.0,Cardiff,0.0,2016,Data types & mediums,Data Science
+650,0,0.0,Pembrokeshire,0.0,2012,Data types & mediums,Data Science
+651,0,0.0,Pembrokeshire,0.0,2013,Data types & mediums,Data Science
+652,0,0.0,Pembrokeshire,0.0,2014,Data types & mediums,Data Science
+653,0,0.0,Pembrokeshire,0.0,2015,Data types & mediums,Data Science
+654,0,0.0,Pembrokeshire,0.0,2016,Data types & mediums,Data Science
+655,0,0.0,Blaenau Gwent,0.0,2012,Data types & mediums,Data Science
+656,0,0.0,Blaenau Gwent,0.0,2013,Data types & mediums,Data Science
+657,0,0.0,Blaenau Gwent,0.0,2014,Data types & mediums,Data Science
+658,0,0.0,Blaenau Gwent,0.0,2015,Data types & mediums,Data Science
+659,0,0.0,Blaenau Gwent,0.0,2016,Data types & mediums,Data Science
+660,0,0.0,Monmouthshire,0.0,2012,Data types & mediums,Data Science
+661,0,0.0,Monmouthshire,0.0,2013,Data types & mediums,Data Science
+662,0,0.0,Monmouthshire,0.0,2014,Data types & mediums,Data Science
+663,0,0.0,Monmouthshire,0.0,2015,Data types & mediums,Data Science
+664,0,0.0,Monmouthshire,0.0,2016,Data types & mediums,Data Science
+665,0,0.0,Swansea,0.0,2012,Data types & mediums,Data Science
+666,0,0.0,Swansea,0.0,2013,Data types & mediums,Data Science
+667,34,23.0,Swansea,1.9847650819212952,2014,Data types & mediums,Data Science
+668,9,3.0,Swansea,0.3106485968124879,2015,Data types & mediums,Data Science
+669,0,0.0,Swansea,0.0,2016,Data types & mediums,Data Science
+670,0,0.0,Gwynedd,0.0,2012,Data types & mediums,Data Science
+671,0,0.0,Gwynedd,0.0,2013,Data types & mediums,Data Science
+672,0,0.0,Gwynedd,0.0,2014,Data types & mediums,Data Science
+673,0,0.0,Gwynedd,0.0,2015,Data types & mediums,Data Science
+674,0,0.0,Gwynedd,0.0,2016,Data types & mediums,Data Science
+675,0,0.0,Carmarthenshire,0.0,2012,Data types & mediums,Data Science
+676,0,0.0,Carmarthenshire,0.0,2013,Data types & mediums,Data Science
+677,0,0.0,Carmarthenshire,0.0,2014,Data types & mediums,Data Science
+678,0,0.0,Carmarthenshire,0.0,2015,Data types & mediums,Data Science
+679,0,0.0,Carmarthenshire,0.0,2016,Data types & mediums,Data Science
+680,0,0.0,Wales,0.0,2012,Agile Project Management,Business
+681,240,13.0,Wales,0.4795687744898709,2013,Agile Project Management,Business
+682,885,31.0,Wales,1.1835347581509457,2014,Agile Project Management,Business
+683,1389,51.0,Wales,1.3504654656469912,2015,Agile Project Management,Business
+684,880,31.0,Wales,0.6621914292250659,2016,Agile Project Management,Business
+685,0,0.0,Cardiff,0.0,2012,Agile Project Management,Business
+686,240,13.0,Cardiff,1.252470498811668,2013,Agile Project Management,Business
+687,646,24.0,Cardiff,2.253542410290652,2014,Agile Project Management,Business
+688,902,35.0,Cardiff,2.254088436517875,2015,Agile Project Management,Business
+689,814,27.0,Cardiff,1.5743760140359448,2016,Agile Project Management,Business
+690,0,0.0,Pembrokeshire,0.0,2012,Agile Project Management,Business
+691,0,0.0,Pembrokeshire,0.0,2013,Agile Project Management,Business
+692,0,0.0,Pembrokeshire,0.0,2014,Agile Project Management,Business
+693,0,0.0,Pembrokeshire,0.0,2015,Agile Project Management,Business
+694,0,0.0,Pembrokeshire,0.0,2016,Agile Project Management,Business
+695,0,0.0,Blaenau Gwent,0.0,2012,Agile Project Management,Business
+696,0,0.0,Blaenau Gwent,0.0,2013,Agile Project Management,Business
+697,0,0.0,Blaenau Gwent,0.0,2014,Agile Project Management,Business
+698,0,0.0,Blaenau Gwent,0.0,2015,Agile Project Management,Business
+699,0,0.0,Blaenau Gwent,0.0,2016,Agile Project Management,Business
+700,0,0.0,Monmouthshire,0.0,2012,Agile Project Management,Business
+701,0,0.0,Monmouthshire,0.0,2013,Agile Project Management,Business
+702,0,0.0,Monmouthshire,0.0,2014,Agile Project Management,Business
+703,0,0.0,Monmouthshire,0.0,2015,Agile Project Management,Business
+704,13,2.0,Monmouthshire,0.14718533955985671,2016,Agile Project Management,Business
+705,0,0.0,Swansea,0.0,2012,Agile Project Management,Business
+706,0,0.0,Swansea,0.0,2013,Agile Project Management,Business
+707,239,7.0,Swansea,1.5561743973283708,2014,Agile Project Management,Business
+708,487,16.0,Swansea,2.332926345199542,2015,Agile Project Management,Business
+709,53,2.0,Swansea,0.19650227467505185,2016,Agile Project Management,Business
+710,0,0.0,Gwynedd,0.0,2012,Agile Project Management,Business
+711,0,0.0,Gwynedd,0.0,2013,Agile Project Management,Business
+712,0,0.0,Gwynedd,0.0,2014,Agile Project Management,Business
+713,0,0.0,Gwynedd,0.0,2015,Agile Project Management,Business
+714,0,0.0,Gwynedd,0.0,2016,Agile Project Management,Business
+715,0,0.0,Carmarthenshire,0.0,2012,Agile Project Management,Business
+716,0,0.0,Carmarthenshire,0.0,2013,Agile Project Management,Business
+717,0,0.0,Carmarthenshire,0.0,2014,Agile Project Management,Business
+718,0,0.0,Carmarthenshire,0.0,2015,Agile Project Management,Business
+719,0,0.0,Carmarthenshire,0.0,2016,Agile Project Management,Business
+720,0,0.0,Wales,0.0,2012,Internet of Things,New technologies
+721,0,0.0,Wales,0.0,2013,Internet of Things,New technologies
+722,0,0.0,Wales,0.0,2014,Internet of Things,New technologies
+723,0,0.0,Wales,0.0,2015,Internet of Things,New technologies
+724,0,0.0,Wales,0.0,2016,Internet of Things,New technologies
+725,0,0.0,Cardiff,0.0,2012,Internet of Things,New technologies
+726,0,0.0,Cardiff,0.0,2013,Internet of Things,New technologies
+727,0,0.0,Cardiff,0.0,2014,Internet of Things,New technologies
+728,0,0.0,Cardiff,0.0,2015,Internet of Things,New technologies
+729,0,0.0,Cardiff,0.0,2016,Internet of Things,New technologies
+730,0,0.0,Pembrokeshire,0.0,2012,Internet of Things,New technologies
+731,0,0.0,Pembrokeshire,0.0,2013,Internet of Things,New technologies
+732,0,0.0,Pembrokeshire,0.0,2014,Internet of Things,New technologies
+733,0,0.0,Pembrokeshire,0.0,2015,Internet of Things,New technologies
+734,0,0.0,Pembrokeshire,0.0,2016,Internet of Things,New technologies
+735,0,0.0,Blaenau Gwent,0.0,2012,Internet of Things,New technologies
+736,0,0.0,Blaenau Gwent,0.0,2013,Internet of Things,New technologies
+737,0,0.0,Blaenau Gwent,0.0,2014,Internet of Things,New technologies
+738,0,0.0,Blaenau Gwent,0.0,2015,Internet of Things,New technologies
+739,0,0.0,Blaenau Gwent,0.0,2016,Internet of Things,New technologies
+740,0,0.0,Monmouthshire,0.0,2012,Internet of Things,New technologies
+741,0,0.0,Monmouthshire,0.0,2013,Internet of Things,New technologies
+742,0,0.0,Monmouthshire,0.0,2014,Internet of Things,New technologies
+743,0,0.0,Monmouthshire,0.0,2015,Internet of Things,New technologies
+744,0,0.0,Monmouthshire,0.0,2016,Internet of Things,New technologies
+745,0,0.0,Swansea,0.0,2012,Internet of Things,New technologies
+746,0,0.0,Swansea,0.0,2013,Internet of Things,New technologies
+747,0,0.0,Swansea,0.0,2014,Internet of Things,New technologies
+748,0,0.0,Swansea,0.0,2015,Internet of Things,New technologies
+749,0,0.0,Swansea,0.0,2016,Internet of Things,New technologies
+750,0,0.0,Gwynedd,0.0,2012,Internet of Things,New technologies
+751,0,0.0,Gwynedd,0.0,2013,Internet of Things,New technologies
+752,0,0.0,Gwynedd,0.0,2014,Internet of Things,New technologies
+753,0,0.0,Gwynedd,0.0,2015,Internet of Things,New technologies
+754,0,0.0,Gwynedd,0.0,2016,Internet of Things,New technologies
+755,0,0.0,Carmarthenshire,0.0,2012,Internet of Things,New technologies
+756,0,0.0,Carmarthenshire,0.0,2013,Internet of Things,New technologies
+757,0,0.0,Carmarthenshire,0.0,2014,Internet of Things,New technologies
+758,0,0.0,Carmarthenshire,0.0,2015,Internet of Things,New technologies
+759,0,0.0,Carmarthenshire,0.0,2016,Internet of Things,New technologies
+760,0,0.0,Wales,0.0,2012,Data Warehousing - SQL,Data Science
+761,0,0.0,Wales,0.0,2013,Data Warehousing - SQL,Data Science
+762,0,0.0,Wales,0.0,2014,Data Warehousing - SQL,Data Science
+763,0,0.0,Wales,0.0,2015,Data Warehousing - SQL,Data Science
+764,0,0.0,Wales,0.0,2016,Data Warehousing - SQL,Data Science
+765,0,0.0,Cardiff,0.0,2012,Data Warehousing - SQL,Data Science
+766,0,0.0,Cardiff,0.0,2013,Data Warehousing - SQL,Data Science
+767,0,0.0,Cardiff,0.0,2014,Data Warehousing - SQL,Data Science
+768,0,0.0,Cardiff,0.0,2015,Data Warehousing - SQL,Data Science
+769,0,0.0,Cardiff,0.0,2016,Data Warehousing - SQL,Data Science
+770,0,0.0,Pembrokeshire,0.0,2012,Data Warehousing - SQL,Data Science
+771,0,0.0,Pembrokeshire,0.0,2013,Data Warehousing - SQL,Data Science
+772,0,0.0,Pembrokeshire,0.0,2014,Data Warehousing - SQL,Data Science
+773,0,0.0,Pembrokeshire,0.0,2015,Data Warehousing - SQL,Data Science
+774,0,0.0,Pembrokeshire,0.0,2016,Data Warehousing - SQL,Data Science
+775,0,0.0,Blaenau Gwent,0.0,2012,Data Warehousing - SQL,Data Science
+776,0,0.0,Blaenau Gwent,0.0,2013,Data Warehousing - SQL,Data Science
+777,0,0.0,Blaenau Gwent,0.0,2014,Data Warehousing - SQL,Data Science
+778,0,0.0,Blaenau Gwent,0.0,2015,Data Warehousing - SQL,Data Science
+779,0,0.0,Blaenau Gwent,0.0,2016,Data Warehousing - SQL,Data Science
+780,0,0.0,Monmouthshire,0.0,2012,Data Warehousing - SQL,Data Science
+781,0,0.0,Monmouthshire,0.0,2013,Data Warehousing - SQL,Data Science
+782,0,0.0,Monmouthshire,0.0,2014,Data Warehousing - SQL,Data Science
+783,0,0.0,Monmouthshire,0.0,2015,Data Warehousing - SQL,Data Science
+784,0,0.0,Monmouthshire,0.0,2016,Data Warehousing - SQL,Data Science
+785,0,0.0,Swansea,0.0,2012,Data Warehousing - SQL,Data Science
+786,0,0.0,Swansea,0.0,2013,Data Warehousing - SQL,Data Science
+787,0,0.0,Swansea,0.0,2014,Data Warehousing - SQL,Data Science
+788,0,0.0,Swansea,0.0,2015,Data Warehousing - SQL,Data Science
+789,0,0.0,Swansea,0.0,2016,Data Warehousing - SQL,Data Science
+790,0,0.0,Gwynedd,0.0,2012,Data Warehousing - SQL,Data Science
+791,0,0.0,Gwynedd,0.0,2013,Data Warehousing - SQL,Data Science
+792,0,0.0,Gwynedd,0.0,2014,Data Warehousing - SQL,Data Science
+793,0,0.0,Gwynedd,0.0,2015,Data Warehousing - SQL,Data Science
+794,0,0.0,Gwynedd,0.0,2016,Data Warehousing - SQL,Data Science
+795,0,0.0,Carmarthenshire,0.0,2012,Data Warehousing - SQL,Data Science
+796,0,0.0,Carmarthenshire,0.0,2013,Data Warehousing - SQL,Data Science
+797,0,0.0,Carmarthenshire,0.0,2014,Data Warehousing - SQL,Data Science
+798,0,0.0,Carmarthenshire,0.0,2015,Data Warehousing - SQL,Data Science
+799,0,0.0,Carmarthenshire,0.0,2016,Data Warehousing - SQL,Data Science
+800,0,0.0,Wales,0.0,2012,Immersive,New technologies
+801,0,0.0,Wales,0.0,2013,Immersive,New technologies
+802,0,0.0,Wales,0.0,2014,Immersive,New technologies
+803,0,0.0,Wales,0.0,2015,Immersive,New technologies
+804,13,2.0,Wales,0.043645361934300325,2016,Immersive,New technologies
+805,0,0.0,Cardiff,0.0,2012,Immersive,New technologies
+806,0,0.0,Cardiff,0.0,2013,Immersive,New technologies
+807,0,0.0,Cardiff,0.0,2014,Immersive,New technologies
+808,0,0.0,Cardiff,0.0,2015,Immersive,New technologies
+809,0,0.0,Cardiff,0.0,2016,Immersive,New technologies
+810,0,0.0,Pembrokeshire,0.0,2012,Immersive,New technologies
+811,0,0.0,Pembrokeshire,0.0,2013,Immersive,New technologies
+812,0,0.0,Pembrokeshire,0.0,2014,Immersive,New technologies
+813,0,0.0,Pembrokeshire,0.0,2015,Immersive,New technologies
+814,0,0.0,Pembrokeshire,0.0,2016,Immersive,New technologies
+815,0,0.0,Blaenau Gwent,0.0,2012,Immersive,New technologies
+816,0,0.0,Blaenau Gwent,0.0,2013,Immersive,New technologies
+817,0,0.0,Blaenau Gwent,0.0,2014,Immersive,New technologies
+818,0,0.0,Blaenau Gwent,0.0,2015,Immersive,New technologies
+819,0,0.0,Blaenau Gwent,0.0,2016,Immersive,New technologies
+820,0,0.0,Monmouthshire,0.0,2012,Immersive,New technologies
+821,0,0.0,Monmouthshire,0.0,2013,Immersive,New technologies
+822,0,0.0,Monmouthshire,0.0,2014,Immersive,New technologies
+823,0,0.0,Monmouthshire,0.0,2015,Immersive,New technologies
+824,13,2.0,Monmouthshire,0.6566869984254526,2016,Immersive,New technologies
+825,0,0.0,Swansea,0.0,2012,Immersive,New technologies
+826,0,0.0,Swansea,0.0,2013,Immersive,New technologies
+827,0,0.0,Swansea,0.0,2014,Immersive,New technologies
+828,0,0.0,Swansea,0.0,2015,Immersive,New technologies
+829,0,0.0,Swansea,0.0,2016,Immersive,New technologies
+830,0,0.0,Gwynedd,0.0,2012,Immersive,New technologies
+831,0,0.0,Gwynedd,0.0,2013,Immersive,New technologies
+832,0,0.0,Gwynedd,0.0,2014,Immersive,New technologies
+833,0,0.0,Gwynedd,0.0,2015,Immersive,New technologies
+834,0,0.0,Gwynedd,0.0,2016,Immersive,New technologies
+835,0,0.0,Carmarthenshire,0.0,2012,Immersive,New technologies
+836,0,0.0,Carmarthenshire,0.0,2013,Immersive,New technologies
+837,0,0.0,Carmarthenshire,0.0,2014,Immersive,New technologies
+838,0,0.0,Carmarthenshire,0.0,2015,Immersive,New technologies
+839,0,0.0,Carmarthenshire,0.0,2016,Immersive,New technologies
+840,0,0.0,Wales,0.0,2012,"Web Development (PHP, Drupal)",Software Development
+841,0,0.0,Wales,0.0,2013,"Web Development (PHP, Drupal)",Software Development
+842,0,0.0,Wales,0.0,2014,"Web Development (PHP, Drupal)",Software Development
+843,98,5.0,Wales,1.4055797448998957,2015,"Web Development (PHP, Drupal)",Software Development
+844,12,1.0,Wales,0.18934789368963653,2016,"Web Development (PHP, Drupal)",Software Development
+845,0,0.0,Cardiff,0.0,2012,"Web Development (PHP, Drupal)",Software Development
+846,0,0.0,Cardiff,0.0,2013,"Web Development (PHP, Drupal)",Software Development
+847,0,0.0,Cardiff,0.0,2014,"Web Development (PHP, Drupal)",Software Development
+848,98,5.0,Cardiff,3.6127562963703017,2015,"Web Development (PHP, Drupal)",Software Development
+849,12,1.0,Cardiff,0.4866801742226355,2016,"Web Development (PHP, Drupal)",Software Development
+850,0,0.0,Pembrokeshire,0.0,2012,"Web Development (PHP, Drupal)",Software Development
+851,0,0.0,Pembrokeshire,0.0,2013,"Web Development (PHP, Drupal)",Software Development
+852,0,0.0,Pembrokeshire,0.0,2014,"Web Development (PHP, Drupal)",Software Development
+853,0,0.0,Pembrokeshire,0.0,2015,"Web Development (PHP, Drupal)",Software Development
+854,0,0.0,Pembrokeshire,0.0,2016,"Web Development (PHP, Drupal)",Software Development
+855,0,0.0,Blaenau Gwent,0.0,2012,"Web Development (PHP, Drupal)",Software Development
+856,0,0.0,Blaenau Gwent,0.0,2013,"Web Development (PHP, Drupal)",Software Development
+857,0,0.0,Blaenau Gwent,0.0,2014,"Web Development (PHP, Drupal)",Software Development
+858,0,0.0,Blaenau Gwent,0.0,2015,"Web Development (PHP, Drupal)",Software Development
+859,0,0.0,Blaenau Gwent,0.0,2016,"Web Development (PHP, Drupal)",Software Development
+860,0,0.0,Monmouthshire,0.0,2012,"Web Development (PHP, Drupal)",Software Development
+861,0,0.0,Monmouthshire,0.0,2013,"Web Development (PHP, Drupal)",Software Development
+862,0,0.0,Monmouthshire,0.0,2014,"Web Development (PHP, Drupal)",Software Development
+863,0,0.0,Monmouthshire,0.0,2015,"Web Development (PHP, Drupal)",Software Development
+864,0,0.0,Monmouthshire,0.0,2016,"Web Development (PHP, Drupal)",Software Development
+865,0,0.0,Swansea,0.0,2012,"Web Development (PHP, Drupal)",Software Development
+866,0,0.0,Swansea,0.0,2013,"Web Development (PHP, Drupal)",Software Development
+867,0,0.0,Swansea,0.0,2014,"Web Development (PHP, Drupal)",Software Development
+868,0,0.0,Swansea,0.0,2015,"Web Development (PHP, Drupal)",Software Development
+869,0,0.0,Swansea,0.0,2016,"Web Development (PHP, Drupal)",Software Development
+870,0,0.0,Gwynedd,0.0,2012,"Web Development (PHP, Drupal)",Software Development
+871,0,0.0,Gwynedd,0.0,2013,"Web Development (PHP, Drupal)",Software Development
+872,0,0.0,Gwynedd,0.0,2014,"Web Development (PHP, Drupal)",Software Development
+873,0,0.0,Gwynedd,0.0,2015,"Web Development (PHP, Drupal)",Software Development
+874,0,0.0,Gwynedd,0.0,2016,"Web Development (PHP, Drupal)",Software Development
+875,0,0.0,Carmarthenshire,0.0,2012,"Web Development (PHP, Drupal)",Software Development
+876,0,0.0,Carmarthenshire,0.0,2013,"Web Development (PHP, Drupal)",Software Development
+877,0,0.0,Carmarthenshire,0.0,2014,"Web Development (PHP, Drupal)",Software Development
+878,0,0.0,Carmarthenshire,0.0,2015,"Web Development (PHP, Drupal)",Software Development
+879,0,0.0,Carmarthenshire,0.0,2016,"Web Development (PHP, Drupal)",Software Development
+880,0,0.0,Wales,0.0,2012,Agile Project Management AGAIN,Business
+881,78,6.0,Wales,0.7237356005009924,2013,Agile Project Management AGAIN,Business
+882,88,5.0,Wales,0.4904739377885966,2014,Agile Project Management AGAIN,Business
+883,371,13.0,Wales,1.2667119521035288,2015,Agile Project Management AGAIN,Business
+884,588,19.0,Wales,1.2190314748321802,2016,Agile Project Management AGAIN,Business
+885,0,0.0,Cardiff,0.0,2012,Agile Project Management AGAIN,Business
+886,78,6.0,Cardiff,1.8901511874526464,2013,Agile Project Management AGAIN,Business
+887,88,5.0,Cardiff,1.2794149077321069,2014,Agile Project Management AGAIN,Business
+888,371,13.0,Cardiff,3.2558249343408563,2015,Agile Project Management AGAIN,Business
+889,588,19.0,Cardiff,3.1332719841428767,2016,Agile Project Management AGAIN,Business
+890,0,0.0,Pembrokeshire,0.0,2012,Agile Project Management AGAIN,Business
+891,0,0.0,Pembrokeshire,0.0,2013,Agile Project Management AGAIN,Business
+892,0,0.0,Pembrokeshire,0.0,2014,Agile Project Management AGAIN,Business
+893,0,0.0,Pembrokeshire,0.0,2015,Agile Project Management AGAIN,Business
+894,0,0.0,Pembrokeshire,0.0,2016,Agile Project Management AGAIN,Business
+895,0,0.0,Blaenau Gwent,0.0,2012,Agile Project Management AGAIN,Business
+896,0,0.0,Blaenau Gwent,0.0,2013,Agile Project Management AGAIN,Business
+897,0,0.0,Blaenau Gwent,0.0,2014,Agile Project Management AGAIN,Business
+898,0,0.0,Blaenau Gwent,0.0,2015,Agile Project Management AGAIN,Business
+899,0,0.0,Blaenau Gwent,0.0,2016,Agile Project Management AGAIN,Business
+900,0,0.0,Monmouthshire,0.0,2012,Agile Project Management AGAIN,Business
+901,0,0.0,Monmouthshire,0.0,2013,Agile Project Management AGAIN,Business
+902,0,0.0,Monmouthshire,0.0,2014,Agile Project Management AGAIN,Business
+903,0,0.0,Monmouthshire,0.0,2015,Agile Project Management AGAIN,Business
+904,0,0.0,Monmouthshire,0.0,2016,Agile Project Management AGAIN,Business
+905,0,0.0,Swansea,0.0,2012,Agile Project Management AGAIN,Business
+906,0,0.0,Swansea,0.0,2013,Agile Project Management AGAIN,Business
+907,0,0.0,Swansea,0.0,2014,Agile Project Management AGAIN,Business
+908,0,0.0,Swansea,0.0,2015,Agile Project Management AGAIN,Business
+909,0,0.0,Swansea,0.0,2016,Agile Project Management AGAIN,Business
+910,0,0.0,Gwynedd,0.0,2012,Agile Project Management AGAIN,Business
+911,0,0.0,Gwynedd,0.0,2013,Agile Project Management AGAIN,Business
+912,0,0.0,Gwynedd,0.0,2014,Agile Project Management AGAIN,Business
+913,0,0.0,Gwynedd,0.0,2015,Agile Project Management AGAIN,Business
+914,0,0.0,Gwynedd,0.0,2016,Agile Project Management AGAIN,Business
+915,0,0.0,Carmarthenshire,0.0,2012,Agile Project Management AGAIN,Business
+916,0,0.0,Carmarthenshire,0.0,2013,Agile Project Management AGAIN,Business
+917,0,0.0,Carmarthenshire,0.0,2014,Agile Project Management AGAIN,Business
+918,0,0.0,Carmarthenshire,0.0,2015,Agile Project Management AGAIN,Business
+919,0,0.0,Carmarthenshire,0.0,2016,Agile Project Management AGAIN,Business
+920,0,0.0,Wales,0.0,2012,Cyber Security,Cyber Security
+921,0,0.0,Wales,0.0,2013,Cyber Security,Cyber Security
+922,0,0.0,Wales,0.0,2014,Cyber Security,Cyber Security
+923,0,0.0,Wales,0.0,2015,Cyber Security,Cyber Security
+924,238,4.0,Wales,2.5351517438786497,2016,Cyber Security,Cyber Security
+925,0,0.0,Cardiff,0.0,2012,Cyber Security,Cyber Security
+926,0,0.0,Cardiff,0.0,2013,Cyber Security,Cyber Security
+927,0,0.0,Cardiff,0.0,2014,Cyber Security,Cyber Security
+928,0,0.0,Cardiff,0.0,2015,Cyber Security,Cyber Security
+929,0,0.0,Cardiff,0.0,2016,Cyber Security,Cyber Security
+930,0,0.0,Pembrokeshire,0.0,2012,Cyber Security,Cyber Security
+931,0,0.0,Pembrokeshire,0.0,2013,Cyber Security,Cyber Security
+932,0,0.0,Pembrokeshire,0.0,2014,Cyber Security,Cyber Security
+933,0,0.0,Pembrokeshire,0.0,2015,Cyber Security,Cyber Security
+934,0,0.0,Pembrokeshire,0.0,2016,Cyber Security,Cyber Security
+935,0,0.0,Blaenau Gwent,0.0,2012,Cyber Security,Cyber Security
+936,0,0.0,Blaenau Gwent,0.0,2013,Cyber Security,Cyber Security
+937,0,0.0,Blaenau Gwent,0.0,2014,Cyber Security,Cyber Security
+938,0,0.0,Blaenau Gwent,0.0,2015,Cyber Security,Cyber Security
+939,0,0.0,Blaenau Gwent,0.0,2016,Cyber Security,Cyber Security
+940,0,0.0,Monmouthshire,0.0,2012,Cyber Security,Cyber Security
+941,0,0.0,Monmouthshire,0.0,2013,Cyber Security,Cyber Security
+942,0,0.0,Monmouthshire,0.0,2014,Cyber Security,Cyber Security
+943,0,0.0,Monmouthshire,0.0,2015,Cyber Security,Cyber Security
+944,0,0.0,Monmouthshire,0.0,2016,Cyber Security,Cyber Security
+945,0,0.0,Swansea,0.0,2012,Cyber Security,Cyber Security
+946,0,0.0,Swansea,0.0,2013,Cyber Security,Cyber Security
+947,0,0.0,Swansea,0.0,2014,Cyber Security,Cyber Security
+948,0,0.0,Swansea,0.0,2015,Cyber Security,Cyber Security
+949,238,4.0,Swansea,12.490930409751158,2016,Cyber Security,Cyber Security
+950,0,0.0,Gwynedd,0.0,2012,Cyber Security,Cyber Security
+951,0,0.0,Gwynedd,0.0,2013,Cyber Security,Cyber Security
+952,0,0.0,Gwynedd,0.0,2014,Cyber Security,Cyber Security
+953,0,0.0,Gwynedd,0.0,2015,Cyber Security,Cyber Security
+954,0,0.0,Gwynedd,0.0,2016,Cyber Security,Cyber Security
+955,0,0.0,Carmarthenshire,0.0,2012,Cyber Security,Cyber Security
+956,0,0.0,Carmarthenshire,0.0,2013,Cyber Security,Cyber Security
+957,0,0.0,Carmarthenshire,0.0,2014,Cyber Security,Cyber Security
+958,0,0.0,Carmarthenshire,0.0,2015,Cyber Security,Cyber Security
+959,0,0.0,Carmarthenshire,0.0,2016,Cyber Security,Cyber Security
+960,14,2.0,Wales,0.01964680599063313,2012,Web Development Technologies,Software Development
+961,7,1.0,Wales,0.0072801166624440064,2013,Web Development Technologies,Software Development
+962,403,13.0,Wales,0.3081654149922428,2014,Web Development Technologies,Software Development
+963,858,45.0,Wales,0.530979924940802,2015,Web Development Technologies,Software Development
+964,855,45.0,Wales,0.4800017949757557,2016,Web Development Technologies,Software Development
+965,14,2.0,Cardiff,0.05122287696954279,2012,Web Development Technologies,Software Development
+966,7,1.0,Cardiff,0.019013188165383704,2013,Web Development Technologies,Software Development
+967,156,5.0,Cardiff,0.3111708602601259,2014,Web Development Technologies,Software Development
+968,280,20.0,Cardiff,0.4453813442603355,2015,Web Development Technologies,Software Development
+969,331,18.0,Cardiff,0.4776259526792414,2016,Web Development Technologies,Software Development
+970,0,0.0,Pembrokeshire,0.0,2012,Web Development Technologies,Software Development
+971,0,0.0,Pembrokeshire,0.0,2013,Web Development Technologies,Software Development
+972,0,0.0,Pembrokeshire,0.0,2014,Web Development Technologies,Software Development
+973,21,5.0,Pembrokeshire,0.15633873527508296,2015,Web Development Technologies,Software Development
+974,4,1.0,Pembrokeshire,0.027014269223595976,2016,Web Development Technologies,Software Development
+975,0,0.0,Blaenau Gwent,0.0,2012,Web Development Technologies,Software Development
+976,0,0.0,Blaenau Gwent,0.0,2013,Web Development Technologies,Software Development
+977,0,0.0,Blaenau Gwent,0.0,2014,Web Development Technologies,Software Development
+978,0,0.0,Blaenau Gwent,0.0,2015,Web Development Technologies,Software Development
+979,0,0.0,Blaenau Gwent,0.0,2016,Web Development Technologies,Software Development
+980,0,0.0,Monmouthshire,0.0,2012,Web Development Technologies,Software Development
+981,0,0.0,Monmouthshire,0.0,2013,Web Development Technologies,Software Development
+982,0,0.0,Monmouthshire,0.0,2014,Web Development Technologies,Software Development
+983,0,0.0,Monmouthshire,0.0,2015,Web Development Technologies,Software Development
+984,13,2.0,Monmouthshire,0.10980962732277283,2016,Web Development Technologies,Software Development
+985,0,0.0,Swansea,0.0,2012,Web Development Technologies,Software Development
+986,0,0.0,Swansea,0.0,2013,Web Development Technologies,Software Development
+987,247,8.0,Swansea,0.9195988568190804,2014,Web Development Technologies,Software Development
+988,511,18.0,Swansea,1.5581258878113955,2015,Web Development Technologies,Software Development
+989,95,6.0,Swansea,0.2627793180460777,2016,Web Development Technologies,Software Development
+990,0,0.0,Gwynedd,0.0,2012,Web Development Technologies,Software Development
+991,0,0.0,Gwynedd,0.0,2013,Web Development Technologies,Software Development
+992,0,0.0,Gwynedd,0.0,2014,Web Development Technologies,Software Development
+993,46,2.0,Gwynedd,0.2839595313692964,2015,Web Development Technologies,Software Development
+994,412,18.0,Gwynedd,2.307181538294654,2016,Web Development Technologies,Software Development
+995,0,0.0,Carmarthenshire,0.0,2012,Web Development Technologies,Software Development
+996,0,0.0,Carmarthenshire,0.0,2013,Web Development Technologies,Software Development
+997,0,0.0,Carmarthenshire,0.0,2014,Web Development Technologies,Software Development
+998,0,0.0,Carmarthenshire,0.0,2015,Web Development Technologies,Software Development
+999,0,0.0,Carmarthenshire,0.0,2016,Web Development Technologies,Software Development
+1000,0,0.0,Wales,0.0,2012,Quality Assurance,Software Development
+1001,0,0.0,Wales,0.0,2013,Quality Assurance,Software Development
+1002,176,8.0,Wales,0.7878250235610497,2014,Quality Assurance,Software Development
+1003,271,12.0,Wales,0.8521629059289145,2015,Quality Assurance,Software Development
+1004,105,7.0,Wales,0.29485028902363364,2016,Quality Assurance,Software Development
+1005,0,0.0,Cardiff,0.0,2012,Quality Assurance,Software Development
+1006,0,0.0,Cardiff,0.0,2013,Quality Assurance,Software Development
+1007,176,8.0,Cardiff,2.0550634848672686,2014,Quality Assurance,Software Development
+1008,271,12.0,Cardiff,2.1903110905650958,2015,Quality Assurance,Software Development
+1009,105,7.0,Cardiff,0.7578525814859406,2016,Quality Assurance,Software Development
+1010,0,0.0,Pembrokeshire,0.0,2012,Quality Assurance,Software Development
+1011,0,0.0,Pembrokeshire,0.0,2013,Quality Assurance,Software Development
+1012,0,0.0,Pembrokeshire,0.0,2014,Quality Assurance,Software Development
+1013,0,0.0,Pembrokeshire,0.0,2015,Quality Assurance,Software Development
+1014,0,0.0,Pembrokeshire,0.0,2016,Quality Assurance,Software Development
+1015,0,0.0,Blaenau Gwent,0.0,2012,Quality Assurance,Software Development
+1016,0,0.0,Blaenau Gwent,0.0,2013,Quality Assurance,Software Development
+1017,0,0.0,Blaenau Gwent,0.0,2014,Quality Assurance,Software Development
+1018,0,0.0,Blaenau Gwent,0.0,2015,Quality Assurance,Software Development
+1019,0,0.0,Blaenau Gwent,0.0,2016,Quality Assurance,Software Development
+1020,0,0.0,Monmouthshire,0.0,2012,Quality Assurance,Software Development
+1021,0,0.0,Monmouthshire,0.0,2013,Quality Assurance,Software Development
+1022,0,0.0,Monmouthshire,0.0,2014,Quality Assurance,Software Development
+1023,0,0.0,Monmouthshire,0.0,2015,Quality Assurance,Software Development
+1024,0,0.0,Monmouthshire,0.0,2016,Quality Assurance,Software Development
+1025,0,0.0,Swansea,0.0,2012,Quality Assurance,Software Development
+1026,0,0.0,Swansea,0.0,2013,Quality Assurance,Software Development
+1027,0,0.0,Swansea,0.0,2014,Quality Assurance,Software Development
+1028,0,0.0,Swansea,0.0,2015,Quality Assurance,Software Development
+1029,0,0.0,Swansea,0.0,2016,Quality Assurance,Software Development
+1030,0,0.0,Gwynedd,0.0,2012,Quality Assurance,Software Development
+1031,0,0.0,Gwynedd,0.0,2013,Quality Assurance,Software Development
+1032,0,0.0,Gwynedd,0.0,2014,Quality Assurance,Software Development
+1033,0,0.0,Gwynedd,0.0,2015,Quality Assurance,Software Development
+1034,0,0.0,Gwynedd,0.0,2016,Quality Assurance,Software Development
+1035,0,0.0,Carmarthenshire,0.0,2012,Quality Assurance,Software Development
+1036,0,0.0,Carmarthenshire,0.0,2013,Quality Assurance,Software Development
+1037,0,0.0,Carmarthenshire,0.0,2014,Quality Assurance,Software Development
+1038,0,0.0,Carmarthenshire,0.0,2015,Quality Assurance,Software Development
+1039,0,0.0,Carmarthenshire,0.0,2016,Quality Assurance,Software Development
+1040,0,0.0,Wales,0.0,2012,Women in Tech,Software Development
+1041,16,4.0,Wales,0.019463548051149887,2013,Women in Tech,Software Development
+1042,13,4.0,Wales,0.01256763657301585,2014,Women in Tech,Software Development
+1043,101,30.0,Wales,0.07059900827698899,2015,Women in Tech,Software Development
+1044,456,28.0,Wales,0.2806634561215749,2016,Women in Tech,Software Development
+1045,0,0.0,Cardiff,0.0,2012,Women in Tech,Software Development
+1046,16,4.0,Cardiff,0.05083216638155712,2013,Women in Tech,Software Development
+1047,13,4.0,Cardiff,0.03278302953052353,2014,Women in Tech,Software Development
+1048,30,12.0,Cardiff,0.05389911792040228,2015,Women in Tech,Software Development
+1049,42,9.0,Cardiff,0.06644365171254793,2016,Women in Tech,Software Development
+1050,0,0.0,Pembrokeshire,0.0,2012,Women in Tech,Software Development
+1051,0,0.0,Pembrokeshire,0.0,2013,Women in Tech,Software Development
+1052,0,0.0,Pembrokeshire,0.0,2014,Women in Tech,Software Development
+1053,0,0.0,Pembrokeshire,0.0,2015,Women in Tech,Software Development
+1054,0,0.0,Pembrokeshire,0.0,2016,Women in Tech,Software Development
+1055,0,0.0,Blaenau Gwent,0.0,2012,Women in Tech,Software Development
+1056,0,0.0,Blaenau Gwent,0.0,2013,Women in Tech,Software Development
+1057,0,0.0,Blaenau Gwent,0.0,2014,Women in Tech,Software Development
+1058,0,0.0,Blaenau Gwent,0.0,2015,Women in Tech,Software Development
+1059,2,1.0,Blaenau Gwent,0.03542692753164504,2016,Women in Tech,Software Development
+1060,0,0.0,Monmouthshire,0.0,2012,Women in Tech,Software Development
+1061,0,0.0,Monmouthshire,0.0,2013,Women in Tech,Software Development
+1062,0,0.0,Monmouthshire,0.0,2014,Women in Tech,Software Development
+1063,0,0.0,Monmouthshire,0.0,2015,Women in Tech,Software Development
+1064,0,0.0,Monmouthshire,0.0,2016,Women in Tech,Software Development
+1065,0,0.0,Swansea,0.0,2012,Women in Tech,Software Development
+1066,0,0.0,Swansea,0.0,2013,Women in Tech,Software Development
+1067,0,0.0,Swansea,0.0,2014,Women in Tech,Software Development
+1068,0,0.0,Swansea,0.0,2015,Women in Tech,Software Development
+1069,0,0.0,Swansea,0.0,2016,Women in Tech,Software Development
+1070,0,0.0,Gwynedd,0.0,2012,Women in Tech,Software Development
+1071,0,0.0,Gwynedd,0.0,2013,Women in Tech,Software Development
+1072,0,0.0,Gwynedd,0.0,2014,Women in Tech,Software Development
+1073,46,2.0,Gwynedd,0.32073242175330874,2015,Women in Tech,Software Development
+1074,412,18.0,Gwynedd,2.5294496989994686,2016,Women in Tech,Software Development
+1075,0,0.0,Carmarthenshire,0.0,2012,Women in Tech,Software Development
+1076,0,0.0,Carmarthenshire,0.0,2013,Women in Tech,Software Development
+1077,0,0.0,Carmarthenshire,0.0,2014,Women in Tech,Software Development
+1078,25,16.0,Carmarthenshire,0.14162260522479936,2015,Women in Tech,Software Development
+1079,0,0.0,Carmarthenshire,0.0,2016,Women in Tech,Software Development
+1080,0,0.0,Wales,0.0,2012,Job hunting - Learn programming,Business
+1081,0,0.0,Wales,0.0,2013,Job hunting - Learn programming,Business
+1082,0,0.0,Wales,0.0,2014,Job hunting - Learn programming,Business
+1083,0,0.0,Wales,0.0,2015,Job hunting - Learn programming,Business
+1084,13,2.0,Wales,0.04146705207940838,2016,Job hunting - Learn programming,Business
+1085,0,0.0,Cardiff,0.0,2012,Job hunting - Learn programming,Business
+1086,0,0.0,Cardiff,0.0,2013,Job hunting - Learn programming,Business
+1087,0,0.0,Cardiff,0.0,2014,Job hunting - Learn programming,Business
+1088,0,0.0,Cardiff,0.0,2015,Job hunting - Learn programming,Business
+1089,0,0.0,Cardiff,0.0,2016,Job hunting - Learn programming,Business
+1090,0,0.0,Pembrokeshire,0.0,2012,Job hunting - Learn programming,Business
+1091,0,0.0,Pembrokeshire,0.0,2013,Job hunting - Learn programming,Business
+1092,0,0.0,Pembrokeshire,0.0,2014,Job hunting - Learn programming,Business
+1093,0,0.0,Pembrokeshire,0.0,2015,Job hunting - Learn programming,Business
+1094,0,0.0,Pembrokeshire,0.0,2016,Job hunting - Learn programming,Business
+1095,0,0.0,Blaenau Gwent,0.0,2012,Job hunting - Learn programming,Business
+1096,0,0.0,Blaenau Gwent,0.0,2013,Job hunting - Learn programming,Business
+1097,0,0.0,Blaenau Gwent,0.0,2014,Job hunting - Learn programming,Business
+1098,0,0.0,Blaenau Gwent,0.0,2015,Job hunting - Learn programming,Business
+1099,0,0.0,Blaenau Gwent,0.0,2016,Job hunting - Learn programming,Business
+1100,0,0.0,Monmouthshire,0.0,2012,Job hunting - Learn programming,Business
+1101,0,0.0,Monmouthshire,0.0,2013,Job hunting - Learn programming,Business
+1102,0,0.0,Monmouthshire,0.0,2014,Job hunting - Learn programming,Business
+1103,0,0.0,Monmouthshire,0.0,2015,Job hunting - Learn programming,Business
+1104,13,2.0,Monmouthshire,0.6239122041093265,2016,Job hunting - Learn programming,Business
+1105,0,0.0,Swansea,0.0,2012,Job hunting - Learn programming,Business
+1106,0,0.0,Swansea,0.0,2013,Job hunting - Learn programming,Business
+1107,0,0.0,Swansea,0.0,2014,Job hunting - Learn programming,Business
+1108,0,0.0,Swansea,0.0,2015,Job hunting - Learn programming,Business
+1109,0,0.0,Swansea,0.0,2016,Job hunting - Learn programming,Business
+1110,0,0.0,Gwynedd,0.0,2012,Job hunting - Learn programming,Business
+1111,0,0.0,Gwynedd,0.0,2013,Job hunting - Learn programming,Business
+1112,0,0.0,Gwynedd,0.0,2014,Job hunting - Learn programming,Business
+1113,0,0.0,Gwynedd,0.0,2015,Job hunting - Learn programming,Business
+1114,0,0.0,Gwynedd,0.0,2016,Job hunting - Learn programming,Business
+1115,0,0.0,Carmarthenshire,0.0,2012,Job hunting - Learn programming,Business
+1116,0,0.0,Carmarthenshire,0.0,2013,Job hunting - Learn programming,Business
+1117,0,0.0,Carmarthenshire,0.0,2014,Job hunting - Learn programming,Business
+1118,0,0.0,Carmarthenshire,0.0,2015,Job hunting - Learn programming,Business
+1119,0,0.0,Carmarthenshire,0.0,2016,Job hunting - Learn programming,Business
+1120,0,0.0,Wales,0.0,2012,Enterpreneurship & Product Design,Business
+1121,162,7.0,Wales,0.8039483449248798,2013,Enterpreneurship & Product Design,Business
+1122,382,11.0,Wales,1.5615553188174056,2014,Enterpreneurship & Product Design,Business
+1123,537,18.0,Wales,1.0074439770199186,2015,Enterpreneurship & Product Design,Business
+1124,592,22.0,Wales,0.9007205302601912,2016,Enterpreneurship & Product Design,Business
+1125,0,0.0,Cardiff,0.0,2012,Enterpreneurship & Product Design,Business
+1126,162,7.0,Cardiff,2.099639589041147,2013,Enterpreneurship & Product Design,Business
+1127,382,11.0,Cardiff,4.0733604789506135,2014,Enterpreneurship & Product Design,Business
+1128,325,12.0,Cardiff,1.567159344294487,2015,Enterpreneurship & Product Design,Business
+1129,180,4.0,Cardiff,0.7039211863773851,2016,Enterpreneurship & Product Design,Business
+1130,0,0.0,Pembrokeshire,0.0,2012,Enterpreneurship & Product Design,Business
+1131,0,0.0,Pembrokeshire,0.0,2013,Enterpreneurship & Product Design,Business
+1132,0,0.0,Pembrokeshire,0.0,2014,Enterpreneurship & Product Design,Business
+1133,0,0.0,Pembrokeshire,0.0,2015,Enterpreneurship & Product Design,Business
+1134,0,0.0,Pembrokeshire,0.0,2016,Enterpreneurship & Product Design,Business
+1135,0,0.0,Blaenau Gwent,0.0,2012,Enterpreneurship & Product Design,Business
+1136,0,0.0,Blaenau Gwent,0.0,2013,Enterpreneurship & Product Design,Business
+1137,0,0.0,Blaenau Gwent,0.0,2014,Enterpreneurship & Product Design,Business
+1138,0,0.0,Blaenau Gwent,0.0,2015,Enterpreneurship & Product Design,Business
+1139,0,0.0,Blaenau Gwent,0.0,2016,Enterpreneurship & Product Design,Business
+1140,0,0.0,Monmouthshire,0.0,2012,Enterpreneurship & Product Design,Business
+1141,0,0.0,Monmouthshire,0.0,2013,Enterpreneurship & Product Design,Business
+1142,0,0.0,Monmouthshire,0.0,2014,Enterpreneurship & Product Design,Business
+1143,0,0.0,Monmouthshire,0.0,2015,Enterpreneurship & Product Design,Business
+1144,0,0.0,Monmouthshire,0.0,2016,Enterpreneurship & Product Design,Business
+1145,0,0.0,Swansea,0.0,2012,Enterpreneurship & Product Design,Business
+1146,0,0.0,Swansea,0.0,2013,Enterpreneurship & Product Design,Business
+1147,0,0.0,Swansea,0.0,2014,Enterpreneurship & Product Design,Business
+1148,166,4.0,Swansea,1.5344245429625305,2015,Enterpreneurship & Product Design,Business
+1149,0,0.0,Swansea,0.0,2016,Enterpreneurship & Product Design,Business
+1150,0,0.0,Gwynedd,0.0,2012,Enterpreneurship & Product Design,Business
+1151,0,0.0,Gwynedd,0.0,2013,Enterpreneurship & Product Design,Business
+1152,0,0.0,Gwynedd,0.0,2014,Enterpreneurship & Product Design,Business
+1153,46,2.0,Gwynedd,0.860819816145912,2015,Enterpreneurship & Product Design,Business
+1154,412,18.0,Gwynedd,6.252783278144037,2016,Enterpreneurship & Product Design,Business
+1155,0,0.0,Carmarthenshire,0.0,2012,Enterpreneurship & Product Design,Business
+1156,0,0.0,Carmarthenshire,0.0,2013,Enterpreneurship & Product Design,Business
+1157,0,0.0,Carmarthenshire,0.0,2014,Enterpreneurship & Product Design,Business
+1158,0,0.0,Carmarthenshire,0.0,2015,Enterpreneurship & Product Design,Business
+1159,0,0.0,Carmarthenshire,0.0,2016,Enterpreneurship & Product Design,Business
+1160,0,0.0,Wales,0.0,2012,Mobile Development,Software Development
+1161,0,0.0,Wales,0.0,2013,Mobile Development,Software Development
+1162,19,2.0,Wales,0.02791871416506468,2014,Mobile Development,Software Development
+1163,177,30.0,Wales,0.1796742453643234,2015,Mobile Development,Software Development
+1164,501,24.0,Wales,0.4368987220687632,2016,Mobile Development,Software Development
+1165,0,0.0,Cardiff,0.0,2012,Mobile Development,Software Development
+1166,0,0.0,Cardiff,0.0,2013,Mobile Development,Software Development
+1167,19,2.0,Cardiff,0.07282674237196902,2014,Mobile Development,Software Development
+1168,106,12.0,Cardiff,0.2765677935101571,2015,Mobile Development,Software Development
+1169,89,6.0,Cardiff,0.19948774983682493,2016,Mobile Development,Software Development
+1170,0,0.0,Pembrokeshire,0.0,2012,Mobile Development,Software Development
+1171,0,0.0,Pembrokeshire,0.0,2013,Mobile Development,Software Development
+1172,0,0.0,Pembrokeshire,0.0,2014,Mobile Development,Software Development
+1173,0,0.0,Pembrokeshire,0.0,2015,Mobile Development,Software Development
+1174,0,0.0,Pembrokeshire,0.0,2016,Mobile Development,Software Development
+1175,0,0.0,Blaenau Gwent,0.0,2012,Mobile Development,Software Development
+1176,0,0.0,Blaenau Gwent,0.0,2013,Mobile Development,Software Development
+1177,0,0.0,Blaenau Gwent,0.0,2014,Mobile Development,Software Development
+1178,0,0.0,Blaenau Gwent,0.0,2015,Mobile Development,Software Development
+1179,0,0.0,Blaenau Gwent,0.0,2016,Mobile Development,Software Development
+1180,0,0.0,Monmouthshire,0.0,2012,Mobile Development,Software Development
+1181,0,0.0,Monmouthshire,0.0,2013,Mobile Development,Software Development
+1182,0,0.0,Monmouthshire,0.0,2014,Mobile Development,Software Development
+1183,0,0.0,Monmouthshire,0.0,2015,Mobile Development,Software Development
+1184,0,0.0,Monmouthshire,0.0,2016,Mobile Development,Software Development
+1185,0,0.0,Swansea,0.0,2012,Mobile Development,Software Development
+1186,0,0.0,Swansea,0.0,2013,Mobile Development,Software Development
+1187,0,0.0,Swansea,0.0,2014,Mobile Development,Software Development
+1188,0,0.0,Swansea,0.0,2015,Mobile Development,Software Development
+1189,0,0.0,Swansea,0.0,2016,Mobile Development,Software Development
+1190,0,0.0,Gwynedd,0.0,2012,Mobile Development,Software Development
+1191,0,0.0,Gwynedd,0.0,2013,Mobile Development,Software Development
+1192,0,0.0,Gwynedd,0.0,2014,Mobile Development,Software Development
+1193,46,2.0,Gwynedd,0.4657771722816135,2015,Mobile Development,Software Development
+1194,412,18.0,Gwynedd,3.583835521701655,2016,Mobile Development,Software Development
+1195,0,0.0,Carmarthenshire,0.0,2012,Mobile Development,Software Development
+1196,0,0.0,Carmarthenshire,0.0,2013,Mobile Development,Software Development
+1197,0,0.0,Carmarthenshire,0.0,2014,Mobile Development,Software Development
+1198,25,16.0,Carmarthenshire,0.20566856394549016,2015,Mobile Development,Software Development
+1199,0,0.0,Carmarthenshire,0.0,2016,Mobile Development,Software Development
+1200,0,0.0,Wales,0.0,2012,Cloud Computing (System integration),Cloud Computing
+1201,16,4.0,Wales,0.2693122009573541,2013,Cloud Computing (System integration),Cloud Computing
+1202,13,4.0,Wales,0.08197950324129635,2014,Cloud Computing (System integration),Cloud Computing
+1203,22,5.0,Wales,0.0988511593680408,2015,Cloud Computing (System integration),Cloud Computing
+1204,38,7.0,Wales,0.1511692751660852,2016,Cloud Computing (System integration),Cloud Computing
+1205,0,0.0,Cardiff,0.0,2012,Cloud Computing (System integration),Cloud Computing
+1206,16,4.0,Cardiff,0.7033518540232852,2013,Cloud Computing (System integration),Cloud Computing
+1207,13,4.0,Cardiff,0.21384581421040735,2014,Cloud Computing (System integration),Cloud Computing
+1208,22,5.0,Cardiff,0.25407676064357904,2015,Cloud Computing (System integration),Cloud Computing
+1209,38,7.0,Cardiff,0.3885498155872362,2016,Cloud Computing (System integration),Cloud Computing
+1210,0,0.0,Pembrokeshire,0.0,2012,Cloud Computing (System integration),Cloud Computing
+1211,0,0.0,Pembrokeshire,0.0,2013,Cloud Computing (System integration),Cloud Computing
+1212,0,0.0,Pembrokeshire,0.0,2014,Cloud Computing (System integration),Cloud Computing
+1213,0,0.0,Pembrokeshire,0.0,2015,Cloud Computing (System integration),Cloud Computing
+1214,0,0.0,Pembrokeshire,0.0,2016,Cloud Computing (System integration),Cloud Computing
+1215,0,0.0,Blaenau Gwent,0.0,2012,Cloud Computing (System integration),Cloud Computing
+1216,0,0.0,Blaenau Gwent,0.0,2013,Cloud Computing (System integration),Cloud Computing
+1217,0,0.0,Blaenau Gwent,0.0,2014,Cloud Computing (System integration),Cloud Computing
+1218,0,0.0,Blaenau Gwent,0.0,2015,Cloud Computing (System integration),Cloud Computing
+1219,0,0.0,Blaenau Gwent,0.0,2016,Cloud Computing (System integration),Cloud Computing
+1220,0,0.0,Monmouthshire,0.0,2012,Cloud Computing (System integration),Cloud Computing
+1221,0,0.0,Monmouthshire,0.0,2013,Cloud Computing (System integration),Cloud Computing
+1222,0,0.0,Monmouthshire,0.0,2014,Cloud Computing (System integration),Cloud Computing
+1223,0,0.0,Monmouthshire,0.0,2015,Cloud Computing (System integration),Cloud Computing
+1224,0,0.0,Monmouthshire,0.0,2016,Cloud Computing (System integration),Cloud Computing
+1225,0,0.0,Swansea,0.0,2012,Cloud Computing (System integration),Cloud Computing
+1226,0,0.0,Swansea,0.0,2013,Cloud Computing (System integration),Cloud Computing
+1227,0,0.0,Swansea,0.0,2014,Cloud Computing (System integration),Cloud Computing
+1228,0,0.0,Swansea,0.0,2015,Cloud Computing (System integration),Cloud Computing
+1229,0,0.0,Swansea,0.0,2016,Cloud Computing (System integration),Cloud Computing
+1230,0,0.0,Gwynedd,0.0,2012,Cloud Computing (System integration),Cloud Computing
+1231,0,0.0,Gwynedd,0.0,2013,Cloud Computing (System integration),Cloud Computing
+1232,0,0.0,Gwynedd,0.0,2014,Cloud Computing (System integration),Cloud Computing
+1233,0,0.0,Gwynedd,0.0,2015,Cloud Computing (System integration),Cloud Computing
+1234,0,0.0,Gwynedd,0.0,2016,Cloud Computing (System integration),Cloud Computing
+1235,0,0.0,Carmarthenshire,0.0,2012,Cloud Computing (System integration),Cloud Computing
+1236,0,0.0,Carmarthenshire,0.0,2013,Cloud Computing (System integration),Cloud Computing
+1237,0,0.0,Carmarthenshire,0.0,2014,Cloud Computing (System integration),Cloud Computing
+1238,0,0.0,Carmarthenshire,0.0,2015,Cloud Computing (System integration),Cloud Computing
+1239,0,0.0,Carmarthenshire,0.0,2016,Cloud Computing (System integration),Cloud Computing
+1240,0,0.0,Wales,0.0,2012,Programming AGAIN,Software Development
+1241,178,11.0,Wales,2.918827049959853,2013,Programming AGAIN,Software Development
+1242,395,15.0,Wales,1.4878241915836328,2014,Programming AGAIN,Software Development
+1243,301,18.0,Wales,0.6456342749383785,2015,Programming AGAIN,Software Development
+1244,105,10.0,Wales,0.1853099226644488,2016,Programming AGAIN,Software Development
+1245,0,0.0,Cardiff,0.0,2012,Programming AGAIN,Software Development
+1246,178,11.0,Cardiff,7.622983325169391,2013,Programming AGAIN,Software Development
+1247,395,15.0,Cardiff,3.881030782958815,2014,Programming AGAIN,Software Development
+1248,301,18.0,Cardiff,1.6594713323093753,2015,Programming AGAIN,Software Development
+1249,105,10.0,Cardiff,0.4763013925855633,2016,Programming AGAIN,Software Development
+1250,0,0.0,Pembrokeshire,0.0,2012,Programming AGAIN,Software Development
+1251,0,0.0,Pembrokeshire,0.0,2013,Programming AGAIN,Software Development
+1252,0,0.0,Pembrokeshire,0.0,2014,Programming AGAIN,Software Development
+1253,0,0.0,Pembrokeshire,0.0,2015,Programming AGAIN,Software Development
+1254,0,0.0,Pembrokeshire,0.0,2016,Programming AGAIN,Software Development
+1255,0,0.0,Blaenau Gwent,0.0,2012,Programming AGAIN,Software Development
+1256,0,0.0,Blaenau Gwent,0.0,2013,Programming AGAIN,Software Development
+1257,0,0.0,Blaenau Gwent,0.0,2014,Programming AGAIN,Software Development
+1258,0,0.0,Blaenau Gwent,0.0,2015,Programming AGAIN,Software Development
+1259,0,0.0,Blaenau Gwent,0.0,2016,Programming AGAIN,Software Development
+1260,0,0.0,Monmouthshire,0.0,2012,Programming AGAIN,Software Development
+1261,0,0.0,Monmouthshire,0.0,2013,Programming AGAIN,Software Development
+1262,0,0.0,Monmouthshire,0.0,2014,Programming AGAIN,Software Development
+1263,0,0.0,Monmouthshire,0.0,2015,Programming AGAIN,Software Development
+1264,0,0.0,Monmouthshire,0.0,2016,Programming AGAIN,Software Development
+1265,0,0.0,Swansea,0.0,2012,Programming AGAIN,Software Development
+1266,0,0.0,Swansea,0.0,2013,Programming AGAIN,Software Development
+1267,0,0.0,Swansea,0.0,2014,Programming AGAIN,Software Development
+1268,0,0.0,Swansea,0.0,2015,Programming AGAIN,Software Development
+1269,0,0.0,Swansea,0.0,2016,Programming AGAIN,Software Development
+1270,0,0.0,Gwynedd,0.0,2012,Programming AGAIN,Software Development
+1271,0,0.0,Gwynedd,0.0,2013,Programming AGAIN,Software Development
+1272,0,0.0,Gwynedd,0.0,2014,Programming AGAIN,Software Development
+1273,0,0.0,Gwynedd,0.0,2015,Programming AGAIN,Software Development
+1274,0,0.0,Gwynedd,0.0,2016,Programming AGAIN,Software Development
+1275,0,0.0,Carmarthenshire,0.0,2012,Programming AGAIN,Software Development
+1276,0,0.0,Carmarthenshire,0.0,2013,Programming AGAIN,Software Development
+1277,0,0.0,Carmarthenshire,0.0,2014,Programming AGAIN,Software Development
+1278,0,0.0,Carmarthenshire,0.0,2015,Programming AGAIN,Software Development
+1279,0,0.0,Carmarthenshire,0.0,2016,Programming AGAIN,Software Development
+1280,0,0.0,Wales,0.0,2012,Programming Source Code Management,Software Development
+1281,0,0.0,Wales,0.0,2013,Programming Source Code Management,Software Development
+1282,415,15.0,Wales,1.3502244669747816,2014,Programming Source Code Management,Software Development
+1283,527,22.0,Wales,0.8771225884386221,2015,Programming Source Code Management,Software Development
+1284,102,5.0,Wales,0.13292872126435265,2016,Programming Source Code Management,Software Development
+1285,0,0.0,Cardiff,0.0,2012,Programming Source Code Management,Software Development
+1286,0,0.0,Cardiff,0.0,2013,Programming Source Code Management,Software Development
+1287,176,8.0,Cardiff,1.493709062881161,2014,Programming Source Code Management,Software Development
+1288,206,10.0,Cardiff,0.8812519218426611,2015,Programming Source Code Management,Software Development
+1289,49,3.0,Cardiff,0.1641337574405182,2016,Programming Source Code Management,Software Development
+1290,0,0.0,Pembrokeshire,0.0,2012,Programming Source Code Management,Software Development
+1291,0,0.0,Pembrokeshire,0.0,2013,Programming Source Code Management,Software Development
+1292,0,0.0,Pembrokeshire,0.0,2014,Programming Source Code Management,Software Development
+1293,0,0.0,Pembrokeshire,0.0,2015,Programming Source Code Management,Software Development
+1294,0,0.0,Pembrokeshire,0.0,2016,Programming Source Code Management,Software Development
+1295,0,0.0,Blaenau Gwent,0.0,2012,Programming Source Code Management,Software Development
+1296,0,0.0,Blaenau Gwent,0.0,2013,Programming Source Code Management,Software Development
+1297,0,0.0,Blaenau Gwent,0.0,2014,Programming Source Code Management,Software Development
+1298,0,0.0,Blaenau Gwent,0.0,2015,Programming Source Code Management,Software Development
+1299,0,0.0,Blaenau Gwent,0.0,2016,Programming Source Code Management,Software Development
+1300,0,0.0,Monmouthshire,0.0,2012,Programming Source Code Management,Software Development
+1301,0,0.0,Monmouthshire,0.0,2013,Programming Source Code Management,Software Development
+1302,0,0.0,Monmouthshire,0.0,2014,Programming Source Code Management,Software Development
+1303,0,0.0,Monmouthshire,0.0,2015,Programming Source Code Management,Software Development
+1304,0,0.0,Monmouthshire,0.0,2016,Programming Source Code Management,Software Development
+1305,0,0.0,Swansea,0.0,2012,Programming Source Code Management,Software Development
+1306,0,0.0,Swansea,0.0,2013,Programming Source Code Management,Software Development
+1307,239,7.0,Swansea,3.785980706530215,2014,Programming Source Code Management,Software Development
+1308,321,12.0,Swansea,2.63236157026654,2015,Programming Source Code Management,Software Development
+1309,53,2.0,Swansea,0.3403183399229813,2016,Programming Source Code Management,Software Development
+1310,0,0.0,Gwynedd,0.0,2012,Programming Source Code Management,Software Development
+1311,0,0.0,Gwynedd,0.0,2013,Programming Source Code Management,Software Development
+1312,0,0.0,Gwynedd,0.0,2014,Programming Source Code Management,Software Development
+1313,0,0.0,Gwynedd,0.0,2015,Programming Source Code Management,Software Development
+1314,0,0.0,Gwynedd,0.0,2016,Programming Source Code Management,Software Development
+1315,0,0.0,Carmarthenshire,0.0,2012,Programming Source Code Management,Software Development
+1316,0,0.0,Carmarthenshire,0.0,2013,Programming Source Code Management,Software Development
+1317,0,0.0,Carmarthenshire,0.0,2014,Programming Source Code Management,Software Development
+1318,0,0.0,Carmarthenshire,0.0,2015,Programming Source Code Management,Software Development
+1319,0,0.0,Carmarthenshire,0.0,2016,Programming Source Code Management,Software Development
+1320,0,0.0,Wales,0.0,2012,"Web Development (HTML, CSS)",Software Development
+1321,0,0.0,Wales,0.0,2013,"Web Development (HTML, CSS)",Software Development
+1322,324,33.0,Wales,0.2824593370312596,2014,"Web Development (HTML, CSS)",Software Development
+1323,937,71.0,Wales,0.5529299476620586,2015,"Web Development (HTML, CSS)",Software Development
+1324,822,55.0,Wales,0.3701982042940277,2016,"Web Development (HTML, CSS)",Software Development
+1325,0,0.0,Cardiff,0.0,2012,"Web Development (HTML, CSS)",Software Development
+1326,0,0.0,Cardiff,0.0,2013,"Web Development (HTML, CSS)",Software Development
+1327,43,2.0,Cardiff,0.09778558816100956,2014,"Web Development (HTML, CSS)",Software Development
+1328,371,48.0,Cardiff,0.5627138544187353,2015,"Web Development (HTML, CSS)",Software Development
+1329,315,31.0,Cardiff,0.36463320983811776,2016,"Web Development (HTML, CSS)",Software Development
+1330,0,0.0,Pembrokeshire,0.0,2012,"Web Development (HTML, CSS)",Software Development
+1331,0,0.0,Pembrokeshire,0.0,2013,"Web Development (HTML, CSS)",Software Development
+1332,0,0.0,Pembrokeshire,0.0,2014,"Web Development (HTML, CSS)",Software Development
+1333,0,0.0,Pembrokeshire,0.0,2015,"Web Development (HTML, CSS)",Software Development
+1334,0,0.0,Pembrokeshire,0.0,2016,"Web Development (HTML, CSS)",Software Development
+1335,0,0.0,Blaenau Gwent,0.0,2012,"Web Development (HTML, CSS)",Software Development
+1336,0,0.0,Blaenau Gwent,0.0,2013,"Web Development (HTML, CSS)",Software Development
+1337,0,0.0,Blaenau Gwent,0.0,2014,"Web Development (HTML, CSS)",Software Development
+1338,0,0.0,Blaenau Gwent,0.0,2015,"Web Development (HTML, CSS)",Software Development
+1339,0,0.0,Blaenau Gwent,0.0,2016,"Web Development (HTML, CSS)",Software Development
+1340,0,0.0,Monmouthshire,0.0,2012,"Web Development (HTML, CSS)",Software Development
+1341,0,0.0,Monmouthshire,0.0,2013,"Web Development (HTML, CSS)",Software Development
+1342,0,0.0,Monmouthshire,0.0,2014,"Web Development (HTML, CSS)",Software Development
+1343,0,0.0,Monmouthshire,0.0,2015,"Web Development (HTML, CSS)",Software Development
+1344,0,0.0,Monmouthshire,0.0,2016,"Web Development (HTML, CSS)",Software Development
+1345,0,0.0,Swansea,0.0,2012,"Web Development (HTML, CSS)",Software Development
+1346,0,0.0,Swansea,0.0,2013,"Web Development (HTML, CSS)",Software Development
+1347,281,31.0,Swansea,1.1927237410233271,2014,"Web Development (HTML, CSS)",Software Development
+1348,520,21.0,Swansea,1.5119056664517256,2015,"Web Development (HTML, CSS)",Software Development
+1349,95,6.0,Swansea,0.21080306681123887,2016,"Web Development (HTML, CSS)",Software Development
+1350,0,0.0,Gwynedd,0.0,2012,"Web Development (HTML, CSS)",Software Development
+1351,0,0.0,Gwynedd,0.0,2013,"Web Development (HTML, CSS)",Software Development
+1352,0,0.0,Gwynedd,0.0,2014,"Web Development (HTML, CSS)",Software Development
+1353,46,2.0,Gwynedd,0.2707672652990134,2015,"Web Development (HTML, CSS)",Software Development
+1354,412,18.0,Gwynedd,1.850834181240636,2016,"Web Development (HTML, CSS)",Software Development
+1355,0,0.0,Carmarthenshire,0.0,2012,"Web Development (HTML, CSS)",Software Development
+1356,0,0.0,Carmarthenshire,0.0,2013,"Web Development (HTML, CSS)",Software Development
+1357,0,0.0,Carmarthenshire,0.0,2014,"Web Development (HTML, CSS)",Software Development
+1358,0,0.0,Carmarthenshire,0.0,2015,"Web Development (HTML, CSS)",Software Development
+1359,0,0.0,Carmarthenshire,0.0,2016,"Web Development (HTML, CSS)",Software Development
+1360,0,0.0,Wales,0.0,2012,Data Analysis,Data Science
+1361,0,0.0,Wales,0.0,2013,Data Analysis,Data Science
+1362,62,24.0,Wales,0.5239776751724867,2014,Data Analysis,Data Science
+1363,41,6.0,Wales,0.2255927523264488,2015,Data Analysis,Data Science
+1364,62,8.0,Wales,0.18566425115470586,2016,Data Analysis,Data Science
+1365,0,0.0,Cardiff,0.0,2012,Data Analysis,Data Science
+1366,0,0.0,Cardiff,0.0,2013,Data Analysis,Data Science
+1367,28,1.0,Cardiff,0.6172691851292453,2014,Data Analysis,Data Science
+1368,32,3.0,Cardiff,0.4525582026481512,2015,Data Analysis,Data Science
+1369,62,8.0,Cardiff,0.4772121217624773,2016,Data Analysis,Data Science
+1370,0,0.0,Pembrokeshire,0.0,2012,Data Analysis,Data Science
+1371,0,0.0,Pembrokeshire,0.0,2013,Data Analysis,Data Science
+1372,0,0.0,Pembrokeshire,0.0,2014,Data Analysis,Data Science
+1373,0,0.0,Pembrokeshire,0.0,2015,Data Analysis,Data Science
+1374,0,0.0,Pembrokeshire,0.0,2016,Data Analysis,Data Science
+1375,0,0.0,Blaenau Gwent,0.0,2012,Data Analysis,Data Science
+1376,0,0.0,Blaenau Gwent,0.0,2013,Data Analysis,Data Science
+1377,0,0.0,Blaenau Gwent,0.0,2014,Data Analysis,Data Science
+1378,0,0.0,Blaenau Gwent,0.0,2015,Data Analysis,Data Science
+1379,0,0.0,Blaenau Gwent,0.0,2016,Data Analysis,Data Science
+1380,0,0.0,Monmouthshire,0.0,2012,Data Analysis,Data Science
+1381,0,0.0,Monmouthshire,0.0,2013,Data Analysis,Data Science
+1382,0,0.0,Monmouthshire,0.0,2014,Data Analysis,Data Science
+1383,0,0.0,Monmouthshire,0.0,2015,Data Analysis,Data Science
+1384,0,0.0,Monmouthshire,0.0,2016,Data Analysis,Data Science
+1385,0,0.0,Swansea,0.0,2012,Data Analysis,Data Science
+1386,0,0.0,Swansea,0.0,2013,Data Analysis,Data Science
+1387,34,23.0,Swansea,1.3990158343831685,2014,Data Analysis,Data Science
+1388,9,3.0,Swansea,0.2439914594665705,2015,Data Analysis,Data Science
+1389,0,0.0,Swansea,0.0,2016,Data Analysis,Data Science
+1390,0,0.0,Gwynedd,0.0,2012,Data Analysis,Data Science
+1391,0,0.0,Gwynedd,0.0,2013,Data Analysis,Data Science
+1392,0,0.0,Gwynedd,0.0,2014,Data Analysis,Data Science
+1393,0,0.0,Gwynedd,0.0,2015,Data Analysis,Data Science
+1394,0,0.0,Gwynedd,0.0,2016,Data Analysis,Data Science
+1395,0,0.0,Carmarthenshire,0.0,2012,Data Analysis,Data Science
+1396,0,0.0,Carmarthenshire,0.0,2013,Data Analysis,Data Science
+1397,0,0.0,Carmarthenshire,0.0,2014,Data Analysis,Data Science
+1398,0,0.0,Carmarthenshire,0.0,2015,Data Analysis,Data Science
+1399,0,0.0,Carmarthenshire,0.0,2016,Data Analysis,Data Science
+1400,0,0.0,Wales,0.0,2012,Makers AGAIN,Makers & Design
+1401,0,0.0,Wales,0.0,2013,Makers AGAIN,Makers & Design
+1402,0,0.0,Wales,0.0,2014,Makers AGAIN,Makers & Design
+1403,0,0.0,Wales,0.0,2015,Makers AGAIN,Makers & Design
+1404,13,2.0,Wales,0.11370341522367534,2016,Makers AGAIN,Makers & Design
+1405,0,0.0,Cardiff,0.0,2012,Makers AGAIN,Makers & Design
+1406,0,0.0,Cardiff,0.0,2013,Makers AGAIN,Makers & Design
+1407,0,0.0,Cardiff,0.0,2014,Makers AGAIN,Makers & Design
+1408,0,0.0,Cardiff,0.0,2015,Makers AGAIN,Makers & Design
+1409,0,0.0,Cardiff,0.0,2016,Makers AGAIN,Makers & Design
+1410,0,0.0,Pembrokeshire,0.0,2012,Makers AGAIN,Makers & Design
+1411,0,0.0,Pembrokeshire,0.0,2013,Makers AGAIN,Makers & Design
+1412,0,0.0,Pembrokeshire,0.0,2014,Makers AGAIN,Makers & Design
+1413,0,0.0,Pembrokeshire,0.0,2015,Makers AGAIN,Makers & Design
+1414,0,0.0,Pembrokeshire,0.0,2016,Makers AGAIN,Makers & Design
+1415,0,0.0,Blaenau Gwent,0.0,2012,Makers AGAIN,Makers & Design
+1416,0,0.0,Blaenau Gwent,0.0,2013,Makers AGAIN,Makers & Design
+1417,0,0.0,Blaenau Gwent,0.0,2014,Makers AGAIN,Makers & Design
+1418,0,0.0,Blaenau Gwent,0.0,2015,Makers AGAIN,Makers & Design
+1419,0,0.0,Blaenau Gwent,0.0,2016,Makers AGAIN,Makers & Design
+1420,0,0.0,Monmouthshire,0.0,2012,Makers AGAIN,Makers & Design
+1421,0,0.0,Monmouthshire,0.0,2013,Makers AGAIN,Makers & Design
+1422,0,0.0,Monmouthshire,0.0,2014,Makers AGAIN,Makers & Design
+1423,0,0.0,Monmouthshire,0.0,2015,Makers AGAIN,Makers & Design
+1424,13,2.0,Monmouthshire,1.710778674864832,2016,Makers AGAIN,Makers & Design
+1425,0,0.0,Swansea,0.0,2012,Makers AGAIN,Makers & Design
+1426,0,0.0,Swansea,0.0,2013,Makers AGAIN,Makers & Design
+1427,0,0.0,Swansea,0.0,2014,Makers AGAIN,Makers & Design
+1428,0,0.0,Swansea,0.0,2015,Makers AGAIN,Makers & Design
+1429,0,0.0,Swansea,0.0,2016,Makers AGAIN,Makers & Design
+1430,0,0.0,Gwynedd,0.0,2012,Makers AGAIN,Makers & Design
+1431,0,0.0,Gwynedd,0.0,2013,Makers AGAIN,Makers & Design
+1432,0,0.0,Gwynedd,0.0,2014,Makers AGAIN,Makers & Design
+1433,0,0.0,Gwynedd,0.0,2015,Makers AGAIN,Makers & Design
+1434,0,0.0,Gwynedd,0.0,2016,Makers AGAIN,Makers & Design
+1435,0,0.0,Carmarthenshire,0.0,2012,Makers AGAIN,Makers & Design
+1436,0,0.0,Carmarthenshire,0.0,2013,Makers AGAIN,Makers & Design
+1437,0,0.0,Carmarthenshire,0.0,2014,Makers AGAIN,Makers & Design
+1438,0,0.0,Carmarthenshire,0.0,2015,Makers AGAIN,Makers & Design
+1439,0,0.0,Carmarthenshire,0.0,2016,Makers AGAIN,Makers & Design
+1440,0,0.0,Wales,0.0,2012,Web development (Javascript),Software Development
+1441,0,0.0,Wales,0.0,2013,Web development (Javascript),Software Development
+1442,23,2.0,Wales,0.1482362960036431,2014,Web development (Javascript),Software Development
+1443,100,8.0,Wales,0.4585835665500885,2015,Web development (Javascript),Software Development
+1444,454,22.0,Wales,1.1537596556838257,2016,Web development (Javascript),Software Development
+1445,0,0.0,Cardiff,0.0,2012,Web development (Javascript),Software Development
+1446,0,0.0,Cardiff,0.0,2013,Web development (Javascript),Software Development
+1447,15,1.0,Cardiff,0.25218163099439544,2014,Web development (Javascript),Software Development
+1448,30,4.0,Cardiff,0.35360868143068763,2015,Web development (Javascript),Software Development
+1449,0,0.0,Cardiff,0.0,2016,Web development (Javascript),Software Development
+1450,0,0.0,Pembrokeshire,0.0,2012,Web development (Javascript),Software Development
+1451,0,0.0,Pembrokeshire,0.0,2013,Web development (Javascript),Software Development
+1452,0,0.0,Pembrokeshire,0.0,2014,Web development (Javascript),Software Development
+1453,0,0.0,Pembrokeshire,0.0,2015,Web development (Javascript),Software Development
+1454,0,0.0,Pembrokeshire,0.0,2016,Web development (Javascript),Software Development
+1455,0,0.0,Blaenau Gwent,0.0,2012,Web development (Javascript),Software Development
+1456,0,0.0,Blaenau Gwent,0.0,2013,Web development (Javascript),Software Development
+1457,0,0.0,Blaenau Gwent,0.0,2014,Web development (Javascript),Software Development
+1458,0,0.0,Blaenau Gwent,0.0,2015,Web development (Javascript),Software Development
+1459,0,0.0,Blaenau Gwent,0.0,2016,Web development (Javascript),Software Development
+1460,0,0.0,Monmouthshire,0.0,2012,Web development (Javascript),Software Development
+1461,0,0.0,Monmouthshire,0.0,2013,Web development (Javascript),Software Development
+1462,0,0.0,Monmouthshire,0.0,2014,Web development (Javascript),Software Development
+1463,0,0.0,Monmouthshire,0.0,2015,Web development (Javascript),Software Development
+1464,0,0.0,Monmouthshire,0.0,2016,Web development (Javascript),Software Development
+1465,0,0.0,Swansea,0.0,2012,Web development (Javascript),Software Development
+1466,0,0.0,Swansea,0.0,2013,Web development (Javascript),Software Development
+1467,8,1.0,Swansea,0.2510379180221815,2014,Web development (Javascript),Software Development
+1468,24,2.0,Swansea,0.5422762181235489,2015,Web development (Javascript),Software Development
+1469,42,4.0,Swansea,0.5258956946598131,2016,Web development (Javascript),Software Development
+1470,0,0.0,Gwynedd,0.0,2012,Web development (Javascript),Software Development
+1471,0,0.0,Gwynedd,0.0,2013,Web development (Javascript),Software Development
+1472,0,0.0,Gwynedd,0.0,2014,Web development (Javascript),Software Development
+1473,46,2.0,Gwynedd,2.104185989012791,2015,Web development (Javascript),Software Development
+1474,412,18.0,Gwynedd,10.443943578182873,2016,Web development (Javascript),Software Development
+1475,0,0.0,Carmarthenshire,0.0,2012,Web development (Javascript),Software Development
+1476,0,0.0,Carmarthenshire,0.0,2013,Web development (Javascript),Software Development
+1477,0,0.0,Carmarthenshire,0.0,2014,Web development (Javascript),Software Development
+1478,0,0.0,Carmarthenshire,0.0,2015,Web development (Javascript),Software Development
+1479,0,0.0,Carmarthenshire,0.0,2016,Web development (Javascript),Software Development
+1480,14,2.0,Wales,0.16335001669319987,2012,Design (UI/UX),Makers & Design
+1481,7,1.0,Wales,0.05389301296907698,2013,Design (UI/UX),Makers & Design
+1482,380,11.0,Wales,1.6681848444473368,2014,Design (UI/UX),Makers & Design
+1483,321,12.0,Wales,0.7942166206618553,2015,Design (UI/UX),Makers & Design
+1484,152,6.0,Wales,0.2450610690099996,2016,Design (UI/UX),Makers & Design
+1485,14,2.0,Cardiff,0.4258838720165372,2012,Design (UI/UX),Makers & Design
+1486,7,1.0,Cardiff,0.14075021649948816,2013,Design (UI/UX),Makers & Design
+1487,141,4.0,Cardiff,1.6146379612097832,2014,Design (UI/UX),Makers & Design
+1488,0,0.0,Cardiff,0.0,2015,Design (UI/UX),Makers & Design
+1489,99,4.0,Cardiff,0.4102504884366963,2016,Design (UI/UX),Makers & Design
+1490,0,0.0,Pembrokeshire,0.0,2012,Design (UI/UX),Makers & Design
+1491,0,0.0,Pembrokeshire,0.0,2013,Design (UI/UX),Makers & Design
+1492,0,0.0,Pembrokeshire,0.0,2014,Design (UI/UX),Makers & Design
+1493,0,0.0,Pembrokeshire,0.0,2015,Design (UI/UX),Makers & Design
+1494,0,0.0,Pembrokeshire,0.0,2016,Design (UI/UX),Makers & Design
+1495,0,0.0,Blaenau Gwent,0.0,2012,Design (UI/UX),Makers & Design
+1496,0,0.0,Blaenau Gwent,0.0,2013,Design (UI/UX),Makers & Design
+1497,0,0.0,Blaenau Gwent,0.0,2014,Design (UI/UX),Makers & Design
+1498,0,0.0,Blaenau Gwent,0.0,2015,Design (UI/UX),Makers & Design
+1499,0,0.0,Blaenau Gwent,0.0,2016,Design (UI/UX),Makers & Design
+1500,0,0.0,Monmouthshire,0.0,2012,Design (UI/UX),Makers & Design
+1501,0,0.0,Monmouthshire,0.0,2013,Design (UI/UX),Makers & Design
+1502,0,0.0,Monmouthshire,0.0,2014,Design (UI/UX),Makers & Design
+1503,0,0.0,Monmouthshire,0.0,2015,Design (UI/UX),Makers & Design
+1504,0,0.0,Monmouthshire,0.0,2016,Design (UI/UX),Makers & Design
+1505,0,0.0,Swansea,0.0,2012,Design (UI/UX),Makers & Design
+1506,0,0.0,Swansea,0.0,2013,Design (UI/UX),Makers & Design
+1507,239,7.0,Swansea,5.108355281209034,2014,Design (UI/UX),Makers & Design
+1508,321,12.0,Swansea,3.913179778255447,2015,Design (UI/UX),Makers & Design
+1509,53,2.0,Swansea,0.4210148694522433,2016,Design (UI/UX),Makers & Design
+1510,0,0.0,Gwynedd,0.0,2012,Design (UI/UX),Makers & Design
+1511,0,0.0,Gwynedd,0.0,2013,Design (UI/UX),Makers & Design
+1512,0,0.0,Gwynedd,0.0,2014,Design (UI/UX),Makers & Design
+1513,0,0.0,Gwynedd,0.0,2015,Design (UI/UX),Makers & Design
+1514,0,0.0,Gwynedd,0.0,2016,Design (UI/UX),Makers & Design
+1515,0,0.0,Carmarthenshire,0.0,2012,Design (UI/UX),Makers & Design
+1516,0,0.0,Carmarthenshire,0.0,2013,Design (UI/UX),Makers & Design
+1517,0,0.0,Carmarthenshire,0.0,2014,Design (UI/UX),Makers & Design
+1518,0,0.0,Carmarthenshire,0.0,2015,Design (UI/UX),Makers & Design
+1519,0,0.0,Carmarthenshire,0.0,2016,Design (UI/UX),Makers & Design
