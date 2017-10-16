@@ -1,6 +1,6 @@
 ## Arloesiadur data
 
-This repo contains data and documentation for all the data in [Arloesiadur](https://arloesiadur.org/), the innovation dashboard for Wales created by [Nesta](https://www.nesta.org.uk) and Welsh Government.
+This repo contains code, data and documentation for the data in [Arloesiadur](https://arloesiadur.org/), the innovation dashboard for Wales created by [Nesta](https://www.nesta.org.uk) and Welsh Government.
 
 This includes:
 * **[Industry data](https://github.com/nestauk/arloesiadur_analysis_data/tree/master/industry)** about industrial activity in Wales and its evolution
