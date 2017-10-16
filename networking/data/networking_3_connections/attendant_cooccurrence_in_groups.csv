@@ -1,0 +1,1237 @@
+,Unnamed: 0,group1,group2,year,normalised_attendant_cooccurrence
+0,0,DevOps Cardiff,DevOps Cardiff,2016,1.0
+1,1,Chepstow Hackers,DevOps Cardiff,2016,0.0
+2,2,Cardiff Tech Talk,DevOps Cardiff,2016,0.027272727272727268
+3,3,UmbCardiff,DevOps Cardiff,2016,0.027777777777777776
+4,4,Open Data Wales Meetup,DevOps Cardiff,2016,0.0
+5,5,SQL Cardiff,DevOps Cardiff,2016,0.02325581395348837
+6,6,Swansea Software Development Community,DevOps Cardiff,2016,0.0
+7,7,diff.NET,DevOps Cardiff,2016,0.047619047619047616
+8,8,Test and QA Wales Meetup,DevOps Cardiff,2016,0.014492753623188406
+9,9,PyDiff,DevOps Cardiff,2016,0.045454545454545456
+10,10,Pembrokeshire Culture Club,DevOps Cardiff,2016,0.0
+11,11,Websites 'n' Blogs,DevOps Cardiff,2016,0.0
+12,12,UX Wales,DevOps Cardiff,2016,0.0
+13,13,South Wales Technology Council,DevOps Cardiff,2016,0.08333333333333333
+14,14,CaRdiff - the Cardiff R User Group,DevOps Cardiff,2016,0.017543859649122806
+15,15,BCS South Wales,DevOps Cardiff,2016,0.038461538461538464
+16,16,JS Wales,DevOps Cardiff,2016,0.0
+17,17,Cardiff Digital Analytics Meetup,DevOps Cardiff,2016,0.025
+18,18,Silicon Valley Wales,DevOps Cardiff,2016,0.0
+19,19,South Wales Agile Group,DevOps Cardiff,2016,0.010638297872340424
+20,20,AWS South Wales User Group,DevOps Cardiff,2016,0.012903225806451613
+21,21,ExpertTalks Cardiff,DevOps Cardiff,2016,0.023809523809523808
+22,22,unified.diff,DevOps Cardiff,2016,0.040816326530612235
+23,23,North Wales Technology,DevOps Cardiff,2016,0.0
+24,24,Cardiff StartUp Europe Week,DevOps Cardiff,2016,0.06666666666666668
+25,25,DevOps Cardiff,Chepstow Hackers,2016,0.0
+26,26,Chepstow Hackers,Chepstow Hackers,2016,1.0
+27,27,Cardiff Tech Talk,Chepstow Hackers,2016,0.0
+28,28,UmbCardiff,Chepstow Hackers,2016,0.0
+29,29,Open Data Wales Meetup,Chepstow Hackers,2016,0.0
+30,30,SQL Cardiff,Chepstow Hackers,2016,0.0
+31,31,Swansea Software Development Community,Chepstow Hackers,2016,0.0
+32,32,diff.NET,Chepstow Hackers,2016,0.0
+33,33,Test and QA Wales Meetup,Chepstow Hackers,2016,0.0
+34,34,PyDiff,Chepstow Hackers,2016,0.0
+35,35,Pembrokeshire Culture Club,Chepstow Hackers,2016,0.0
+36,36,Websites 'n' Blogs,Chepstow Hackers,2016,0.0
+37,37,UX Wales,Chepstow Hackers,2016,0.0
+38,38,South Wales Technology Council,Chepstow Hackers,2016,0.0
+39,39,CaRdiff - the Cardiff R User Group,Chepstow Hackers,2016,0.0
+40,40,BCS South Wales,Chepstow Hackers,2016,0.0
+41,41,JS Wales,Chepstow Hackers,2016,0.0
+42,42,Cardiff Digital Analytics Meetup,Chepstow Hackers,2016,0.0
+43,43,Silicon Valley Wales,Chepstow Hackers,2016,0.0
+44,44,South Wales Agile Group,Chepstow Hackers,2016,0.0
+45,45,AWS South Wales User Group,Chepstow Hackers,2016,0.0
+46,46,ExpertTalks Cardiff,Chepstow Hackers,2016,0.0
+47,47,unified.diff,Chepstow Hackers,2016,0.0
+48,48,North Wales Technology,Chepstow Hackers,2016,0.0
+49,49,Cardiff StartUp Europe Week,Chepstow Hackers,2016,0.0
+50,50,DevOps Cardiff,Cardiff Tech Talk,2016,0.027272727272727268
+51,51,Chepstow Hackers,Cardiff Tech Talk,2016,0.0
+52,52,Cardiff Tech Talk,Cardiff Tech Talk,2016,1.0
+53,53,UmbCardiff,Cardiff Tech Talk,2016,0.0078125
+54,54,Open Data Wales Meetup,Cardiff Tech Talk,2016,0.018691588785046728
+55,55,SQL Cardiff,Cardiff Tech Talk,2016,0.02247191011235955
+56,56,Swansea Software Development Community,Cardiff Tech Talk,2016,0.0
+57,57,diff.NET,Cardiff Tech Talk,2016,0.017699115044247787
+58,58,Test and QA Wales Meetup,Cardiff Tech Talk,2016,0.037267080745341616
+59,59,PyDiff,Cardiff Tech Talk,2016,0.03164556962025317
+60,60,Pembrokeshire Culture Club,Cardiff Tech Talk,2016,0.0
+61,61,Websites 'n' Blogs,Cardiff Tech Talk,2016,0.0
+62,62,UX Wales,Cardiff Tech Talk,2016,0.045714285714285714
+63,63,South Wales Technology Council,Cardiff Tech Talk,2016,0.009615384615384616
+64,64,CaRdiff - the Cardiff R User Group,Cardiff Tech Talk,2016,0.040268456375838924
+65,65,BCS South Wales,Cardiff Tech Talk,2016,0.03389830508474576
+66,66,JS Wales,Cardiff Tech Talk,2016,0.007936507936507936
+67,67,Cardiff Digital Analytics Meetup,Cardiff Tech Talk,2016,0.007575757575757577
+68,68,Silicon Valley Wales,Cardiff Tech Talk,2016,0.0
+69,69,South Wales Agile Group,Cardiff Tech Talk,2016,0.06785714285714285
+70,70,AWS South Wales User Group,Cardiff Tech Talk,2016,0.024291497975708502
+71,71,ExpertTalks Cardiff,Cardiff Tech Talk,2016,0.037313432835820885
+72,72,unified.diff,Cardiff Tech Talk,2016,0.04964539007092199
+73,73,North Wales Technology,Cardiff Tech Talk,2016,0.0
+74,74,Cardiff StartUp Europe Week,Cardiff Tech Talk,2016,0.018691588785046728
+75,75,DevOps Cardiff,UmbCardiff,2016,0.027777777777777776
+76,76,Chepstow Hackers,UmbCardiff,2016,0.0
+77,77,Cardiff Tech Talk,UmbCardiff,2016,0.0078125
+78,78,UmbCardiff,UmbCardiff,2016,1.0
+79,79,Open Data Wales Meetup,UmbCardiff,2016,0.0
+80,80,SQL Cardiff,UmbCardiff,2016,0.038461538461538464
+81,81,Swansea Software Development Community,UmbCardiff,2016,0.0
+82,82,diff.NET,UmbCardiff,2016,0.07692307692307693
+83,83,Test and QA Wales Meetup,UmbCardiff,2016,0.011494252873563218
+84,84,PyDiff,UmbCardiff,2016,0.011904761904761904
+85,85,Pembrokeshire Culture Club,UmbCardiff,2016,0.0
+86,86,Websites 'n' Blogs,UmbCardiff,2016,0.0
+87,87,UX Wales,UmbCardiff,2016,0.0
+88,88,South Wales Technology Council,UmbCardiff,2016,0.03333333333333333
+89,89,CaRdiff - the Cardiff R User Group,UmbCardiff,2016,0.02666666666666667
+90,90,BCS South Wales,UmbCardiff,2016,0.022727272727272728
+91,91,JS Wales,UmbCardiff,2016,0.0
+92,92,Cardiff Digital Analytics Meetup,UmbCardiff,2016,0.017241379310344827
+93,93,Silicon Valley Wales,UmbCardiff,2016,0.0
+94,94,South Wales Agile Group,UmbCardiff,2016,0.0048543689320388345
+95,95,AWS South Wales User Group,UmbCardiff,2016,0.005780346820809247
+96,96,ExpertTalks Cardiff,UmbCardiff,2016,0.016666666666666666
+97,97,unified.diff,UmbCardiff,2016,0.01492537313432836
+98,98,North Wales Technology,UmbCardiff,2016,0.0
+99,99,Cardiff StartUp Europe Week,UmbCardiff,2016,0.030303030303030307
+100,100,DevOps Cardiff,Open Data Wales Meetup,2016,0.0
+101,101,Chepstow Hackers,Open Data Wales Meetup,2016,0.0
+102,102,Cardiff Tech Talk,Open Data Wales Meetup,2016,0.018691588785046728
+103,103,UmbCardiff,Open Data Wales Meetup,2016,0.0
+104,104,Open Data Wales Meetup,Open Data Wales Meetup,2016,1.0
+105,105,SQL Cardiff,Open Data Wales Meetup,2016,0.0
+106,106,Swansea Software Development Community,Open Data Wales Meetup,2016,0.0
+107,107,diff.NET,Open Data Wales Meetup,2016,0.0
+108,108,Test and QA Wales Meetup,Open Data Wales Meetup,2016,0.030303030303030307
+109,109,PyDiff,Open Data Wales Meetup,2016,0.0
+110,110,Pembrokeshire Culture Club,Open Data Wales Meetup,2016,0.0
+111,111,Websites 'n' Blogs,Open Data Wales Meetup,2016,0.0
+112,112,UX Wales,Open Data Wales Meetup,2016,0.0125
+113,113,South Wales Technology Council,Open Data Wales Meetup,2016,0.0
+114,114,CaRdiff - the Cardiff R User Group,Open Data Wales Meetup,2016,0.037037037037037035
+115,115,BCS South Wales,Open Data Wales Meetup,2016,0.043478260869565216
+116,116,JS Wales,Open Data Wales Meetup,2016,0.0
+117,117,Cardiff Digital Analytics Meetup,Open Data Wales Meetup,2016,0.0
+118,118,Silicon Valley Wales,Open Data Wales Meetup,2016,0.0
+119,119,South Wales Agile Group,Open Data Wales Meetup,2016,0.010810810810810813
+120,120,AWS South Wales User Group,Open Data Wales Meetup,2016,0.0
+121,121,ExpertTalks Cardiff,Open Data Wales Meetup,2016,0.02564102564102564
+122,122,unified.diff,Open Data Wales Meetup,2016,0.021739130434782608
+123,123,North Wales Technology,Open Data Wales Meetup,2016,0.0
+124,124,Cardiff StartUp Europe Week,Open Data Wales Meetup,2016,0.0
+125,125,DevOps Cardiff,SQL Cardiff,2016,0.02325581395348837
+126,126,Chepstow Hackers,SQL Cardiff,2016,0.0
+127,127,Cardiff Tech Talk,SQL Cardiff,2016,0.02247191011235955
+128,128,UmbCardiff,SQL Cardiff,2016,0.038461538461538464
+129,129,Open Data Wales Meetup,SQL Cardiff,2016,0.0
+130,130,SQL Cardiff,SQL Cardiff,2016,1.0
+131,131,Swansea Software Development Community,SQL Cardiff,2016,0.0
+132,132,diff.NET,SQL Cardiff,2016,0.0898876404494382
+133,133,Test and QA Wales Meetup,SQL Cardiff,2016,0.007299270072992701
+134,134,PyDiff,SQL Cardiff,2016,0.059701492537313425
+135,135,Pembrokeshire Culture Club,SQL Cardiff,2016,0.0
+136,136,Websites 'n' Blogs,SQL Cardiff,2016,0.0
+137,137,UX Wales,SQL Cardiff,2016,0.0
+138,138,South Wales Technology Council,SQL Cardiff,2016,0.0125
+139,139,CaRdiff - the Cardiff R User Group,SQL Cardiff,2016,0.08
+140,140,BCS South Wales,SQL Cardiff,2016,0.02127659574468085
+141,141,JS Wales,SQL Cardiff,2016,0.0
+142,142,Cardiff Digital Analytics Meetup,SQL Cardiff,2016,0.018518518518518517
+143,143,Silicon Valley Wales,SQL Cardiff,2016,0.0
+144,144,South Wales Agile Group,SQL Cardiff,2016,0.03515625
+145,145,AWS South Wales User Group,SQL Cardiff,2016,0.004484304932735426
+146,146,ExpertTalks Cardiff,SQL Cardiff,2016,0.03636363636363636
+147,147,unified.diff,SQL Cardiff,2016,0.034188034188034185
+148,148,North Wales Technology,SQL Cardiff,2016,0.0
+149,149,Cardiff StartUp Europe Week,SQL Cardiff,2016,0.012048192771084338
+150,150,DevOps Cardiff,Swansea Software Development Community,2016,0.0
+151,151,Chepstow Hackers,Swansea Software Development Community,2016,0.0
+152,152,Cardiff Tech Talk,Swansea Software Development Community,2016,0.0
+153,153,UmbCardiff,Swansea Software Development Community,2016,0.0
+154,154,Open Data Wales Meetup,Swansea Software Development Community,2016,0.0
+155,155,SQL Cardiff,Swansea Software Development Community,2016,0.0
+156,156,Swansea Software Development Community,Swansea Software Development Community,2016,1.0
+157,157,diff.NET,Swansea Software Development Community,2016,0.017543859649122806
+158,158,Test and QA Wales Meetup,Swansea Software Development Community,2016,0.0
+159,159,PyDiff,Swansea Software Development Community,2016,0.0
+160,160,Pembrokeshire Culture Club,Swansea Software Development Community,2016,0.0
+161,161,Websites 'n' Blogs,Swansea Software Development Community,2016,0.0
+162,162,UX Wales,Swansea Software Development Community,2016,0.0
+163,163,South Wales Technology Council,Swansea Software Development Community,2016,0.02083333333333333
+164,164,CaRdiff - the Cardiff R User Group,Swansea Software Development Community,2016,0.0
+165,165,BCS South Wales,Swansea Software Development Community,2016,0.0
+166,166,JS Wales,Swansea Software Development Community,2016,0.12857142857142856
+167,167,Cardiff Digital Analytics Meetup,Swansea Software Development Community,2016,0.0
+168,168,Silicon Valley Wales,Swansea Software Development Community,2016,0.0
+169,169,South Wales Agile Group,Swansea Software Development Community,2016,0.008928571428571428
+170,170,AWS South Wales User Group,Swansea Software Development Community,2016,0.05759162303664921
+171,171,ExpertTalks Cardiff,Swansea Software Development Community,2016,0.0
+172,172,unified.diff,Swansea Software Development Community,2016,0.0
+173,173,North Wales Technology,Swansea Software Development Community,2016,0.0
+174,174,Cardiff StartUp Europe Week,Swansea Software Development Community,2016,0.0
+175,175,DevOps Cardiff,diff.NET,2016,0.047619047619047616
+176,176,Chepstow Hackers,diff.NET,2016,0.0
+177,177,Cardiff Tech Talk,diff.NET,2016,0.017699115044247787
+178,178,UmbCardiff,diff.NET,2016,0.07692307692307693
+179,179,Open Data Wales Meetup,diff.NET,2016,0.0
+180,180,SQL Cardiff,diff.NET,2016,0.0898876404494382
+181,181,Swansea Software Development Community,diff.NET,2016,0.017543859649122806
+182,182,diff.NET,diff.NET,2016,1.0
+183,183,Test and QA Wales Meetup,diff.NET,2016,0.013888888888888888
+184,184,PyDiff,diff.NET,2016,0.028985507246376805
+185,185,Pembrokeshire Culture Club,diff.NET,2016,0.0
+186,186,Websites 'n' Blogs,diff.NET,2016,0.0
+187,187,UX Wales,diff.NET,2016,0.0
+188,188,South Wales Technology Council,diff.NET,2016,0.13333333333333333
+189,189,CaRdiff - the Cardiff R User Group,diff.NET,2016,0.03333333333333333
+190,190,BCS South Wales,diff.NET,2016,0.06896551724137931
+191,191,JS Wales,diff.NET,2016,0.027027027027027032
+192,192,Cardiff Digital Analytics Meetup,diff.NET,2016,0.02325581395348837
+193,193,Silicon Valley Wales,diff.NET,2016,0.0
+194,194,South Wales Agile Group,diff.NET,2016,0.020942408376963352
+195,195,AWS South Wales User Group,diff.NET,2016,0.006329113924050633
+196,196,ExpertTalks Cardiff,diff.NET,2016,0.04444444444444445
+197,197,unified.diff,diff.NET,2016,0.0576923076923077
+198,198,North Wales Technology,diff.NET,2016,0.0
+199,199,Cardiff StartUp Europe Week,diff.NET,2016,0.05555555555555555
+200,200,DevOps Cardiff,Test and QA Wales Meetup,2016,0.014492753623188406
+201,201,Chepstow Hackers,Test and QA Wales Meetup,2016,0.0
+202,202,Cardiff Tech Talk,Test and QA Wales Meetup,2016,0.037267080745341616
+203,203,UmbCardiff,Test and QA Wales Meetup,2016,0.011494252873563218
+204,204,Open Data Wales Meetup,Test and QA Wales Meetup,2016,0.030303030303030307
+205,205,SQL Cardiff,Test and QA Wales Meetup,2016,0.007299270072992701
+206,206,Swansea Software Development Community,Test and QA Wales Meetup,2016,0.0
+207,207,diff.NET,Test and QA Wales Meetup,2016,0.013888888888888888
+208,208,Test and QA Wales Meetup,Test and QA Wales Meetup,2016,1.0
+209,209,PyDiff,Test and QA Wales Meetup,2016,0.008547008547008548
+210,210,Pembrokeshire Culture Club,Test and QA Wales Meetup,2016,0.0
+211,211,Websites 'n' Blogs,Test and QA Wales Meetup,2016,0.0
+212,212,UX Wales,Test and QA Wales Meetup,2016,0.01492537313432836
+213,213,South Wales Technology Council,Test and QA Wales Meetup,2016,0.015873015873015872
+214,214,CaRdiff - the Cardiff R User Group,Test and QA Wales Meetup,2016,0.027777777777777776
+215,215,BCS South Wales,Test and QA Wales Meetup,2016,0.03896103896103896
+216,216,JS Wales,Test and QA Wales Meetup,2016,0.0
+217,217,Cardiff Digital Analytics Meetup,Test and QA Wales Meetup,2016,0.01098901098901099
+218,218,Silicon Valley Wales,Test and QA Wales Meetup,2016,0.0
+219,219,South Wales Agile Group,Test and QA Wales Meetup,2016,0.04184100418410042
+220,220,AWS South Wales User Group,Test and QA Wales Meetup,2016,0.009708737864077669
+221,221,ExpertTalks Cardiff,Test and QA Wales Meetup,2016,0.04301075268817205
+222,222,unified.diff,Test and QA Wales Meetup,2016,0.02
+223,223,North Wales Technology,Test and QA Wales Meetup,2016,0.0
+224,224,Cardiff StartUp Europe Week,Test and QA Wales Meetup,2016,0.015151515151515154
+225,225,DevOps Cardiff,PyDiff,2016,0.045454545454545456
+226,226,Chepstow Hackers,PyDiff,2016,0.0
+227,227,Cardiff Tech Talk,PyDiff,2016,0.03164556962025317
+228,228,UmbCardiff,PyDiff,2016,0.011904761904761904
+229,229,Open Data Wales Meetup,PyDiff,2016,0.0
+230,230,SQL Cardiff,PyDiff,2016,0.059701492537313425
+231,231,Swansea Software Development Community,PyDiff,2016,0.0
+232,232,diff.NET,PyDiff,2016,0.028985507246376805
+233,233,Test and QA Wales Meetup,PyDiff,2016,0.008547008547008548
+234,234,PyDiff,PyDiff,2016,1.0
+235,235,Pembrokeshire Culture Club,PyDiff,2016,0.0
+236,236,Websites 'n' Blogs,PyDiff,2016,0.0
+237,237,UX Wales,PyDiff,2016,0.0
+238,238,South Wales Technology Council,PyDiff,2016,0.016666666666666666
+239,239,CaRdiff - the Cardiff R User Group,PyDiff,2016,0.047619047619047616
+240,240,BCS South Wales,PyDiff,2016,0.054054054054054064
+241,241,JS Wales,PyDiff,2016,0.012195121951219513
+242,242,Cardiff Digital Analytics Meetup,PyDiff,2016,0.022727272727272728
+243,243,Silicon Valley Wales,PyDiff,2016,0.0
+244,244,South Wales Agile Group,PyDiff,2016,0.029661016949152543
+245,245,AWS South Wales User Group,PyDiff,2016,0.029556650246305417
+246,246,ExpertTalks Cardiff,PyDiff,2016,0.022222222222222227
+247,247,unified.diff,PyDiff,2016,0.05154639175257732
+248,248,North Wales Technology,PyDiff,2016,0.0
+249,249,Cardiff StartUp Europe Week,PyDiff,2016,0.015873015873015872
+250,250,DevOps Cardiff,Pembrokeshire Culture Club,2016,0.0
+251,251,Chepstow Hackers,Pembrokeshire Culture Club,2016,0.0
+252,252,Cardiff Tech Talk,Pembrokeshire Culture Club,2016,0.0
+253,253,UmbCardiff,Pembrokeshire Culture Club,2016,0.0
+254,254,Open Data Wales Meetup,Pembrokeshire Culture Club,2016,0.0
+255,255,SQL Cardiff,Pembrokeshire Culture Club,2016,0.0
+256,256,Swansea Software Development Community,Pembrokeshire Culture Club,2016,0.0
+257,257,diff.NET,Pembrokeshire Culture Club,2016,0.0
+258,258,Test and QA Wales Meetup,Pembrokeshire Culture Club,2016,0.0
+259,259,PyDiff,Pembrokeshire Culture Club,2016,0.0
+260,260,Pembrokeshire Culture Club,Pembrokeshire Culture Club,2016,1.0
+261,261,Websites 'n' Blogs,Pembrokeshire Culture Club,2016,0.1176470588235294
+262,262,UX Wales,Pembrokeshire Culture Club,2016,0.0
+263,263,South Wales Technology Council,Pembrokeshire Culture Club,2016,0.0
+264,264,CaRdiff - the Cardiff R User Group,Pembrokeshire Culture Club,2016,0.0
+265,265,BCS South Wales,Pembrokeshire Culture Club,2016,0.0
+266,266,JS Wales,Pembrokeshire Culture Club,2016,0.0
+267,267,Cardiff Digital Analytics Meetup,Pembrokeshire Culture Club,2016,0.0
+268,268,Silicon Valley Wales,Pembrokeshire Culture Club,2016,0.0
+269,269,South Wales Agile Group,Pembrokeshire Culture Club,2016,0.0
+270,270,AWS South Wales User Group,Pembrokeshire Culture Club,2016,0.0
+271,271,ExpertTalks Cardiff,Pembrokeshire Culture Club,2016,0.0
+272,272,unified.diff,Pembrokeshire Culture Club,2016,0.0
+273,273,North Wales Technology,Pembrokeshire Culture Club,2016,0.0
+274,274,Cardiff StartUp Europe Week,Pembrokeshire Culture Club,2016,0.0
+275,275,DevOps Cardiff,Websites 'n' Blogs,2016,0.0
+276,276,Chepstow Hackers,Websites 'n' Blogs,2016,0.0
+277,277,Cardiff Tech Talk,Websites 'n' Blogs,2016,0.0
+278,278,UmbCardiff,Websites 'n' Blogs,2016,0.0
+279,279,Open Data Wales Meetup,Websites 'n' Blogs,2016,0.0
+280,280,SQL Cardiff,Websites 'n' Blogs,2016,0.0
+281,281,Swansea Software Development Community,Websites 'n' Blogs,2016,0.0
+282,282,diff.NET,Websites 'n' Blogs,2016,0.0
+283,283,Test and QA Wales Meetup,Websites 'n' Blogs,2016,0.0
+284,284,PyDiff,Websites 'n' Blogs,2016,0.0
+285,285,Pembrokeshire Culture Club,Websites 'n' Blogs,2016,0.1176470588235294
+286,286,Websites 'n' Blogs,Websites 'n' Blogs,2016,1.0
+287,287,UX Wales,Websites 'n' Blogs,2016,0.0
+288,288,South Wales Technology Council,Websites 'n' Blogs,2016,0.0
+289,289,CaRdiff - the Cardiff R User Group,Websites 'n' Blogs,2016,0.0
+290,290,BCS South Wales,Websites 'n' Blogs,2016,0.0
+291,291,JS Wales,Websites 'n' Blogs,2016,0.0
+292,292,Cardiff Digital Analytics Meetup,Websites 'n' Blogs,2016,0.0
+293,293,Silicon Valley Wales,Websites 'n' Blogs,2016,0.0
+294,294,South Wales Agile Group,Websites 'n' Blogs,2016,0.0
+295,295,AWS South Wales User Group,Websites 'n' Blogs,2016,0.0
+296,296,ExpertTalks Cardiff,Websites 'n' Blogs,2016,0.0
+297,297,unified.diff,Websites 'n' Blogs,2016,0.0
+298,298,North Wales Technology,Websites 'n' Blogs,2016,0.0
+299,299,Cardiff StartUp Europe Week,Websites 'n' Blogs,2016,0.0
+300,300,DevOps Cardiff,UX Wales,2016,0.0
+301,301,Chepstow Hackers,UX Wales,2016,0.0
+302,302,Cardiff Tech Talk,UX Wales,2016,0.045714285714285714
+303,303,UmbCardiff,UX Wales,2016,0.0
+304,304,Open Data Wales Meetup,UX Wales,2016,0.0125
+305,305,SQL Cardiff,UX Wales,2016,0.0
+306,306,Swansea Software Development Community,UX Wales,2016,0.0
+307,307,diff.NET,UX Wales,2016,0.0
+308,308,Test and QA Wales Meetup,UX Wales,2016,0.01492537313432836
+309,309,PyDiff,UX Wales,2016,0.0
+310,310,Pembrokeshire Culture Club,UX Wales,2016,0.0
+311,311,Websites 'n' Blogs,UX Wales,2016,0.0
+312,312,UX Wales,UX Wales,2016,1.0
+313,313,South Wales Technology Council,UX Wales,2016,0.0
+314,314,CaRdiff - the Cardiff R User Group,UX Wales,2016,0.0
+315,315,BCS South Wales,UX Wales,2016,0.01098901098901099
+316,316,JS Wales,UX Wales,2016,0.0
+317,317,Cardiff Digital Analytics Meetup,UX Wales,2016,0.01904761904761905
+318,318,Silicon Valley Wales,UX Wales,2016,0.0
+319,319,South Wales Agile Group,UX Wales,2016,0.01976284584980237
+320,320,AWS South Wales User Group,UX Wales,2016,0.01818181818181818
+321,321,ExpertTalks Cardiff,UX Wales,2016,0.0
+322,322,unified.diff,UX Wales,2016,0.017543859649122806
+323,323,North Wales Technology,UX Wales,2016,0.0
+324,324,Cardiff StartUp Europe Week,UX Wales,2016,0.0
+325,325,DevOps Cardiff,South Wales Technology Council,2016,0.08333333333333333
+326,326,Chepstow Hackers,South Wales Technology Council,2016,0.0
+327,327,Cardiff Tech Talk,South Wales Technology Council,2016,0.009615384615384616
+328,328,UmbCardiff,South Wales Technology Council,2016,0.03333333333333333
+329,329,Open Data Wales Meetup,South Wales Technology Council,2016,0.0
+330,330,SQL Cardiff,South Wales Technology Council,2016,0.0125
+331,331,Swansea Software Development Community,South Wales Technology Council,2016,0.02083333333333333
+332,332,diff.NET,South Wales Technology Council,2016,0.13333333333333333
+333,333,Test and QA Wales Meetup,South Wales Technology Council,2016,0.015873015873015872
+334,334,PyDiff,South Wales Technology Council,2016,0.016666666666666666
+335,335,Pembrokeshire Culture Club,South Wales Technology Council,2016,0.0
+336,336,Websites 'n' Blogs,South Wales Technology Council,2016,0.0
+337,337,UX Wales,South Wales Technology Council,2016,0.0
+338,338,South Wales Technology Council,South Wales Technology Council,2016,1.0
+339,339,CaRdiff - the Cardiff R User Group,South Wales Technology Council,2016,0.0196078431372549
+340,340,BCS South Wales,South Wales Technology Council,2016,0.05
+341,341,JS Wales,South Wales Technology Council,2016,0.03571428571428571
+342,342,Cardiff Digital Analytics Meetup,South Wales Technology Council,2016,0.029411764705882356
+343,343,Silicon Valley Wales,South Wales Technology Council,2016,0.0
+344,344,South Wales Agile Group,South Wales Technology Council,2016,0.005494505494505495
+345,345,AWS South Wales User Group,South Wales Technology Council,2016,0.006711409395973154
+346,346,ExpertTalks Cardiff,South Wales Technology Council,2016,0.027777777777777776
+347,347,unified.diff,South Wales Technology Council,2016,0.02325581395348837
+348,348,North Wales Technology,South Wales Technology Council,2016,0.0
+349,349,Cardiff StartUp Europe Week,South Wales Technology Council,2016,0.1111111111111111
+350,350,DevOps Cardiff,CaRdiff - the Cardiff R User Group,2016,0.017543859649122806
+351,351,Chepstow Hackers,CaRdiff - the Cardiff R User Group,2016,0.0
+352,352,Cardiff Tech Talk,CaRdiff - the Cardiff R User Group,2016,0.040268456375838924
+353,353,UmbCardiff,CaRdiff - the Cardiff R User Group,2016,0.02666666666666667
+354,354,Open Data Wales Meetup,CaRdiff - the Cardiff R User Group,2016,0.037037037037037035
+355,355,SQL Cardiff,CaRdiff - the Cardiff R User Group,2016,0.08
+356,356,Swansea Software Development Community,CaRdiff - the Cardiff R User Group,2016,0.0
+357,357,diff.NET,CaRdiff - the Cardiff R User Group,2016,0.03333333333333333
+358,358,Test and QA Wales Meetup,CaRdiff - the Cardiff R User Group,2016,0.027777777777777776
+359,359,PyDiff,CaRdiff - the Cardiff R User Group,2016,0.047619047619047616
+360,360,Pembrokeshire Culture Club,CaRdiff - the Cardiff R User Group,2016,0.0
+361,361,Websites 'n' Blogs,CaRdiff - the Cardiff R User Group,2016,0.0
+362,362,UX Wales,CaRdiff - the Cardiff R User Group,2016,0.0
+363,363,South Wales Technology Council,CaRdiff - the Cardiff R User Group,2016,0.0196078431372549
+364,364,CaRdiff - the Cardiff R User Group,CaRdiff - the Cardiff R User Group,2016,1.0
+365,365,BCS South Wales,CaRdiff - the Cardiff R User Group,2016,0.015384615384615384
+366,366,JS Wales,CaRdiff - the Cardiff R User Group,2016,0.0
+367,367,Cardiff Digital Analytics Meetup,CaRdiff - the Cardiff R User Group,2016,0.02531645569620253
+368,368,Silicon Valley Wales,CaRdiff - the Cardiff R User Group,2016,0.0
+369,369,South Wales Agile Group,CaRdiff - the Cardiff R User Group,2016,0.022026431718061675
+370,370,AWS South Wales User Group,CaRdiff - the Cardiff R User Group,2016,0.005154639175257732
+371,371,ExpertTalks Cardiff,CaRdiff - the Cardiff R User Group,2016,0.02469135802469136
+372,372,unified.diff,CaRdiff - the Cardiff R User Group,2016,0.022727272727272728
+373,373,North Wales Technology,CaRdiff - the Cardiff R User Group,2016,0.0
+374,374,Cardiff StartUp Europe Week,CaRdiff - the Cardiff R User Group,2016,0.018518518518518517
+375,375,DevOps Cardiff,BCS South Wales,2016,0.038461538461538464
+376,376,Chepstow Hackers,BCS South Wales,2016,0.0
+377,377,Cardiff Tech Talk,BCS South Wales,2016,0.03389830508474576
+378,378,UmbCardiff,BCS South Wales,2016,0.022727272727272728
+379,379,Open Data Wales Meetup,BCS South Wales,2016,0.043478260869565216
+380,380,SQL Cardiff,BCS South Wales,2016,0.02127659574468085
+381,381,Swansea Software Development Community,BCS South Wales,2016,0.0
+382,382,diff.NET,BCS South Wales,2016,0.06896551724137931
+383,383,Test and QA Wales Meetup,BCS South Wales,2016,0.03896103896103896
+384,384,PyDiff,BCS South Wales,2016,0.054054054054054064
+385,385,Pembrokeshire Culture Club,BCS South Wales,2016,0.0
+386,386,Websites 'n' Blogs,BCS South Wales,2016,0.0
+387,387,UX Wales,BCS South Wales,2016,0.01098901098901099
+388,388,South Wales Technology Council,BCS South Wales,2016,0.05
+389,389,CaRdiff - the Cardiff R User Group,BCS South Wales,2016,0.015384615384615384
+390,390,BCS South Wales,BCS South Wales,2016,1.0
+391,391,JS Wales,BCS South Wales,2016,0.0
+392,392,Cardiff Digital Analytics Meetup,BCS South Wales,2016,0.02083333333333333
+393,393,Silicon Valley Wales,BCS South Wales,2016,0.0
+394,394,South Wales Agile Group,BCS South Wales,2016,0.030612244897959183
+395,395,AWS South Wales User Group,BCS South Wales,2016,0.024539877300613498
+396,396,ExpertTalks Cardiff,BCS South Wales,2016,0.04
+397,397,unified.diff,BCS South Wales,2016,0.03508771929824561
+398,398,North Wales Technology,BCS South Wales,2016,0.0
+399,399,Cardiff StartUp Europe Week,BCS South Wales,2016,0.13043478260869565
+400,400,DevOps Cardiff,JS Wales,2016,0.0
+401,401,Chepstow Hackers,JS Wales,2016,0.0
+402,402,Cardiff Tech Talk,JS Wales,2016,0.007936507936507936
+403,403,UmbCardiff,JS Wales,2016,0.0
+404,404,Open Data Wales Meetup,JS Wales,2016,0.0
+405,405,SQL Cardiff,JS Wales,2016,0.0
+406,406,Swansea Software Development Community,JS Wales,2016,0.12857142857142856
+407,407,diff.NET,JS Wales,2016,0.027027027027027032
+408,408,Test and QA Wales Meetup,JS Wales,2016,0.0
+409,409,PyDiff,JS Wales,2016,0.012195121951219513
+410,410,Pembrokeshire Culture Club,JS Wales,2016,0.0
+411,411,Websites 'n' Blogs,JS Wales,2016,0.0
+412,412,UX Wales,JS Wales,2016,0.0
+413,413,South Wales Technology Council,JS Wales,2016,0.03571428571428571
+414,414,CaRdiff - the Cardiff R User Group,JS Wales,2016,0.0
+415,415,BCS South Wales,JS Wales,2016,0.0
+416,416,JS Wales,JS Wales,2016,1.0
+417,417,Cardiff Digital Analytics Meetup,JS Wales,2016,0.0
+418,418,Silicon Valley Wales,JS Wales,2016,0.0
+419,419,South Wales Agile Group,JS Wales,2016,0.0
+420,420,AWS South Wales User Group,JS Wales,2016,0.023391812865497075
+421,421,ExpertTalks Cardiff,JS Wales,2016,0.0
+422,422,unified.diff,JS Wales,2016,0.0
+423,423,North Wales Technology,JS Wales,2016,0.0
+424,424,Cardiff StartUp Europe Week,JS Wales,2016,0.0
+425,425,DevOps Cardiff,Cardiff Digital Analytics Meetup,2016,0.025
+426,426,Chepstow Hackers,Cardiff Digital Analytics Meetup,2016,0.0
+427,427,Cardiff Tech Talk,Cardiff Digital Analytics Meetup,2016,0.007575757575757577
+428,428,UmbCardiff,Cardiff Digital Analytics Meetup,2016,0.017241379310344827
+429,429,Open Data Wales Meetup,Cardiff Digital Analytics Meetup,2016,0.0
+430,430,SQL Cardiff,Cardiff Digital Analytics Meetup,2016,0.018518518518518517
+431,431,Swansea Software Development Community,Cardiff Digital Analytics Meetup,2016,0.0
+432,432,diff.NET,Cardiff Digital Analytics Meetup,2016,0.02325581395348837
+433,433,Test and QA Wales Meetup,Cardiff Digital Analytics Meetup,2016,0.01098901098901099
+434,434,PyDiff,Cardiff Digital Analytics Meetup,2016,0.022727272727272728
+435,435,Pembrokeshire Culture Club,Cardiff Digital Analytics Meetup,2016,0.0
+436,436,Websites 'n' Blogs,Cardiff Digital Analytics Meetup,2016,0.0
+437,437,UX Wales,Cardiff Digital Analytics Meetup,2016,0.01904761904761905
+438,438,South Wales Technology Council,Cardiff Digital Analytics Meetup,2016,0.029411764705882356
+439,439,CaRdiff - the Cardiff R User Group,Cardiff Digital Analytics Meetup,2016,0.02531645569620253
+440,440,BCS South Wales,Cardiff Digital Analytics Meetup,2016,0.02083333333333333
+441,441,JS Wales,Cardiff Digital Analytics Meetup,2016,0.0
+442,442,Cardiff Digital Analytics Meetup,Cardiff Digital Analytics Meetup,2016,1.0
+443,443,Silicon Valley Wales,Cardiff Digital Analytics Meetup,2016,0.0
+444,444,South Wales Agile Group,Cardiff Digital Analytics Meetup,2016,0.009523809523809523
+445,445,AWS South Wales User Group,Cardiff Digital Analytics Meetup,2016,0.005649717514124294
+446,446,ExpertTalks Cardiff,Cardiff Digital Analytics Meetup,2016,0.015625
+447,447,unified.diff,Cardiff Digital Analytics Meetup,2016,0.014084507042253518
+448,448,North Wales Technology,Cardiff Digital Analytics Meetup,2016,0.0
+449,449,Cardiff StartUp Europe Week,Cardiff Digital Analytics Meetup,2016,0.027027027027027032
+450,450,DevOps Cardiff,Silicon Valley Wales,2016,0.0
+451,451,Chepstow Hackers,Silicon Valley Wales,2016,0.0
+452,452,Cardiff Tech Talk,Silicon Valley Wales,2016,0.0
+453,453,UmbCardiff,Silicon Valley Wales,2016,0.0
+454,454,Open Data Wales Meetup,Silicon Valley Wales,2016,0.0
+455,455,SQL Cardiff,Silicon Valley Wales,2016,0.0
+456,456,Swansea Software Development Community,Silicon Valley Wales,2016,0.0
+457,457,diff.NET,Silicon Valley Wales,2016,0.0
+458,458,Test and QA Wales Meetup,Silicon Valley Wales,2016,0.0
+459,459,PyDiff,Silicon Valley Wales,2016,0.0
+460,460,Pembrokeshire Culture Club,Silicon Valley Wales,2016,0.0
+461,461,Websites 'n' Blogs,Silicon Valley Wales,2016,0.0
+462,462,UX Wales,Silicon Valley Wales,2016,0.0
+463,463,South Wales Technology Council,Silicon Valley Wales,2016,0.0
+464,464,CaRdiff - the Cardiff R User Group,Silicon Valley Wales,2016,0.0
+465,465,BCS South Wales,Silicon Valley Wales,2016,0.0
+466,466,JS Wales,Silicon Valley Wales,2016,0.0
+467,467,Cardiff Digital Analytics Meetup,Silicon Valley Wales,2016,0.0
+468,468,Silicon Valley Wales,Silicon Valley Wales,2016,1.0
+469,469,South Wales Agile Group,Silicon Valley Wales,2016,0.0
+470,470,AWS South Wales User Group,Silicon Valley Wales,2016,0.0
+471,471,ExpertTalks Cardiff,Silicon Valley Wales,2016,0.0
+472,472,unified.diff,Silicon Valley Wales,2016,0.0
+473,473,North Wales Technology,Silicon Valley Wales,2016,0.0
+474,474,Cardiff StartUp Europe Week,Silicon Valley Wales,2016,0.0
+475,475,DevOps Cardiff,South Wales Agile Group,2016,0.010638297872340424
+476,476,Chepstow Hackers,South Wales Agile Group,2016,0.0
+477,477,Cardiff Tech Talk,South Wales Agile Group,2016,0.06785714285714285
+478,478,UmbCardiff,South Wales Agile Group,2016,0.0048543689320388345
+479,479,Open Data Wales Meetup,South Wales Agile Group,2016,0.010810810810810813
+480,480,SQL Cardiff,South Wales Agile Group,2016,0.03515625
+481,481,Swansea Software Development Community,South Wales Agile Group,2016,0.008928571428571428
+482,482,diff.NET,South Wales Agile Group,2016,0.020942408376963352
+483,483,Test and QA Wales Meetup,South Wales Agile Group,2016,0.04184100418410042
+484,484,PyDiff,South Wales Agile Group,2016,0.029661016949152543
+485,485,Pembrokeshire Culture Club,South Wales Agile Group,2016,0.0
+486,486,Websites 'n' Blogs,South Wales Agile Group,2016,0.0
+487,487,UX Wales,South Wales Agile Group,2016,0.01976284584980237
+488,488,South Wales Technology Council,South Wales Agile Group,2016,0.005494505494505495
+489,489,CaRdiff - the Cardiff R User Group,South Wales Agile Group,2016,0.022026431718061675
+490,490,BCS South Wales,South Wales Agile Group,2016,0.030612244897959183
+491,491,JS Wales,South Wales Agile Group,2016,0.0
+492,492,Cardiff Digital Analytics Meetup,South Wales Agile Group,2016,0.009523809523809523
+493,493,Silicon Valley Wales,South Wales Agile Group,2016,0.0
+494,494,South Wales Agile Group,South Wales Agile Group,2016,1.0
+495,495,AWS South Wales User Group,South Wales Agile Group,2016,0.04307692307692308
+496,496,ExpertTalks Cardiff,South Wales Agile Group,2016,0.08018867924528301
+497,497,unified.diff,South Wales Agile Group,2016,0.0365296803652968
+498,498,North Wales Technology,South Wales Agile Group,2016,0.0
+499,499,Cardiff StartUp Europe Week,South Wales Agile Group,2016,0.010810810810810813
+500,500,DevOps Cardiff,AWS South Wales User Group,2016,0.012903225806451613
+501,501,Chepstow Hackers,AWS South Wales User Group,2016,0.0
+502,502,Cardiff Tech Talk,AWS South Wales User Group,2016,0.024291497975708502
+503,503,UmbCardiff,AWS South Wales User Group,2016,0.005780346820809247
+504,504,Open Data Wales Meetup,AWS South Wales User Group,2016,0.0
+505,505,SQL Cardiff,AWS South Wales User Group,2016,0.004484304932735426
+506,506,Swansea Software Development Community,AWS South Wales User Group,2016,0.05759162303664921
+507,507,diff.NET,AWS South Wales User Group,2016,0.006329113924050633
+508,508,Test and QA Wales Meetup,AWS South Wales User Group,2016,0.009708737864077669
+509,509,PyDiff,AWS South Wales User Group,2016,0.029556650246305417
+510,510,Pembrokeshire Culture Club,AWS South Wales User Group,2016,0.0
+511,511,Websites 'n' Blogs,AWS South Wales User Group,2016,0.0
+512,512,UX Wales,AWS South Wales User Group,2016,0.01818181818181818
+513,513,South Wales Technology Council,AWS South Wales User Group,2016,0.006711409395973154
+514,514,CaRdiff - the Cardiff R User Group,AWS South Wales User Group,2016,0.005154639175257732
+515,515,BCS South Wales,AWS South Wales User Group,2016,0.024539877300613498
+516,516,JS Wales,AWS South Wales User Group,2016,0.023391812865497075
+517,517,Cardiff Digital Analytics Meetup,AWS South Wales User Group,2016,0.005649717514124294
+518,518,Silicon Valley Wales,AWS South Wales User Group,2016,0.0
+519,519,South Wales Agile Group,AWS South Wales User Group,2016,0.04307692307692308
+520,520,AWS South Wales User Group,AWS South Wales User Group,2016,1.0
+521,521,ExpertTalks Cardiff,AWS South Wales User Group,2016,0.01675977653631285
+522,522,unified.diff,AWS South Wales User Group,2016,0.07526881720430108
+523,523,North Wales Technology,AWS South Wales User Group,2016,0.0
+524,524,Cardiff StartUp Europe Week,AWS South Wales User Group,2016,0.013157894736842105
+525,525,DevOps Cardiff,ExpertTalks Cardiff,2016,0.023809523809523808
+526,526,Chepstow Hackers,ExpertTalks Cardiff,2016,0.0
+527,527,Cardiff Tech Talk,ExpertTalks Cardiff,2016,0.037313432835820885
+528,528,UmbCardiff,ExpertTalks Cardiff,2016,0.016666666666666666
+529,529,Open Data Wales Meetup,ExpertTalks Cardiff,2016,0.02564102564102564
+530,530,SQL Cardiff,ExpertTalks Cardiff,2016,0.03636363636363636
+531,531,Swansea Software Development Community,ExpertTalks Cardiff,2016,0.0
+532,532,diff.NET,ExpertTalks Cardiff,2016,0.04444444444444445
+533,533,Test and QA Wales Meetup,ExpertTalks Cardiff,2016,0.04301075268817205
+534,534,PyDiff,ExpertTalks Cardiff,2016,0.022222222222222227
+535,535,Pembrokeshire Culture Club,ExpertTalks Cardiff,2016,0.0
+536,536,Websites 'n' Blogs,ExpertTalks Cardiff,2016,0.0
+537,537,UX Wales,ExpertTalks Cardiff,2016,0.0
+538,538,South Wales Technology Council,ExpertTalks Cardiff,2016,0.027777777777777776
+539,539,CaRdiff - the Cardiff R User Group,ExpertTalks Cardiff,2016,0.02469135802469136
+540,540,BCS South Wales,ExpertTalks Cardiff,2016,0.04
+541,541,JS Wales,ExpertTalks Cardiff,2016,0.0
+542,542,Cardiff Digital Analytics Meetup,ExpertTalks Cardiff,2016,0.015625
+543,543,Silicon Valley Wales,ExpertTalks Cardiff,2016,0.0
+544,544,South Wales Agile Group,ExpertTalks Cardiff,2016,0.08018867924528301
+545,545,AWS South Wales User Group,ExpertTalks Cardiff,2016,0.01675977653631285
+546,546,ExpertTalks Cardiff,ExpertTalks Cardiff,2016,1.0
+547,547,unified.diff,ExpertTalks Cardiff,2016,0.0136986301369863
+548,548,North Wales Technology,ExpertTalks Cardiff,2016,0.0
+549,549,Cardiff StartUp Europe Week,ExpertTalks Cardiff,2016,0.02564102564102564
+550,550,DevOps Cardiff,unified.diff,2016,0.040816326530612235
+551,551,Chepstow Hackers,unified.diff,2016,0.0
+552,552,Cardiff Tech Talk,unified.diff,2016,0.04964539007092199
+553,553,UmbCardiff,unified.diff,2016,0.01492537313432836
+554,554,Open Data Wales Meetup,unified.diff,2016,0.021739130434782608
+555,555,SQL Cardiff,unified.diff,2016,0.034188034188034185
+556,556,Swansea Software Development Community,unified.diff,2016,0.0
+557,557,diff.NET,unified.diff,2016,0.0576923076923077
+558,558,Test and QA Wales Meetup,unified.diff,2016,0.02
+559,559,PyDiff,unified.diff,2016,0.05154639175257732
+560,560,Pembrokeshire Culture Club,unified.diff,2016,0.0
+561,561,Websites 'n' Blogs,unified.diff,2016,0.0
+562,562,UX Wales,unified.diff,2016,0.017543859649122806
+563,563,South Wales Technology Council,unified.diff,2016,0.02325581395348837
+564,564,CaRdiff - the Cardiff R User Group,unified.diff,2016,0.022727272727272728
+565,565,BCS South Wales,unified.diff,2016,0.03508771929824561
+566,566,JS Wales,unified.diff,2016,0.0
+567,567,Cardiff Digital Analytics Meetup,unified.diff,2016,0.014084507042253518
+568,568,Silicon Valley Wales,unified.diff,2016,0.0
+569,569,South Wales Agile Group,unified.diff,2016,0.0365296803652968
+570,570,AWS South Wales User Group,unified.diff,2016,0.07526881720430108
+571,571,ExpertTalks Cardiff,unified.diff,2016,0.0136986301369863
+572,572,unified.diff,unified.diff,2016,1.0
+573,573,North Wales Technology,unified.diff,2016,0.0
+574,574,Cardiff StartUp Europe Week,unified.diff,2016,0.021739130434782608
+575,575,DevOps Cardiff,North Wales Technology,2016,0.0
+576,576,Chepstow Hackers,North Wales Technology,2016,0.0
+577,577,Cardiff Tech Talk,North Wales Technology,2016,0.0
+578,578,UmbCardiff,North Wales Technology,2016,0.0
+579,579,Open Data Wales Meetup,North Wales Technology,2016,0.0
+580,580,SQL Cardiff,North Wales Technology,2016,0.0
+581,581,Swansea Software Development Community,North Wales Technology,2016,0.0
+582,582,diff.NET,North Wales Technology,2016,0.0
+583,583,Test and QA Wales Meetup,North Wales Technology,2016,0.0
+584,584,PyDiff,North Wales Technology,2016,0.0
+585,585,Pembrokeshire Culture Club,North Wales Technology,2016,0.0
+586,586,Websites 'n' Blogs,North Wales Technology,2016,0.0
+587,587,UX Wales,North Wales Technology,2016,0.0
+588,588,South Wales Technology Council,North Wales Technology,2016,0.0
+589,589,CaRdiff - the Cardiff R User Group,North Wales Technology,2016,0.0
+590,590,BCS South Wales,North Wales Technology,2016,0.0
+591,591,JS Wales,North Wales Technology,2016,0.0
+592,592,Cardiff Digital Analytics Meetup,North Wales Technology,2016,0.0
+593,593,Silicon Valley Wales,North Wales Technology,2016,0.0
+594,594,South Wales Agile Group,North Wales Technology,2016,0.0
+595,595,AWS South Wales User Group,North Wales Technology,2016,0.0
+596,596,ExpertTalks Cardiff,North Wales Technology,2016,0.0
+597,597,unified.diff,North Wales Technology,2016,0.0
+598,598,North Wales Technology,North Wales Technology,2016,1.0
+599,599,Cardiff StartUp Europe Week,North Wales Technology,2016,0.0
+600,600,DevOps Cardiff,Cardiff StartUp Europe Week,2016,0.06666666666666668
+601,601,Chepstow Hackers,Cardiff StartUp Europe Week,2016,0.0
+602,602,Cardiff Tech Talk,Cardiff StartUp Europe Week,2016,0.018691588785046728
+603,603,UmbCardiff,Cardiff StartUp Europe Week,2016,0.030303030303030307
+604,604,Open Data Wales Meetup,Cardiff StartUp Europe Week,2016,0.0
+605,605,SQL Cardiff,Cardiff StartUp Europe Week,2016,0.012048192771084338
+606,606,Swansea Software Development Community,Cardiff StartUp Europe Week,2016,0.0
+607,607,diff.NET,Cardiff StartUp Europe Week,2016,0.05555555555555555
+608,608,Test and QA Wales Meetup,Cardiff StartUp Europe Week,2016,0.015151515151515154
+609,609,PyDiff,Cardiff StartUp Europe Week,2016,0.015873015873015872
+610,610,Pembrokeshire Culture Club,Cardiff StartUp Europe Week,2016,0.0
+611,611,Websites 'n' Blogs,Cardiff StartUp Europe Week,2016,0.0
+612,612,UX Wales,Cardiff StartUp Europe Week,2016,0.0
+613,613,South Wales Technology Council,Cardiff StartUp Europe Week,2016,0.1111111111111111
+614,614,CaRdiff - the Cardiff R User Group,Cardiff StartUp Europe Week,2016,0.018518518518518517
+615,615,BCS South Wales,Cardiff StartUp Europe Week,2016,0.13043478260869565
+616,616,JS Wales,Cardiff StartUp Europe Week,2016,0.0
+617,617,Cardiff Digital Analytics Meetup,Cardiff StartUp Europe Week,2016,0.027027027027027032
+618,618,Silicon Valley Wales,Cardiff StartUp Europe Week,2016,0.0
+619,619,South Wales Agile Group,Cardiff StartUp Europe Week,2016,0.010810810810810813
+620,620,AWS South Wales User Group,Cardiff StartUp Europe Week,2016,0.013157894736842105
+621,621,ExpertTalks Cardiff,Cardiff StartUp Europe Week,2016,0.02564102564102564
+622,622,unified.diff,Cardiff StartUp Europe Week,2016,0.021739130434782608
+623,623,North Wales Technology,Cardiff StartUp Europe Week,2016,0.0
+624,624,Cardiff StartUp Europe Week,Cardiff StartUp Europe Week,2016,1.0
+625,625,UX Wales,UX Wales,2012,1.0
+626,626,South Wales Agile Group,South Wales Agile Group,2013,1.0
+627,627,SQL Cardiff,South Wales Agile Group,2013,0.028169014084507043
+628,628,UX Wales,South Wales Agile Group,2013,0.0
+629,629,BCS South Wales,South Wales Agile Group,2013,0.045454545454545456
+630,630,unified.diff,South Wales Agile Group,2013,0.07608695652173914
+631,631,South Wales Agile Group,SQL Cardiff,2013,0.028169014084507043
+632,632,SQL Cardiff,SQL Cardiff,2013,1.0
+633,633,UX Wales,SQL Cardiff,2013,0.0
+634,634,BCS South Wales,SQL Cardiff,2013,0.0
+635,635,unified.diff,SQL Cardiff,2013,0.033707865168539325
+636,636,South Wales Agile Group,UX Wales,2013,0.0
+637,637,SQL Cardiff,UX Wales,2013,0.0
+638,638,UX Wales,UX Wales,2013,1.0
+639,639,BCS South Wales,UX Wales,2013,0.0
+640,640,unified.diff,UX Wales,2013,0.0
+641,641,South Wales Agile Group,BCS South Wales,2013,0.045454545454545456
+642,642,SQL Cardiff,BCS South Wales,2013,0.0
+643,643,UX Wales,BCS South Wales,2013,0.0
+644,644,BCS South Wales,BCS South Wales,2013,1.0
+645,645,unified.diff,BCS South Wales,2013,0.016129032258064516
+646,646,South Wales Agile Group,unified.diff,2013,0.07608695652173914
+647,647,SQL Cardiff,unified.diff,2013,0.033707865168539325
+648,648,UX Wales,unified.diff,2013,0.0
+649,649,BCS South Wales,unified.diff,2013,0.016129032258064516
+650,650,unified.diff,unified.diff,2013,1.0
+651,651,DevOps Cardiff,DevOps Cardiff,2014,1.0
+652,652,BCS South Wales,DevOps Cardiff,2014,0.03658536585365853
+653,653,SQL Cardiff,DevOps Cardiff,2014,0.027777777777777776
+654,654,Swansea Software Development Community,DevOps Cardiff,2014,0.024539877300613498
+655,655,South Wales Agile Group,DevOps Cardiff,2014,0.1111111111111111
+656,656,Meteor Cardiff,DevOps Cardiff,2014,0.02325581395348837
+657,657,Cardiff Graph Databases Meetup,DevOps Cardiff,2014,0.053763440860215055
+658,658,Digital Insights,DevOps Cardiff,2014,0.025477707006369428
+659,659,unified.diff,DevOps Cardiff,2014,0.16417910447761194
+660,660,BigData Wales,DevOps Cardiff,2014,0.0379746835443038
+661,661,JS Wales,DevOps Cardiff,2014,0.0
+662,662,Wales and West - Windows Applications Group,DevOps Cardiff,2014,0.023809523809523808
+663,663,DevOps Cardiff,BCS South Wales,2014,0.03658536585365853
+664,664,BCS South Wales,BCS South Wales,2014,1.0
+665,665,SQL Cardiff,BCS South Wales,2014,0.045454545454545456
+666,666,Swansea Software Development Community,BCS South Wales,2014,0.0
+667,667,South Wales Agile Group,BCS South Wales,2014,0.08064516129032258
+668,668,Meteor Cardiff,BCS South Wales,2014,0.0
+669,669,Cardiff Graph Databases Meetup,BCS South Wales,2014,0.03448275862068965
+670,670,Digital Insights,BCS South Wales,2014,0.010752688172043013
+671,671,unified.diff,BCS South Wales,2014,0.0291970802919708
+672,672,BigData Wales,BCS South Wales,2014,0.06666666666666668
+673,673,JS Wales,BCS South Wales,2014,0.0
+674,674,Wales and West - Windows Applications Group,BCS South Wales,2014,0.05
+675,675,DevOps Cardiff,SQL Cardiff,2014,0.027777777777777776
+676,676,BCS South Wales,SQL Cardiff,2014,0.045454545454545456
+677,677,SQL Cardiff,SQL Cardiff,2014,1.0
+678,678,Swansea Software Development Community,SQL Cardiff,2014,0.008
+679,679,South Wales Agile Group,SQL Cardiff,2014,0.06818181818181818
+680,680,Meteor Cardiff,SQL Cardiff,2014,0.0
+681,681,Cardiff Graph Databases Meetup,SQL Cardiff,2014,0.01818181818181818
+682,682,Digital Insights,SQL Cardiff,2014,0.008403361344537815
+683,683,unified.diff,SQL Cardiff,2014,0.030674846625766868
+684,684,BigData Wales,SQL Cardiff,2014,0.0
+685,685,JS Wales,SQL Cardiff,2014,0.0
+686,686,Wales and West - Windows Applications Group,SQL Cardiff,2014,0.021739130434782608
+687,687,DevOps Cardiff,Swansea Software Development Community,2014,0.024539877300613498
+688,688,BCS South Wales,Swansea Software Development Community,2014,0.0
+689,689,SQL Cardiff,Swansea Software Development Community,2014,0.008
+690,690,Swansea Software Development Community,Swansea Software Development Community,2014,1.0
+691,691,South Wales Agile Group,Swansea Software Development Community,2014,0.0
+692,692,Meteor Cardiff,Swansea Software Development Community,2014,0.009708737864077669
+693,693,Cardiff Graph Databases Meetup,Swansea Software Development Community,2014,0.00909090909090909
+694,694,Digital Insights,Swansea Software Development Community,2014,0.005747126436781609
+695,695,unified.diff,Swansea Software Development Community,2014,0.01834862385321101
+696,696,BigData Wales,Swansea Software Development Community,2014,0.010416666666666666
+697,697,JS Wales,Swansea Software Development Community,2014,0.010526315789473684
+698,698,Wales and West - Windows Applications Group,Swansea Software Development Community,2014,0.0
+699,699,DevOps Cardiff,South Wales Agile Group,2014,0.1111111111111111
+700,700,BCS South Wales,South Wales Agile Group,2014,0.08064516129032258
+701,701,SQL Cardiff,South Wales Agile Group,2014,0.06818181818181818
+702,702,Swansea Software Development Community,South Wales Agile Group,2014,0.0
+703,703,South Wales Agile Group,South Wales Agile Group,2014,1.0
+704,704,Meteor Cardiff,South Wales Agile Group,2014,0.0
+705,705,Cardiff Graph Databases Meetup,South Wales Agile Group,2014,0.0410958904109589
+706,706,Digital Insights,South Wales Agile Group,2014,0.021897810218978103
+707,707,unified.diff,South Wales Agile Group,2014,0.06629834254143646
+708,708,BigData Wales,South Wales Agile Group,2014,0.01694915254237288
+709,709,JS Wales,South Wales Agile Group,2014,0.0
+710,710,Wales and West - Windows Applications Group,South Wales Agile Group,2014,0.015625
+711,711,DevOps Cardiff,Meteor Cardiff,2014,0.02325581395348837
+712,712,BCS South Wales,Meteor Cardiff,2014,0.0
+713,713,SQL Cardiff,Meteor Cardiff,2014,0.0
+714,714,Swansea Software Development Community,Meteor Cardiff,2014,0.009708737864077669
+715,715,South Wales Agile Group,Meteor Cardiff,2014,0.0
+716,716,Meteor Cardiff,Meteor Cardiff,2014,1.0
+717,717,Cardiff Graph Databases Meetup,Meteor Cardiff,2014,0.030303030303030307
+718,718,Digital Insights,Meteor Cardiff,2014,0.0
+719,719,unified.diff,Meteor Cardiff,2014,0.014184397163120569
+720,720,BigData Wales,Meteor Cardiff,2014,0.05263157894736842
+721,721,JS Wales,Meteor Cardiff,2014,0.1111111111111111
+722,722,Wales and West - Windows Applications Group,Meteor Cardiff,2014,0.04166666666666666
+723,723,DevOps Cardiff,Cardiff Graph Databases Meetup,2014,0.053763440860215055
+724,724,BCS South Wales,Cardiff Graph Databases Meetup,2014,0.03448275862068965
+725,725,SQL Cardiff,Cardiff Graph Databases Meetup,2014,0.01818181818181818
+726,726,Swansea Software Development Community,Cardiff Graph Databases Meetup,2014,0.00909090909090909
+727,727,South Wales Agile Group,Cardiff Graph Databases Meetup,2014,0.0410958904109589
+728,728,Meteor Cardiff,Cardiff Graph Databases Meetup,2014,0.030303030303030307
+729,729,Cardiff Graph Databases Meetup,Cardiff Graph Databases Meetup,2014,1.0
+730,730,Digital Insights,Cardiff Graph Databases Meetup,2014,0.0
+731,731,unified.diff,Cardiff Graph Databases Meetup,2014,0.040540540540540536
+732,732,BigData Wales,Cardiff Graph Databases Meetup,2014,0.07692307692307693
+733,733,JS Wales,Cardiff Graph Databases Meetup,2014,0.0
+734,734,Wales and West - Windows Applications Group,Cardiff Graph Databases Meetup,2014,0.0
+735,735,DevOps Cardiff,Digital Insights,2014,0.025477707006369428
+736,736,BCS South Wales,Digital Insights,2014,0.010752688172043013
+737,737,SQL Cardiff,Digital Insights,2014,0.008403361344537815
+738,738,Swansea Software Development Community,Digital Insights,2014,0.005747126436781609
+739,739,South Wales Agile Group,Digital Insights,2014,0.021897810218978103
+740,740,Meteor Cardiff,Digital Insights,2014,0.0
+741,741,Cardiff Graph Databases Meetup,Digital Insights,2014,0.0
+742,742,Digital Insights,Digital Insights,2014,1.0
+743,743,unified.diff,Digital Insights,2014,0.0330188679245283
+744,744,BigData Wales,Digital Insights,2014,0.0
+745,745,JS Wales,Digital Insights,2014,0.0
+746,746,Wales and West - Windows Applications Group,Digital Insights,2014,0.03157894736842105
+747,747,DevOps Cardiff,unified.diff,2014,0.16417910447761194
+748,748,BCS South Wales,unified.diff,2014,0.0291970802919708
+749,749,SQL Cardiff,unified.diff,2014,0.030674846625766868
+750,750,Swansea Software Development Community,unified.diff,2014,0.01834862385321101
+751,751,South Wales Agile Group,unified.diff,2014,0.06629834254143646
+752,752,Meteor Cardiff,unified.diff,2014,0.014184397163120569
+753,753,Cardiff Graph Databases Meetup,unified.diff,2014,0.040540540540540536
+754,754,Digital Insights,unified.diff,2014,0.0330188679245283
+755,755,unified.diff,unified.diff,2014,1.0
+756,756,BigData Wales,unified.diff,2014,0.022388059701492536
+757,757,JS Wales,unified.diff,2014,0.0
+758,758,Wales and West - Windows Applications Group,unified.diff,2014,0.02158273381294964
+759,759,DevOps Cardiff,BigData Wales,2014,0.0379746835443038
+760,760,BCS South Wales,BigData Wales,2014,0.06666666666666668
+761,761,SQL Cardiff,BigData Wales,2014,0.0
+762,762,Swansea Software Development Community,BigData Wales,2014,0.010416666666666666
+763,763,South Wales Agile Group,BigData Wales,2014,0.01694915254237288
+764,764,Meteor Cardiff,BigData Wales,2014,0.05263157894736842
+765,765,Cardiff Graph Databases Meetup,BigData Wales,2014,0.07692307692307693
+766,766,Digital Insights,BigData Wales,2014,0.0
+767,767,unified.diff,BigData Wales,2014,0.022388059701492536
+768,768,BigData Wales,BigData Wales,2014,1.0
+769,769,JS Wales,BigData Wales,2014,0.09090909090909093
+770,770,Wales and West - Windows Applications Group,BigData Wales,2014,0.0
+771,771,DevOps Cardiff,JS Wales,2014,0.0
+772,772,BCS South Wales,JS Wales,2014,0.0
+773,773,SQL Cardiff,JS Wales,2014,0.0
+774,774,Swansea Software Development Community,JS Wales,2014,0.010526315789473684
+775,775,South Wales Agile Group,JS Wales,2014,0.0
+776,776,Meteor Cardiff,JS Wales,2014,0.1111111111111111
+777,777,Cardiff Graph Databases Meetup,JS Wales,2014,0.0
+778,778,Digital Insights,JS Wales,2014,0.0
+779,779,unified.diff,JS Wales,2014,0.0
+780,780,BigData Wales,JS Wales,2014,0.09090909090909093
+781,781,JS Wales,JS Wales,2014,1.0
+782,782,Wales and West - Windows Applications Group,JS Wales,2014,0.0
+783,783,DevOps Cardiff,Wales and West - Windows Applications Group,2014,0.023809523809523808
+784,784,BCS South Wales,Wales and West - Windows Applications Group,2014,0.05
+785,785,SQL Cardiff,Wales and West - Windows Applications Group,2014,0.021739130434782608
+786,786,Swansea Software Development Community,Wales and West - Windows Applications Group,2014,0.0
+787,787,South Wales Agile Group,Wales and West - Windows Applications Group,2014,0.015625
+788,788,Meteor Cardiff,Wales and West - Windows Applications Group,2014,0.04166666666666666
+789,789,Cardiff Graph Databases Meetup,Wales and West - Windows Applications Group,2014,0.0
+790,790,Digital Insights,Wales and West - Windows Applications Group,2014,0.03157894736842105
+791,791,unified.diff,Wales and West - Windows Applications Group,2014,0.02158273381294964
+792,792,BigData Wales,Wales and West - Windows Applications Group,2014,0.0
+793,793,JS Wales,Wales and West - Windows Applications Group,2014,0.0
+794,794,Wales and West - Windows Applications Group,Wales and West - Windows Applications Group,2014,1.0
+795,795,South Wales Technology Council,South Wales Technology Council,2015,1.0
+796,796,DevOps Cardiff,South Wales Technology Council,2015,0.010309278350515464
+797,797,CaRdiff - the Cardiff R User Group,South Wales Technology Council,2015,0.022222222222222227
+798,798,Cardiff Tech Talk,South Wales Technology Council,2015,0.010101010101010102
+799,799,Open Data Wales Meetup,South Wales Technology Council,2015,0.0
+800,800,JS Wales,South Wales Technology Council,2015,0.0
+801,801,Swansea Software Development Community,South Wales Technology Council,2015,0.0
+802,802,Swansea Tech Talk,South Wales Technology Council,2015,0.0
+803,803,Test and QA Wales Meetup,South Wales Technology Council,2015,0.0
+804,804,diff.NET,South Wales Technology Council,2015,0.020408163265306117
+805,805,South Wales Agile Group,South Wales Technology Council,2015,0.008620689655172414
+806,806,North Wales Technology,South Wales Technology Council,2015,0.0
+807,807,Meteor Cardiff,South Wales Technology Council,2015,0.0
+808,808,Cardiff Graph Databases Meetup,South Wales Technology Council,2015,0.0
+809,809,Llansadwrn Technite Meetup,South Wales Technology Council,2015,0.0
+810,810,Websites 'n' Blogs,South Wales Technology Council,2015,0.0
+811,811,BigData Wales,South Wales Technology Council,2015,0.0
+812,812,unified.diff,South Wales Technology Council,2015,0.011764705882352941
+813,813,BCS South Wales,South Wales Technology Council,2015,0.09090909090909093
+814,814,SQL Cardiff,South Wales Technology Council,2015,0.011904761904761904
+815,815,PyDiff,South Wales Technology Council,2015,0.0
+816,816,South Wales Technology Council,DevOps Cardiff,2015,0.010309278350515464
+817,817,DevOps Cardiff,DevOps Cardiff,2015,1.0
+818,818,CaRdiff - the Cardiff R User Group,DevOps Cardiff,2015,0.050724637681159424
+819,819,Cardiff Tech Talk,DevOps Cardiff,2015,0.05729166666666665
+820,820,Open Data Wales Meetup,DevOps Cardiff,2015,0.010101010101010102
+821,821,JS Wales,DevOps Cardiff,2015,0.0
+822,822,Swansea Software Development Community,DevOps Cardiff,2015,0.03317535545023697
+823,823,Swansea Tech Talk,DevOps Cardiff,2015,0.015789473684210527
+824,824,Test and QA Wales Meetup,DevOps Cardiff,2015,0.027777777777777776
+825,825,diff.NET,DevOps Cardiff,2015,0.04929577464788732
+826,826,South Wales Agile Group,DevOps Cardiff,2015,0.09569377990430622
+827,827,North Wales Technology,DevOps Cardiff,2015,0.0
+828,828,Meteor Cardiff,DevOps Cardiff,2015,0.018518518518518517
+829,829,Cardiff Graph Databases Meetup,DevOps Cardiff,2015,0.017094017094017096
+830,830,Llansadwrn Technite Meetup,DevOps Cardiff,2015,0.0
+831,831,Websites 'n' Blogs,DevOps Cardiff,2015,0.0
+832,832,BigData Wales,DevOps Cardiff,2015,0.0099009900990099
+833,833,unified.diff,DevOps Cardiff,2015,0.12921348314606745
+834,834,BCS South Wales,DevOps Cardiff,2015,0.009615384615384616
+835,835,SQL Cardiff,DevOps Cardiff,2015,0.02259887005649717
+836,836,PyDiff,DevOps Cardiff,2015,0.01904761904761905
+837,837,South Wales Technology Council,CaRdiff - the Cardiff R User Group,2015,0.022222222222222227
+838,838,DevOps Cardiff,CaRdiff - the Cardiff R User Group,2015,0.050724637681159424
+839,839,CaRdiff - the Cardiff R User Group,CaRdiff - the Cardiff R User Group,2015,1.0
+840,840,Cardiff Tech Talk,CaRdiff - the Cardiff R User Group,2015,0.06428571428571428
+841,841,Open Data Wales Meetup,CaRdiff - the Cardiff R User Group,2015,0.02127659574468085
+842,842,JS Wales,CaRdiff - the Cardiff R User Group,2015,0.0
+843,843,Swansea Software Development Community,CaRdiff - the Cardiff R User Group,2015,0.0
+844,844,Swansea Tech Talk,CaRdiff - the Cardiff R User Group,2015,0.0
+845,845,Test and QA Wales Meetup,CaRdiff - the Cardiff R User Group,2015,0.010869565217391304
+846,846,diff.NET,CaRdiff - the Cardiff R User Group,2015,0.05555555555555555
+847,847,South Wales Agile Group,CaRdiff - the Cardiff R User Group,2015,0.03821656050955414
+848,848,North Wales Technology,CaRdiff - the Cardiff R User Group,2015,0.0
+849,849,Meteor Cardiff,CaRdiff - the Cardiff R User Group,2015,0.05357142857142857
+850,850,Cardiff Graph Databases Meetup,CaRdiff - the Cardiff R User Group,2015,0.015384615384615384
+851,851,Llansadwrn Technite Meetup,CaRdiff - the Cardiff R User Group,2015,0.0
+852,852,Websites 'n' Blogs,CaRdiff - the Cardiff R User Group,2015,0.0
+853,853,BigData Wales,CaRdiff - the Cardiff R User Group,2015,0.0
+854,854,unified.diff,CaRdiff - the Cardiff R User Group,2015,0.05555555555555555
+855,855,BCS South Wales,CaRdiff - the Cardiff R User Group,2015,0.019230769230769232
+856,856,SQL Cardiff,CaRdiff - the Cardiff R User Group,2015,0.08800000000000001
+857,857,PyDiff,CaRdiff - the Cardiff R User Group,2015,0.018867924528301886
+858,858,South Wales Technology Council,Cardiff Tech Talk,2015,0.010101010101010102
+859,859,DevOps Cardiff,Cardiff Tech Talk,2015,0.05729166666666665
+860,860,CaRdiff - the Cardiff R User Group,Cardiff Tech Talk,2015,0.06428571428571428
+861,861,Cardiff Tech Talk,Cardiff Tech Talk,2015,1.0
+862,862,Open Data Wales Meetup,Cardiff Tech Talk,2015,0.0099009900990099
+863,863,JS Wales,Cardiff Tech Talk,2015,0.0
+864,864,Swansea Software Development Community,Cardiff Tech Talk,2015,0.018779342723004692
+865,865,Swansea Tech Talk,Cardiff Tech Talk,2015,0.026041666666666668
+866,866,Test and QA Wales Meetup,Cardiff Tech Talk,2015,0.03424657534246575
+867,867,diff.NET,Cardiff Tech Talk,2015,0.0625
+868,868,South Wales Agile Group,Cardiff Tech Talk,2015,0.07109004739336493
+869,869,North Wales Technology,Cardiff Tech Talk,2015,0.0
+870,870,Meteor Cardiff,Cardiff Tech Talk,2015,0.01818181818181818
+871,871,Cardiff Graph Databases Meetup,Cardiff Tech Talk,2015,0.01680672268907563
+872,872,Llansadwrn Technite Meetup,Cardiff Tech Talk,2015,0.0
+873,873,Websites 'n' Blogs,Cardiff Tech Talk,2015,0.0
+874,874,BigData Wales,Cardiff Tech Talk,2015,0.0
+875,875,unified.diff,Cardiff Tech Talk,2015,0.11666666666666667
+876,876,BCS South Wales,Cardiff Tech Talk,2015,0.018867924528301886
+877,877,SQL Cardiff,Cardiff Tech Talk,2015,0.05586592178770949
+878,878,PyDiff,Cardiff Tech Talk,2015,0.018691588785046728
+879,879,South Wales Technology Council,Open Data Wales Meetup,2015,0.0
+880,880,DevOps Cardiff,Open Data Wales Meetup,2015,0.010101010101010102
+881,881,CaRdiff - the Cardiff R User Group,Open Data Wales Meetup,2015,0.02127659574468085
+882,882,Cardiff Tech Talk,Open Data Wales Meetup,2015,0.0099009900990099
+883,883,Open Data Wales Meetup,Open Data Wales Meetup,2015,1.0
+884,884,JS Wales,Open Data Wales Meetup,2015,0.0
+885,885,Swansea Software Development Community,Open Data Wales Meetup,2015,0.0
+886,886,Swansea Tech Talk,Open Data Wales Meetup,2015,0.010101010101010102
+887,887,Test and QA Wales Meetup,Open Data Wales Meetup,2015,0.0
+888,888,diff.NET,Open Data Wales Meetup,2015,0.0
+889,889,South Wales Agile Group,Open Data Wales Meetup,2015,0.00847457627118644
+890,890,North Wales Technology,Open Data Wales Meetup,2015,0.0
+891,891,Meteor Cardiff,Open Data Wales Meetup,2015,0.0
+892,892,Cardiff Graph Databases Meetup,Open Data Wales Meetup,2015,0.0
+893,893,Llansadwrn Technite Meetup,Open Data Wales Meetup,2015,0.0
+894,894,Websites 'n' Blogs,Open Data Wales Meetup,2015,0.0
+895,895,BigData Wales,Open Data Wales Meetup,2015,0.0
+896,896,unified.diff,Open Data Wales Meetup,2015,0.011494252873563218
+897,897,BCS South Wales,Open Data Wales Meetup,2015,0.0
+898,898,SQL Cardiff,Open Data Wales Meetup,2015,0.0
+899,899,PyDiff,Open Data Wales Meetup,2015,0.0
+900,900,South Wales Technology Council,JS Wales,2015,0.0
+901,901,DevOps Cardiff,JS Wales,2015,0.0
+902,902,CaRdiff - the Cardiff R User Group,JS Wales,2015,0.0
+903,903,Cardiff Tech Talk,JS Wales,2015,0.0
+904,904,Open Data Wales Meetup,JS Wales,2015,0.0
+905,905,JS Wales,JS Wales,2015,1.0
+906,906,Swansea Software Development Community,JS Wales,2015,0.06716417910447761
+907,907,Swansea Tech Talk,JS Wales,2015,0.05309734513274336
+908,908,Test and QA Wales Meetup,JS Wales,2015,0.0
+909,909,diff.NET,JS Wales,2015,0.0
+910,910,South Wales Agile Group,JS Wales,2015,0.0
+911,911,North Wales Technology,JS Wales,2015,0.0
+912,912,Meteor Cardiff,JS Wales,2015,0.03225806451612903
+913,913,Cardiff Graph Databases Meetup,JS Wales,2015,0.0
+914,914,Llansadwrn Technite Meetup,JS Wales,2015,0.05
+915,915,Websites 'n' Blogs,JS Wales,2015,0.0
+916,916,BigData Wales,JS Wales,2015,0.20833333333333331
+917,917,unified.diff,JS Wales,2015,0.0
+918,918,BCS South Wales,JS Wales,2015,0.0
+919,919,SQL Cardiff,JS Wales,2015,0.0
+920,920,PyDiff,JS Wales,2015,0.0
+921,921,South Wales Technology Council,Swansea Software Development Community,2015,0.0
+922,922,DevOps Cardiff,Swansea Software Development Community,2015,0.03317535545023697
+923,923,CaRdiff - the Cardiff R User Group,Swansea Software Development Community,2015,0.0
+924,924,Cardiff Tech Talk,Swansea Software Development Community,2015,0.018779342723004692
+925,925,Open Data Wales Meetup,Swansea Software Development Community,2015,0.0
+926,926,JS Wales,Swansea Software Development Community,2015,0.06716417910447761
+927,927,Swansea Software Development Community,Swansea Software Development Community,2015,1.0
+928,928,Swansea Tech Talk,Swansea Software Development Community,2015,0.12796208530805686
+929,929,Test and QA Wales Meetup,Swansea Software Development Community,2015,0.006060606060606061
+930,930,diff.NET,Swansea Software Development Community,2015,0.024539877300613498
+931,931,South Wales Agile Group,Swansea Software Development Community,2015,0.021739130434782608
+932,932,North Wales Technology,Swansea Software Development Community,2015,0.0
+933,933,Meteor Cardiff,Swansea Software Development Community,2015,0.007751937984496123
+934,934,Cardiff Graph Databases Meetup,Swansea Software Development Community,2015,0.007246376811594203
+935,935,Llansadwrn Technite Meetup,Swansea Software Development Community,2015,0.0
+936,936,Websites 'n' Blogs,Swansea Software Development Community,2015,0.0
+937,937,BigData Wales,Swansea Software Development Community,2015,0.04098360655737705
+938,938,unified.diff,Swansea Software Development Community,2015,0.010050251256281407
+939,939,BCS South Wales,Swansea Software Development Community,2015,0.0
+940,940,SQL Cardiff,Swansea Software Development Community,2015,0.0
+941,941,PyDiff,Swansea Software Development Community,2015,0.0
+942,942,South Wales Technology Council,Swansea Tech Talk,2015,0.0
+943,943,DevOps Cardiff,Swansea Tech Talk,2015,0.015789473684210527
+944,944,CaRdiff - the Cardiff R User Group,Swansea Tech Talk,2015,0.0
+945,945,Cardiff Tech Talk,Swansea Tech Talk,2015,0.026041666666666668
+946,946,Open Data Wales Meetup,Swansea Tech Talk,2015,0.010101010101010102
+947,947,JS Wales,Swansea Tech Talk,2015,0.05309734513274336
+948,948,Swansea Software Development Community,Swansea Tech Talk,2015,0.12796208530805686
+949,949,Swansea Tech Talk,Swansea Tech Talk,2015,1.0
+950,950,Test and QA Wales Meetup,Swansea Tech Talk,2015,0.006944444444444444
+951,951,diff.NET,Swansea Tech Talk,2015,0.014084507042253518
+952,952,South Wales Agile Group,Swansea Tech Talk,2015,0.009569377990430622
+953,953,North Wales Technology,Swansea Tech Talk,2015,0.0
+954,954,Meteor Cardiff,Swansea Tech Talk,2015,0.009259259259259259
+955,955,Cardiff Graph Databases Meetup,Swansea Tech Talk,2015,0.008547008547008548
+956,956,Llansadwrn Technite Meetup,Swansea Tech Talk,2015,0.0
+957,957,Websites 'n' Blogs,Swansea Tech Talk,2015,0.0
+958,958,BigData Wales,Swansea Tech Talk,2015,0.0297029702970297
+959,959,unified.diff,Swansea Tech Talk,2015,0.011235955056179777
+960,960,BCS South Wales,Swansea Tech Talk,2015,0.0
+961,961,SQL Cardiff,Swansea Tech Talk,2015,0.011299435028248588
+962,962,PyDiff,Swansea Tech Talk,2015,0.0
+963,963,South Wales Technology Council,Test and QA Wales Meetup,2015,0.0
+964,964,DevOps Cardiff,Test and QA Wales Meetup,2015,0.027777777777777776
+965,965,CaRdiff - the Cardiff R User Group,Test and QA Wales Meetup,2015,0.010869565217391304
+966,966,Cardiff Tech Talk,Test and QA Wales Meetup,2015,0.03424657534246575
+967,967,Open Data Wales Meetup,Test and QA Wales Meetup,2015,0.0
+968,968,JS Wales,Test and QA Wales Meetup,2015,0.0
+969,969,Swansea Software Development Community,Test and QA Wales Meetup,2015,0.006060606060606061
+970,970,Swansea Tech Talk,Test and QA Wales Meetup,2015,0.006944444444444444
+971,971,Test and QA Wales Meetup,Test and QA Wales Meetup,2015,1.0
+972,972,diff.NET,Test and QA Wales Meetup,2015,0.052083333333333336
+973,973,South Wales Agile Group,Test and QA Wales Meetup,2015,0.018404907975460124
+974,974,North Wales Technology,Test and QA Wales Meetup,2015,0.0
+975,975,Meteor Cardiff,Test and QA Wales Meetup,2015,0.0
+976,976,Cardiff Graph Databases Meetup,Test and QA Wales Meetup,2015,0.0
+977,977,Llansadwrn Technite Meetup,Test and QA Wales Meetup,2015,0.0
+978,978,Websites 'n' Blogs,Test and QA Wales Meetup,2015,0.0
+979,979,BigData Wales,Test and QA Wales Meetup,2015,0.0
+980,980,unified.diff,Test and QA Wales Meetup,2015,0.03787878787878788
+981,981,BCS South Wales,Test and QA Wales Meetup,2015,0.0
+982,982,SQL Cardiff,Test and QA Wales Meetup,2015,0.0
+983,983,PyDiff,Test and QA Wales Meetup,2015,0.0
+984,984,South Wales Technology Council,diff.NET,2015,0.020408163265306117
+985,985,DevOps Cardiff,diff.NET,2015,0.04929577464788732
+986,986,CaRdiff - the Cardiff R User Group,diff.NET,2015,0.05555555555555555
+987,987,Cardiff Tech Talk,diff.NET,2015,0.0625
+988,988,Open Data Wales Meetup,diff.NET,2015,0.0
+989,989,JS Wales,diff.NET,2015,0.0
+990,990,Swansea Software Development Community,diff.NET,2015,0.024539877300613498
+991,991,Swansea Tech Talk,diff.NET,2015,0.014084507042253518
+992,992,Test and QA Wales Meetup,diff.NET,2015,0.052083333333333336
+993,993,diff.NET,diff.NET,2015,1.0
+994,994,South Wales Agile Group,diff.NET,2015,0.05590062111801242
+995,995,North Wales Technology,diff.NET,2015,0.0
+996,996,Meteor Cardiff,diff.NET,2015,0.0
+997,997,Cardiff Graph Databases Meetup,diff.NET,2015,0.0
+998,998,Llansadwrn Technite Meetup,diff.NET,2015,0.0
+999,999,Websites 'n' Blogs,diff.NET,2015,0.0
+1000,1000,BigData Wales,diff.NET,2015,0.0
+1001,1001,unified.diff,diff.NET,2015,0.04615384615384616
+1002,1002,BCS South Wales,diff.NET,2015,0.017857142857142856
+1003,1003,SQL Cardiff,diff.NET,2015,0.09302325581395347
+1004,1004,PyDiff,diff.NET,2015,0.0
+1005,1005,South Wales Technology Council,South Wales Agile Group,2015,0.008620689655172414
+1006,1006,DevOps Cardiff,South Wales Agile Group,2015,0.09569377990430622
+1007,1007,CaRdiff - the Cardiff R User Group,South Wales Agile Group,2015,0.03821656050955414
+1008,1008,Cardiff Tech Talk,South Wales Agile Group,2015,0.07109004739336493
+1009,1009,Open Data Wales Meetup,South Wales Agile Group,2015,0.00847457627118644
+1010,1010,JS Wales,South Wales Agile Group,2015,0.0
+1011,1011,Swansea Software Development Community,South Wales Agile Group,2015,0.021739130434782608
+1012,1012,Swansea Tech Talk,South Wales Agile Group,2015,0.009569377990430622
+1013,1013,Test and QA Wales Meetup,South Wales Agile Group,2015,0.018404907975460124
+1014,1014,diff.NET,South Wales Agile Group,2015,0.05590062111801242
+1015,1015,South Wales Agile Group,South Wales Agile Group,2015,1.0
+1016,1016,North Wales Technology,South Wales Agile Group,2015,0.0
+1017,1017,Meteor Cardiff,South Wales Agile Group,2015,0.0
+1018,1018,Cardiff Graph Databases Meetup,South Wales Agile Group,2015,0.036764705882352935
+1019,1019,Llansadwrn Technite Meetup,South Wales Agile Group,2015,0.0
+1020,1020,Websites 'n' Blogs,South Wales Agile Group,2015,0.0
+1021,1021,BigData Wales,South Wales Agile Group,2015,0.0
+1022,1022,unified.diff,South Wales Agile Group,2015,0.05583756345177665
+1023,1023,BCS South Wales,South Wales Agile Group,2015,0.008130081300813009
+1024,1024,SQL Cardiff,South Wales Agile Group,2015,0.040816326530612235
+1025,1025,PyDiff,South Wales Agile Group,2015,0.008064516129032258
+1026,1026,South Wales Technology Council,North Wales Technology,2015,0.0
+1027,1027,DevOps Cardiff,North Wales Technology,2015,0.0
+1028,1028,CaRdiff - the Cardiff R User Group,North Wales Technology,2015,0.0
+1029,1029,Cardiff Tech Talk,North Wales Technology,2015,0.0
+1030,1030,Open Data Wales Meetup,North Wales Technology,2015,0.0
+1031,1031,JS Wales,North Wales Technology,2015,0.0
+1032,1032,Swansea Software Development Community,North Wales Technology,2015,0.0
+1033,1033,Swansea Tech Talk,North Wales Technology,2015,0.0
+1034,1034,Test and QA Wales Meetup,North Wales Technology,2015,0.0
+1035,1035,diff.NET,North Wales Technology,2015,0.0
+1036,1036,South Wales Agile Group,North Wales Technology,2015,0.0
+1037,1037,North Wales Technology,North Wales Technology,2015,1.0
+1038,1038,Meteor Cardiff,North Wales Technology,2015,0.0
+1039,1039,Cardiff Graph Databases Meetup,North Wales Technology,2015,0.0
+1040,1040,Llansadwrn Technite Meetup,North Wales Technology,2015,0.0
+1041,1041,Websites 'n' Blogs,North Wales Technology,2015,0.0
+1042,1042,BigData Wales,North Wales Technology,2015,0.0
+1043,1043,unified.diff,North Wales Technology,2015,0.0
+1044,1044,BCS South Wales,North Wales Technology,2015,0.0
+1045,1045,SQL Cardiff,North Wales Technology,2015,0.0
+1046,1046,PyDiff,North Wales Technology,2015,0.0
+1047,1047,South Wales Technology Council,Meteor Cardiff,2015,0.0
+1048,1048,DevOps Cardiff,Meteor Cardiff,2015,0.018518518518518517
+1049,1049,CaRdiff - the Cardiff R User Group,Meteor Cardiff,2015,0.05357142857142857
+1050,1050,Cardiff Tech Talk,Meteor Cardiff,2015,0.01818181818181818
+1051,1051,Open Data Wales Meetup,Meteor Cardiff,2015,0.0
+1052,1052,JS Wales,Meteor Cardiff,2015,0.03225806451612903
+1053,1053,Swansea Software Development Community,Meteor Cardiff,2015,0.007751937984496123
+1054,1054,Swansea Tech Talk,Meteor Cardiff,2015,0.009259259259259259
+1055,1055,Test and QA Wales Meetup,Meteor Cardiff,2015,0.0
+1056,1056,diff.NET,Meteor Cardiff,2015,0.0
+1057,1057,South Wales Agile Group,Meteor Cardiff,2015,0.0
+1058,1058,North Wales Technology,Meteor Cardiff,2015,0.0
+1059,1059,Meteor Cardiff,Meteor Cardiff,2015,1.0
+1060,1060,Cardiff Graph Databases Meetup,Meteor Cardiff,2015,0.0
+1061,1061,Llansadwrn Technite Meetup,Meteor Cardiff,2015,0.0
+1062,1062,Websites 'n' Blogs,Meteor Cardiff,2015,0.0
+1063,1063,BigData Wales,Meteor Cardiff,2015,0.05263157894736842
+1064,1064,unified.diff,Meteor Cardiff,2015,0.03125
+1065,1065,BCS South Wales,Meteor Cardiff,2015,0.0
+1066,1066,SQL Cardiff,Meteor Cardiff,2015,0.021052631578947368
+1067,1067,PyDiff,Meteor Cardiff,2015,0.0
+1068,1068,South Wales Technology Council,Cardiff Graph Databases Meetup,2015,0.0
+1069,1069,DevOps Cardiff,Cardiff Graph Databases Meetup,2015,0.017094017094017096
+1070,1070,CaRdiff - the Cardiff R User Group,Cardiff Graph Databases Meetup,2015,0.015384615384615384
+1071,1071,Cardiff Tech Talk,Cardiff Graph Databases Meetup,2015,0.01680672268907563
+1072,1072,Open Data Wales Meetup,Cardiff Graph Databases Meetup,2015,0.0
+1073,1073,JS Wales,Cardiff Graph Databases Meetup,2015,0.0
+1074,1074,Swansea Software Development Community,Cardiff Graph Databases Meetup,2015,0.007246376811594203
+1075,1075,Swansea Tech Talk,Cardiff Graph Databases Meetup,2015,0.008547008547008548
+1076,1076,Test and QA Wales Meetup,Cardiff Graph Databases Meetup,2015,0.0
+1077,1077,diff.NET,Cardiff Graph Databases Meetup,2015,0.0
+1078,1078,South Wales Agile Group,Cardiff Graph Databases Meetup,2015,0.036764705882352935
+1079,1079,North Wales Technology,Cardiff Graph Databases Meetup,2015,0.0
+1080,1080,Meteor Cardiff,Cardiff Graph Databases Meetup,2015,0.0
+1081,1081,Cardiff Graph Databases Meetup,Cardiff Graph Databases Meetup,2015,1.0
+1082,1082,Llansadwrn Technite Meetup,Cardiff Graph Databases Meetup,2015,0.0
+1083,1083,Websites 'n' Blogs,Cardiff Graph Databases Meetup,2015,0.0
+1084,1084,BigData Wales,Cardiff Graph Databases Meetup,2015,0.0
+1085,1085,unified.diff,Cardiff Graph Databases Meetup,2015,0.028571428571428567
+1086,1086,BCS South Wales,Cardiff Graph Databases Meetup,2015,0.0
+1087,1087,SQL Cardiff,Cardiff Graph Databases Meetup,2015,0.009615384615384616
+1088,1088,PyDiff,Cardiff Graph Databases Meetup,2015,0.03125
+1089,1089,South Wales Technology Council,Llansadwrn Technite Meetup,2015,0.0
+1090,1090,DevOps Cardiff,Llansadwrn Technite Meetup,2015,0.0
+1091,1091,CaRdiff - the Cardiff R User Group,Llansadwrn Technite Meetup,2015,0.0
+1092,1092,Cardiff Tech Talk,Llansadwrn Technite Meetup,2015,0.0
+1093,1093,Open Data Wales Meetup,Llansadwrn Technite Meetup,2015,0.0
+1094,1094,JS Wales,Llansadwrn Technite Meetup,2015,0.05
+1095,1095,Swansea Software Development Community,Llansadwrn Technite Meetup,2015,0.0
+1096,1096,Swansea Tech Talk,Llansadwrn Technite Meetup,2015,0.0
+1097,1097,Test and QA Wales Meetup,Llansadwrn Technite Meetup,2015,0.0
+1098,1098,diff.NET,Llansadwrn Technite Meetup,2015,0.0
+1099,1099,South Wales Agile Group,Llansadwrn Technite Meetup,2015,0.0
+1100,1100,North Wales Technology,Llansadwrn Technite Meetup,2015,0.0
+1101,1101,Meteor Cardiff,Llansadwrn Technite Meetup,2015,0.0
+1102,1102,Cardiff Graph Databases Meetup,Llansadwrn Technite Meetup,2015,0.0
+1103,1103,Llansadwrn Technite Meetup,Llansadwrn Technite Meetup,2015,1.0
+1104,1104,Websites 'n' Blogs,Llansadwrn Technite Meetup,2015,0.0
+1105,1105,BigData Wales,Llansadwrn Technite Meetup,2015,0.0
+1106,1106,unified.diff,Llansadwrn Technite Meetup,2015,0.0
+1107,1107,BCS South Wales,Llansadwrn Technite Meetup,2015,0.0
+1108,1108,SQL Cardiff,Llansadwrn Technite Meetup,2015,0.0
+1109,1109,PyDiff,Llansadwrn Technite Meetup,2015,0.0
+1110,1110,South Wales Technology Council,Websites 'n' Blogs,2015,0.0
+1111,1111,DevOps Cardiff,Websites 'n' Blogs,2015,0.0
+1112,1112,CaRdiff - the Cardiff R User Group,Websites 'n' Blogs,2015,0.0
+1113,1113,Cardiff Tech Talk,Websites 'n' Blogs,2015,0.0
+1114,1114,Open Data Wales Meetup,Websites 'n' Blogs,2015,0.0
+1115,1115,JS Wales,Websites 'n' Blogs,2015,0.0
+1116,1116,Swansea Software Development Community,Websites 'n' Blogs,2015,0.0
+1117,1117,Swansea Tech Talk,Websites 'n' Blogs,2015,0.0
+1118,1118,Test and QA Wales Meetup,Websites 'n' Blogs,2015,0.0
+1119,1119,diff.NET,Websites 'n' Blogs,2015,0.0
+1120,1120,South Wales Agile Group,Websites 'n' Blogs,2015,0.0
+1121,1121,North Wales Technology,Websites 'n' Blogs,2015,0.0
+1122,1122,Meteor Cardiff,Websites 'n' Blogs,2015,0.0
+1123,1123,Cardiff Graph Databases Meetup,Websites 'n' Blogs,2015,0.0
+1124,1124,Llansadwrn Technite Meetup,Websites 'n' Blogs,2015,0.0
+1125,1125,Websites 'n' Blogs,Websites 'n' Blogs,2015,1.0
+1126,1126,BigData Wales,Websites 'n' Blogs,2015,0.0
+1127,1127,unified.diff,Websites 'n' Blogs,2015,0.0
+1128,1128,BCS South Wales,Websites 'n' Blogs,2015,0.0
+1129,1129,SQL Cardiff,Websites 'n' Blogs,2015,0.0
+1130,1130,PyDiff,Websites 'n' Blogs,2015,0.0
+1131,1131,South Wales Technology Council,BigData Wales,2015,0.0
+1132,1132,DevOps Cardiff,BigData Wales,2015,0.0099009900990099
+1133,1133,CaRdiff - the Cardiff R User Group,BigData Wales,2015,0.0
+1134,1134,Cardiff Tech Talk,BigData Wales,2015,0.0
+1135,1135,Open Data Wales Meetup,BigData Wales,2015,0.0
+1136,1136,JS Wales,BigData Wales,2015,0.20833333333333331
+1137,1137,Swansea Software Development Community,BigData Wales,2015,0.04098360655737705
+1138,1138,Swansea Tech Talk,BigData Wales,2015,0.0297029702970297
+1139,1139,Test and QA Wales Meetup,BigData Wales,2015,0.0
+1140,1140,diff.NET,BigData Wales,2015,0.0
+1141,1141,South Wales Agile Group,BigData Wales,2015,0.0
+1142,1142,North Wales Technology,BigData Wales,2015,0.0
+1143,1143,Meteor Cardiff,BigData Wales,2015,0.05263157894736842
+1144,1144,Cardiff Graph Databases Meetup,BigData Wales,2015,0.0
+1145,1145,Llansadwrn Technite Meetup,BigData Wales,2015,0.0
+1146,1146,Websites 'n' Blogs,BigData Wales,2015,0.0
+1147,1147,BigData Wales,BigData Wales,2015,1.0
+1148,1148,unified.diff,BigData Wales,2015,0.0
+1149,1149,BCS South Wales,BigData Wales,2015,0.0
+1150,1150,SQL Cardiff,BigData Wales,2015,0.0
+1151,1151,PyDiff,BigData Wales,2015,0.0
+1152,1152,South Wales Technology Council,unified.diff,2015,0.011764705882352941
+1153,1153,DevOps Cardiff,unified.diff,2015,0.12921348314606745
+1154,1154,CaRdiff - the Cardiff R User Group,unified.diff,2015,0.05555555555555555
+1155,1155,Cardiff Tech Talk,unified.diff,2015,0.11666666666666667
+1156,1156,Open Data Wales Meetup,unified.diff,2015,0.011494252873563218
+1157,1157,JS Wales,unified.diff,2015,0.0
+1158,1158,Swansea Software Development Community,unified.diff,2015,0.010050251256281407
+1159,1159,Swansea Tech Talk,unified.diff,2015,0.011235955056179777
+1160,1160,Test and QA Wales Meetup,unified.diff,2015,0.03787878787878788
+1161,1161,diff.NET,unified.diff,2015,0.04615384615384616
+1162,1162,South Wales Agile Group,unified.diff,2015,0.05583756345177665
+1163,1163,North Wales Technology,unified.diff,2015,0.0
+1164,1164,Meteor Cardiff,unified.diff,2015,0.03125
+1165,1165,Cardiff Graph Databases Meetup,unified.diff,2015,0.028571428571428567
+1166,1166,Llansadwrn Technite Meetup,unified.diff,2015,0.0
+1167,1167,Websites 'n' Blogs,unified.diff,2015,0.0
+1168,1168,BigData Wales,unified.diff,2015,0.0
+1169,1169,unified.diff,unified.diff,2015,1.0
+1170,1170,BCS South Wales,unified.diff,2015,0.010869565217391304
+1171,1171,SQL Cardiff,unified.diff,2015,0.01818181818181818
+1172,1172,PyDiff,unified.diff,2015,0.053763440860215055
+1173,1173,South Wales Technology Council,BCS South Wales,2015,0.09090909090909093
+1174,1174,DevOps Cardiff,BCS South Wales,2015,0.009615384615384616
+1175,1175,CaRdiff - the Cardiff R User Group,BCS South Wales,2015,0.019230769230769232
+1176,1176,Cardiff Tech Talk,BCS South Wales,2015,0.018867924528301886
+1177,1177,Open Data Wales Meetup,BCS South Wales,2015,0.0
+1178,1178,JS Wales,BCS South Wales,2015,0.0
+1179,1179,Swansea Software Development Community,BCS South Wales,2015,0.0
+1180,1180,Swansea Tech Talk,BCS South Wales,2015,0.0
+1181,1181,Test and QA Wales Meetup,BCS South Wales,2015,0.0
+1182,1182,diff.NET,BCS South Wales,2015,0.017857142857142856
+1183,1183,South Wales Agile Group,BCS South Wales,2015,0.008130081300813009
+1184,1184,North Wales Technology,BCS South Wales,2015,0.0
+1185,1185,Meteor Cardiff,BCS South Wales,2015,0.0
+1186,1186,Cardiff Graph Databases Meetup,BCS South Wales,2015,0.0
+1187,1187,Llansadwrn Technite Meetup,BCS South Wales,2015,0.0
+1188,1188,Websites 'n' Blogs,BCS South Wales,2015,0.0
+1189,1189,BigData Wales,BCS South Wales,2015,0.0
+1190,1190,unified.diff,BCS South Wales,2015,0.010869565217391304
+1191,1191,BCS South Wales,BCS South Wales,2015,1.0
+1192,1192,SQL Cardiff,BCS South Wales,2015,0.01098901098901099
+1193,1193,PyDiff,BCS South Wales,2015,0.0
+1194,1194,South Wales Technology Council,SQL Cardiff,2015,0.011904761904761904
+1195,1195,DevOps Cardiff,SQL Cardiff,2015,0.02259887005649717
+1196,1196,CaRdiff - the Cardiff R User Group,SQL Cardiff,2015,0.08800000000000001
+1197,1197,Cardiff Tech Talk,SQL Cardiff,2015,0.05586592178770949
+1198,1198,Open Data Wales Meetup,SQL Cardiff,2015,0.0
+1199,1199,JS Wales,SQL Cardiff,2015,0.0
+1200,1200,Swansea Software Development Community,SQL Cardiff,2015,0.0
+1201,1201,Swansea Tech Talk,SQL Cardiff,2015,0.011299435028248588
+1202,1202,Test and QA Wales Meetup,SQL Cardiff,2015,0.0
+1203,1203,diff.NET,SQL Cardiff,2015,0.09302325581395347
+1204,1204,South Wales Agile Group,SQL Cardiff,2015,0.040816326530612235
+1205,1205,North Wales Technology,SQL Cardiff,2015,0.0
+1206,1206,Meteor Cardiff,SQL Cardiff,2015,0.021052631578947368
+1207,1207,Cardiff Graph Databases Meetup,SQL Cardiff,2015,0.009615384615384616
+1208,1208,Llansadwrn Technite Meetup,SQL Cardiff,2015,0.0
+1209,1209,Websites 'n' Blogs,SQL Cardiff,2015,0.0
+1210,1210,BigData Wales,SQL Cardiff,2015,0.0
+1211,1211,unified.diff,SQL Cardiff,2015,0.01818181818181818
+1212,1212,BCS South Wales,SQL Cardiff,2015,0.01098901098901099
+1213,1213,SQL Cardiff,SQL Cardiff,2015,1.0
+1214,1214,PyDiff,SQL Cardiff,2015,0.0
+1215,1215,South Wales Technology Council,PyDiff,2015,0.0
+1216,1216,DevOps Cardiff,PyDiff,2015,0.01904761904761905
+1217,1217,CaRdiff - the Cardiff R User Group,PyDiff,2015,0.018867924528301886
+1218,1218,Cardiff Tech Talk,PyDiff,2015,0.018691588785046728
+1219,1219,Open Data Wales Meetup,PyDiff,2015,0.0
+1220,1220,JS Wales,PyDiff,2015,0.0
+1221,1221,Swansea Software Development Community,PyDiff,2015,0.0
+1222,1222,Swansea Tech Talk,PyDiff,2015,0.0
+1223,1223,Test and QA Wales Meetup,PyDiff,2015,0.0
+1224,1224,diff.NET,PyDiff,2015,0.0
+1225,1225,South Wales Agile Group,PyDiff,2015,0.008064516129032258
+1226,1226,North Wales Technology,PyDiff,2015,0.0
+1227,1227,Meteor Cardiff,PyDiff,2015,0.0
+1228,1228,Cardiff Graph Databases Meetup,PyDiff,2015,0.03125
+1229,1229,Llansadwrn Technite Meetup,PyDiff,2015,0.0
+1230,1230,Websites 'n' Blogs,PyDiff,2015,0.0
+1231,1231,BigData Wales,PyDiff,2015,0.0
+1232,1232,unified.diff,PyDiff,2015,0.053763440860215055
+1233,1233,BCS South Wales,PyDiff,2015,0.0
+1234,1234,SQL Cardiff,PyDiff,2015,0.0
+1235,1235,PyDiff,PyDiff,2015,1.0
